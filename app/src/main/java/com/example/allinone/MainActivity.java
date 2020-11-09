@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Intent i= new Intent(MainActivity.this, TimeDateActivity.class);
                 startActivity(i);
 
+
             }
         });
 
@@ -56,6 +57,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             public void onClick(View v) {
                 Intent i2= new Intent(MainActivity.this, UploadImages.class);
                 startActivity(i2);
+                /* This is a test to check on how to commit to GITHUB. */
             }
         });
 
