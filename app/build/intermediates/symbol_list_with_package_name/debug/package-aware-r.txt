@@ -1621,6 +1621,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edittext_border
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_baseline_music_note_24
@@ -1629,6 +1630,7 @@ drawable ic_gallery
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mic
+drawable ic_mic1
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -1894,6 +1896,7 @@ id ireset
 id italic
 id item_touch_helper_previous_elevation
 id iundo
+id iv_mic1
 id iwrite
 id jumpToEnd
 id jumpToStart
@@ -2099,6 +2102,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tv_observations
 id tv_textview
 id unchecked
 id uniform
@@ -2108,6 +2112,7 @@ id upload_images
 id useLogo
 id view_offset_helper
 id visible
+id voice2Text
 id wide
 id withText
 id withinBounds
@@ -2186,6 +2191,7 @@ layout activity_signature_view
 layout activity_time_date
 layout activity_upload_images
 layout activity_view_images
+layout activity_voice_to_text
 layout content_view_files
 layout custom_dialog
 layout custom_showfiles
@@ -2308,6 +2314,7 @@ string button_5
 string button_6
 string button_7
 string button_8
+string button_9
 string camera
 string character_counter_content_description
 string character_counter_overflowed_content_description
@@ -2385,6 +2392,8 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string permissions
 string search_menu_title
+string speech_not_supported
+string speech_prompt
 string status_bar_notification_info_overflow
 string storage
 string types_of_date_time

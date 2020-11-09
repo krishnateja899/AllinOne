@@ -33,7 +33,7 @@
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:layout_marginStart="20dp"
-            android:src="@drawable/ic_mic"
+            android:src="@drawable/ic_mic1"
             android:layout_marginLeft="20dp" />
     </LinearLayout>
 

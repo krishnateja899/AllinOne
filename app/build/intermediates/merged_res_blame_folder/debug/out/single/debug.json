@@ -4,20 +4,20 @@
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_music_note_24.png.flat",
-        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_music_note_24.png"
-    },
-    {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_permissions.xml.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_permissions.xml"
     },
     {
-        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_music_note_24.png.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_music_note_24.png"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_music_note_24.png.flat",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
-        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_camera.png"
-    },
-    {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_paint_palette_and_brush.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_paint_palette_and_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_camera.png"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_undo_button.png.flat",
@@ -52,16 +52,16 @@
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_undo_button.png"
     },
     {
-        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_images.xml.flat",
-        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_view_images.xml"
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mic.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mic.png"
     },
     {
-        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
-        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_images.xml.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_view_images.xml"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_paint_palette_and_brush.png.flat",
@@ -168,16 +168,16 @@
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_dele.png"
     },
     {
-        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_dele.png.flat",
-        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_dele.png"
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gallery.png.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gallery.png"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_dele.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_dele.png"
     },
     {
-        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gallery.png.flat",
-        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gallery.png"
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_dele.png.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_dele.png"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_canvas_view.xml.flat",
@@ -220,6 +220,10 @@
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_music_note_24.png"
     },
     {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic1.png.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\drawable\\ic_mic1.png"
+    },
+    {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_dele.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_dele.png"
     },
@@ -230,6 +234,10 @@
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mic.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_voice_to_text.xml.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_voice_to_text.xml"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_image.xml.flat",
@@ -398,5 +406,9 @@
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_paint_palette_and_brush.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_paint_palette_and_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\drawable\\edittext_border.xml"
     }
 ]

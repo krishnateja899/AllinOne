@@ -8,6 +8,8 @@
     <string name="button_6">Permissions</string>
     <string name="button_7">Camera_Gallery Paths</string>
     <string name="button_8">Signature View</string>
+    <string name="button_9">Voice to Text</string>
+
 
     <string name="types_of_date_time">Types of Date and Time</string>
     <string name="types_of_dialogs">Types of Dialogs</string>
@@ -19,6 +21,9 @@
     <string name="all_permissions">All Permissions</string>
     <string name="gps_location">Cont. GPS Location </string>
     <string name="GPS_update_text">GPS will update continuously at given interval which can also be changed.</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
 
 
 </resources>

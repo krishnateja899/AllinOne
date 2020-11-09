@@ -12,13 +12,14 @@ import com.example.allinone.Activities.DialogActivity;
 import com.example.allinone.Activities.PermissionsActivity;
 import com.example.allinone.Activities.SignatureView;
 import com.example.allinone.Activities.TimeDateActivity;
+import com.example.allinone.Activities.VoiceToText;
 import com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity;
 import com.example.allinone.UploadImageClasses.UploadImages;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button timeDateBtn, dialogBtn, uploadImages;
     private Button permissions, gps_location_update;
-    private Button camera_galleryPath_save, signatureView;
+    private Button camera_galleryPath_save, signatureView, voice2Text;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,15 +33,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         gps_location_update=findViewById(R.id.gps_location_update);
         camera_galleryPath_save=findViewById(R.id.camera_galleryPath_save);
         signatureView=findViewById(R.id.signatureView);
+        voice2Text=findViewById(R.id.voice2Text);
+
         signatureView.setOnClickListener(this);
+        voice2Text.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent i= new Intent(MainActivity.this, TimeDateActivity.class);
                 startActivity(i);
-
-
             }
         });
 
@@ -92,8 +94,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.signatureView:
                 Intent i6= new Intent(MainActivity.this, SignatureView.class);
                 startActivity(i6);
-            break;
+                break;
 
+            case R.id.voice2Text:
+                Intent i7= new Intent(MainActivity.this, VoiceToText.class);
+                startActivity(i7);
+                break;
         }
 
     }

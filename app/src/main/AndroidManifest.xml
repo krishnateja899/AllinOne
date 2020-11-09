@@ -19,7 +19,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AllinOne">
-        <activity android:name=".Activities.SignatureView"></activity>
+        <activity android:name=".Activities.VoiceToText"></activity>
+        <activity android:name=".Activities.SignatureView" />
         <activity android:name=".CameraGalleryPaths.CameraGalleryPathSaveActivity" />
         <activity android:name=".Activities.ContinuousGPSUpdate" />
         <activity android:name=".Activities.PermissionsActivity" />

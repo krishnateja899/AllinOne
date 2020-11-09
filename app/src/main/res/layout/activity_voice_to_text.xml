@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:layout_marginTop="10dp"
+    tools:context=".Activities.VoiceToText">
+
+    <EditText
+        android:id="@+id/tv_observations"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:layout_weight="0.8"
+        android:background="@drawable/edittext_border"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:hint="Reason"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:lines="8"
+        android:minLines="6"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/iv_mic1"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_weight="0.2"
+        android:src="@drawable/ic_mic1" />
+
+
+
+</LinearLayout>
