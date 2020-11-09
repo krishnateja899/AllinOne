@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AllinOne</string>
+    <string name="button_1">Time/Date</string>
+    <string name="button_2">Dialogs</string>
+    <string name="button_3">Dialog 1</string>
+    <string name="button_4">Dialog 2</string>
+    <string name="button_5">Dialog 3</string>
+    <string name="button_6">Permissions</string>
+    <string name="button_7">Camera_Gallery Paths</string>
+    <string name="button_8">Signature View</string>
+
+    <string name="types_of_date_time">Types of Date and Time</string>
+    <string name="types_of_dialogs">Types of Dialogs</string>
+    <string name="upload_images">Uploads</string>
+    <string name="permissions">Permissions</string>
+    <string name="camera">Camera</string>
+    <string name="storage">Storage Read/Write</string>
+    <string name="location">Locations</string>
+    <string name="all_permissions">All Permissions</string>
+    <string name="gps_location">Cont. GPS Location </string>
+    <string name="GPS_update_text">GPS will update continuously at given interval which can also be changed.</string>
+
+
+</resources>

@@ -1,0 +1,78 @@
+com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.java
+ com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity
+ com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity$1
+ com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity$2
+com/example/allinone/UploadImageClasses/CanvasViewActivity.java
+ com.example.allinone.UploadImageClasses.CanvasViewActivity
+ com.example.allinone.UploadImageClasses.CanvasViewActivity$1
+ com.example.allinone.UploadImageClasses.CanvasViewActivity$2
+com/example/allinone/UploadImageClasses/RecyclerViewWithEmptyViewSupport.java
+ com.example.allinone.UploadImageClasses.RecyclerViewWithEmptyViewSupport
+ com.example.allinone.UploadImageClasses.RecyclerViewWithEmptyViewSupport$1
+com/example/allinone/UploadImageClasses/SpareImages.java
+ com.example.allinone.UploadImageClasses.SpareImages
+ com.example.allinone.UploadImageClasses.SpareImages$1
+com/example/allinone/Activities/DialogActivity.java
+ com.example.allinone.Activities.DialogActivity
+ com.example.allinone.Activities.DialogActivity$1
+ com.example.allinone.Activities.DialogActivity$2
+ com.example.allinone.Activities.DialogActivity$3
+ com.example.allinone.Activities.DialogActivity$4
+ com.example.allinone.Activities.DialogActivity$5
+ com.example.allinone.Activities.DialogActivity$6
+com/example/allinone/UploadImageClasses/UploadImages.java
+ com.example.allinone.UploadImageClasses.UploadImages
+ com.example.allinone.UploadImageClasses.UploadImages$1
+ com.example.allinone.UploadImageClasses.UploadImages$2
+ com.example.allinone.UploadImageClasses.UploadImages$3
+ com.example.allinone.UploadImageClasses.UploadImages$4
+ com.example.allinone.UploadImageClasses.UploadImages$FileCounter
+com/example/allinone/Activities/SignatureView.java
+ com.example.allinone.Activities.SignatureView
+ com.example.allinone.Activities.SignatureView$1
+ com.example.allinone.Activities.SignatureView$2
+com/example/allinone/UploadImageClasses/CanvasView.java
+ com.example.allinone.UploadImageClasses.CanvasView
+com/example/allinone/UploadImageClasses/ViewImagesAdapter.java
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$1
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$2
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$3
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$4
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$5
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$6
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$7
+ com.example.allinone.UploadImageClasses.ViewImagesAdapter$Holder
+com/example/allinone/UploadImageClasses/RepairsImageDao.java
+ com.example.allinone.UploadImageClasses.RepairsImageDao
+com/example/allinone/Activities/PermissionsActivity.java
+ com.example.allinone.Activities.PermissionsActivity
+ com.example.allinone.Activities.PermissionsActivity$1
+ com.example.allinone.Activities.PermissionsActivity$2
+ com.example.allinone.Activities.PermissionsActivity$3
+ com.example.allinone.Activities.PermissionsActivity$4
+ com.example.allinone.Activities.PermissionsActivity$5
+ com.example.allinone.Activities.PermissionsActivity$6
+ com.example.allinone.Activities.PermissionsActivity$7
+ com.example.allinone.Activities.PermissionsActivity$8
+com/example/allinone/Activities/TimeDateActivity.java
+ com.example.allinone.Activities.TimeDateActivity
+com/example/allinone/CameraGalleryPaths/ImageFilePath.java
+ com.example.allinone.CameraGalleryPaths.ImageFilePath
+com/example/allinone/UploadImageClasses/DisplayImage.java
+ com.example.allinone.UploadImageClasses.DisplayImage
+ com.example.allinone.UploadImageClasses.DisplayImage$1
+com/example/allinone/UploadImageClasses/ViewImagesActivity.java
+ com.example.allinone.UploadImageClasses.ViewImagesActivity
+com/example/allinone/BuildConfig.java
+ com.example.allinone.BuildConfig
+com/example/allinone/Activities/ContinuousGPSUpdate.java
+ com.example.allinone.Activities.ContinuousGPSUpdate
+com/example/allinone/MainActivity.java
+ com.example.allinone.MainActivity
+ com.example.allinone.MainActivity$1
+ com.example.allinone.MainActivity$2
+ com.example.allinone.MainActivity$3
+ com.example.allinone.MainActivity$4
+ com.example.allinone.MainActivity$5
+ com.example.allinone.MainActivity$6
