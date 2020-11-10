@@ -9,6 +9,7 @@
     <string name="button_7">Camera_Gallery Paths</string>
     <string name="button_8">Signature View</string>
     <string name="button_9">Voice to Text</string>
+    <string name="button_10">Messaging-Socket</string>
 
 
     <string name="types_of_date_time">Types of Date and Time</string>
@@ -23,7 +24,8 @@
     <string name="GPS_update_text">GPS will update continuously at given interval which can also be changed.</string>
     <string name="speech_prompt">Say something&#8230;</string>
     <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
-
+    <string name="messaging">Enter your nickname !</string>
+    <string name="messaging1">Go to chat</string>
 
 
 </resources>

@@ -14,12 +14,13 @@ import com.example.allinone.Activities.SignatureView;
 import com.example.allinone.Activities.TimeDateActivity;
 import com.example.allinone.Activities.VoiceToText;
 import com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity;
+import com.example.allinone.Messaging_Socket.MessagingActivity;
 import com.example.allinone.UploadImageClasses.UploadImages;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button timeDateBtn, dialogBtn, uploadImages;
     private Button permissions, gps_location_update;
-    private Button camera_galleryPath_save, signatureView, voice2Text;
+    private Button camera_galleryPath_save, signatureView, voice2Text, messaging_socket;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,9 +35,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         camera_galleryPath_save=findViewById(R.id.camera_galleryPath_save);
         signatureView=findViewById(R.id.signatureView);
         voice2Text=findViewById(R.id.voice2Text);
+        messaging_socket=findViewById(R.id.messaging_socket);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
+        messaging_socket.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -100,6 +103,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Intent i7= new Intent(MainActivity.this, VoiceToText.class);
                 startActivity(i7);
                 break;
+
+            case R.id.messaging_socket:
+                Intent i8= new Intent(MainActivity.this, MessagingActivity.class);
+                startActivity(i8);
+                break;
+
         }
 
     }

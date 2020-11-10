@@ -1,0 +1,435 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1604906169156)
++++ .idea/vcs.xml	(date 1604906169156)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AndroidLayouts\">\r\n    <shared>\r\n      <config />\r\n    </shared>\r\n  </component>\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"NONE\" />\r\n  </component>\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"41359246-07cf-46a9-a912-624bb5522e37\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CodeInsightWorkspaceSettings\">\r\n    <option name=\"optimizeImportsOnTheFly\" value=\"true\" />\r\n  </component>\r\n  <component name=\"ExecutionTargetManager\" SELECTED_TARGET=\"device_and_snapshot_combo_box_target[Pixel_3_API_30]\" />\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand />\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"valueResourceFile\" />\r\n        <option value=\"Class\" />\r\n        <option value=\"layoutResourceFile\" />\r\n        <option value=\"resourceFile\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1jPo4apysS4paGtJ9Tz5F7tq1Wk\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/CanvasView.java_SELECTED\" value=\"CanvasView\" />\r\n    <property name=\"android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/RecyclerViewWithEmptyViewSupport.java_SELECTED\" value=\"RecyclerViewWithEmptyViewSupport\" />\r\n    <property name=\"android-custom-viewC:/Users/Krishna Teja/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED\" value=\"View\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/CanvasView.java_selected\" value=\"Custom views\" />\r\n    <property name=\"multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/RecyclerViewWithEmptyViewSupport.java_selected\" value=\"Custom views\" />\r\n    <property name=\"multi-representation-previewC:/Users/Krishna Teja/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected\" value=\"Custom views\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"android.template.283558970\">\r\n      <recent name=\"com.example.allinone.Activities\" />\r\n    </key>\r\n    <key name=\"android.template.882702853\">\r\n      <recent name=\"com.example.allinone.Activities\" />\r\n    </key>\r\n    <key name=\"android.template.1234453791\">\r\n      <recent name=\"com.example.allinone.Activities\" />\r\n    </key>\r\n    <key name=\"android.template.-2013637477\">\r\n      <recent name=\"com.example.allinone.CameraGalleryPaths\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"com.example.allinone.CameraGalleryPaths\" />\r\n    </key>\r\n    <key name=\"android.template.1361464595\">\r\n      <recent name=\"com.example.allinone.Activities\" />\r\n    </key>\r\n    <key name=\"android.template.787825096\">\r\n      <recent name=\"com.example.allinone.UploadImageClasses\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"AndroidJUnit\" factoryName=\"Android JUnit\">\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$MODULE_DIR$\" />\r\n      <method v=\"2\">\r\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"app\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\" activateToolWindowBeforeRun=\"false\">\r\n      <module name=\"AllinOne.app\" />\r\n      <option name=\"DEPLOY\" value=\"true\" />\r\n      <option name=\"DEPLOY_APK_FROM_BUNDLE\" value=\"false\" />\r\n      <option name=\"DEPLOY_AS_INSTANT\" value=\"false\" />\r\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\r\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\r\n      <option name=\"ALL_USERS\" value=\"false\" />\r\n      <option name=\"DYNAMIC_FEATURES_DISABLED_LIST\" value=\"\" />\r\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\r\n      <option name=\"MODE\" value=\"default_activity\" />\r\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\r\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\r\n      <option name=\"SKIP_NOOP_APK_INSTALLATIONS\" value=\"true\" />\r\n      <option name=\"FORCE_STOP_RUNNING_APP\" value=\"true\" />\r\n      <option name=\"TARGET_SELECTION_MODE\" value=\"DEVICE_AND_SNAPSHOT_COMBO_BOX\" />\r\n      <option name=\"SELECTED_CLOUD_MATRIX_CONFIGURATION_ID\" value=\"-1\" />\r\n      <option name=\"SELECTED_CLOUD_MATRIX_PROJECT_ID\" value=\"\" />\r\n      <option name=\"DEBUGGER_TYPE\" value=\"Auto\" />\r\n      <Auto>\r\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\r\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\r\n        <option name=\"WORKING_DIR\" value=\"\" />\r\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\r\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\r\n      </Auto>\r\n      <Hybrid>\r\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\r\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\r\n        <option name=\"WORKING_DIR\" value=\"\" />\r\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\r\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\r\n      </Hybrid>\r\n      <Java />\r\n      <Native>\r\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\r\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\r\n        <option name=\"WORKING_DIR\" value=\"\" />\r\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\r\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\r\n      </Native>\r\n      <Profilers>\r\n        <option name=\"ADVANCED_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"STARTUP_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"STARTUP_CPU_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"STARTUP_CPU_PROFILING_CONFIGURATION_NAME\" value=\"Sample Java Methods\" />\r\n        <option name=\"STARTUP_NATIVE_MEMORY_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"NATIVE_MEMORY_SAMPLE_RATE_BYTES\" value=\"2048\" />\r\n      </Profilers>\r\n      <option name=\"DEEP_LINK\" value=\"\" />\r\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\r\n      <option name=\"SEARCH_ACTIVITY_IN_GLOBAL_SCOPE\" value=\"false\" />\r\n      <option name=\"SKIP_ACTIVITY_VALIDATION\" value=\"false\" />\r\n      <method v=\"2\">\r\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"41359246-07cf-46a9-a912-624bb5522e37\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1603714897548</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1603714897548</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"New Commit\">\r\n      <created>1604903979319</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1604903979319</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"AllinOne\">\r\n      <created>1604904656923</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1604904656923</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"1\">\r\n          <value>\r\n            <State>\r\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"roots\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"$PROJECT_DIR$\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"1\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"New Commit\" />\r\n    <MESSAGE value=\"AllinOne\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"AllinOne\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"2408\" y=\"70\" key=\"#com.intellij.ide.util.MemberChooser\" timestamp=\"1604726304111\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2408\" y=\"70\" key=\"#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604726304111\" />\r\n    <state x=\"2333\" y=\"111\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog\" timestamp=\"1604133043810\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2333\" y=\"111\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604133043810\" />\r\n    <state x=\"2019\" y=\"100\" width=\"1169\" height=\"530\" key=\"AVDManager\" timestamp=\"1604301088296\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2019\" y=\"100\" width=\"1169\" height=\"530\" key=\"AVDManager/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604301088296\" />\r\n    <state x=\"93\" y=\"93\" width=\"1095\" height=\"495\" key=\"AVDManager/0.0.1280.680@0.0.1280.680\" timestamp=\"1603965027693\" />\r\n    <state x=\"221\" y=\"96\" key=\"AndroidCreateResourceFileDialog\" timestamp=\"1604138054067\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"221\" y=\"96\" key=\"AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680\" timestamp=\"1604138054067\" />\r\n    <state x=\"221\" y=\"96\" key=\"AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680\" timestamp=\"1603964618831\" />\r\n    <state x=\"2447\" y=\"154\" key=\"AndroidCreateXmlResourceDialog\" timestamp=\"1604298797366\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2447\" y=\"154\" key=\"AndroidCreateXmlResourceDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604298797366\" />\r\n    <state x=\"2214\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1604904656071\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2214\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604904656071\" />\r\n    <state x=\"422\" y=\"96\" key=\"FileChooserDialogImpl\" timestamp=\"1604384749569\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"2370\" y=\"103\" key=\"FileChooserDialogImpl/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604133362397\" />\r\n    <state x=\"422\" y=\"96\" key=\"FileChooserDialogImpl/0.0.1280.680@0.0.1280.680\" timestamp=\"1604384749569\" />\r\n    <state x=\"2481\" y=\"262\" key=\"Github.ShareDialog\" timestamp=\"1604903478888\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2481\" y=\"262\" key=\"Github.ShareDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604903478888\" />\r\n    <state x=\"2331\" y=\"62\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1604903505660\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2331\" y=\"62\" key=\"Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604903505660\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1604905913617\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state width=\"1236\" height=\"144\" key=\"GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@0.0.1280.680\" timestamp=\"1604667997935\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604905913617\" />\r\n    <state width=\"1236\" height=\"161\" key=\"GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680\" timestamp=\"1604397567195\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.center\" timestamp=\"1604905913616\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state width=\"1236\" height=\"144\" key=\"GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@0.0.1280.680\" timestamp=\"1604667997935\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604905913616\" />\r\n    <state width=\"1236\" height=\"161\" key=\"GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680\" timestamp=\"1604397567195\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.left\" timestamp=\"1604905913615\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state width=\"1236\" height=\"144\" key=\"GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@0.0.1280.680\" timestamp=\"1604667997935\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604905913615\" />\r\n    <state width=\"1236\" height=\"161\" key=\"GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680\" timestamp=\"1604397567195\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.right\" timestamp=\"1604905913616\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state width=\"1236\" height=\"144\" key=\"GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@0.0.1280.680\" timestamp=\"1604667997935\" />\r\n    <state width=\"1322\" height=\"158\" key=\"GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604905913616\" />\r\n    <state width=\"1236\" height=\"161\" key=\"GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680\" timestamp=\"1604397567195\" />\r\n    <state x=\"2104\" y=\"9\" key=\"SettingsEditor\" timestamp=\"1604906015088\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2104\" y=\"9\" key=\"SettingsEditor/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604906015088\" />\r\n    <state x=\"2195\" y=\"97\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1604904754344\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2195\" y=\"97\" key=\"Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604904754344\" />\r\n    <state x=\"2237\" y=\"0\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser\" timestamp=\"1604293099743\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2237\" y=\"0\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604293099743\" />\r\n    <state x=\"2412\" y=\"278\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1604904945751\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2412\" y=\"278\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604904945751\" />\r\n    <state x=\"2259\" y=\"162\" width=\"672\" height=\"677\" key=\"run.anything.popup\" timestamp=\"1604297406447\">\r\n      <screen x=\"1920\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"2259\" y=\"162\" width=\"672\" height=\"677\" key=\"run.anything.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728\" timestamp=\"1604297406447\" />\r\n    <state x=\"303\" y=\"1\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1603951266158\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"303\" y=\"1\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1280.680@0.0.1280.680\" timestamp=\"1603951266158\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision d6566cda596099e6d89e4988ce6ad636d5057e54)
++++ .idea/workspace.xml	(date 1604914194916)
+@@ -14,20 +14,205 @@
+         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+       </path>
+-      <path>
+-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-      </path>
+-      <path>
+-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+-      </path>
+     </expand>
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="41359246-07cf-46a9-a912-624bb5522e37" name="Default Changelist" comment="" />
++    <list default="true" id="41359246-07cf-46a9-a912-624bb5522e37" name="Default Changelist" comment="AllinOne">
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/Activities/VoiceToText.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_voice_to_text.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/ContinuousGPSUpdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/ContinuousGPSUpdate.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/PermissionsActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/PermissionsActivity.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/SignatureView.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/SignatureView.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/TimeDateActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/TimeDateActivity.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$1.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$2.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$3.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$4.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$5.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$6.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/CanvasViewActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/CanvasViewActivity.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/UploadImages.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/UploadImages.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImagesActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImagesActivity.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImagesAdapter$Holder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImagesAdapter$Holder.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImagesAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImagesAdapter.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/7029c1deb3629fddfb9abf89f8eefc050474b89279131a39abee992b4a7fdf8f_0.jar" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/7029c1deb3629fddfb9abf89f8eefc050474b89279131a39abee992b4a7fdf8f_1.jar" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/7029c1deb3629fddfb9abf89f8eefc050474b89279131a39abee992b4a7fdf8f_2.jar" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/7029c1deb3629fddfb9abf89f8eefc050474b89279131a39abee992b4a7fdf8f_3.jar" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/ContinuousGPSUpdate.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/ContinuousGPSUpdate.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/PermissionsActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/PermissionsActivity.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/SignatureView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/SignatureView.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/TimeDateActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/TimeDateActivity.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$1.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$2.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$3.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$4.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$5.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$6.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/CanvasViewActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/CanvasViewActivity.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/UploadImages.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/UploadImages.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesActivity.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter$Holder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter$Holder.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter.dex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_upload_images.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_upload_images.xml.flat" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/MainActivity.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_upload_images.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_upload_images.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -68,7 +253,9 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1jPo4apysS4paGtJ9Tz5F7tq1Wk" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="1" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -76,17 +263,21 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/CanvasView.java_SELECTED" value="CanvasView" />
+     <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/RecyclerViewWithEmptyViewSupport.java_SELECTED" value="RecyclerViewWithEmptyViewSupport" />
+     <property name="android-custom-viewC:/Users/Krishna Teja/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+     <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/CanvasView.java_selected" value="Custom views" />
+     <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/RecyclerViewWithEmptyViewSupport.java_selected" value="Custom views" />
+     <property name="multi-representation-previewC:/Users/Krishna Teja/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
++    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+   </component>
+   <component name="RecentsManager">
+     <key name="android.template.283558970">
++      <recent name="com.example.allinone.Activities" />
++    </key>
++    <key name="android.template.175079884">
+       <recent name="com.example.allinone.Activities" />
+     </key>
+     <key name="android.template.882702853">
+@@ -101,6 +292,9 @@
+     <key name="CopyClassDialog.RECENTS_KEY">
+       <recent name="com.example.allinone.CameraGalleryPaths" />
+     </key>
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\res\drawable" />
++    </key>
+     <key name="android.template.1361464595">
+       <recent name="com.example.allinone.Activities" />
+     </key>
+@@ -199,9 +393,33 @@
+       <option name="project" value="LOCAL" />
+       <updated>1604904656923</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="AllinOne">
++      <created>1604906221164</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1604906221164</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Test">
++      <created>1604906972915</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1604906972915</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.History.Properties">
++    <option name="COLUMN_ORDER">
++      <list>
++        <option value="0" />
++        <option value="2" />
++        <option value="3" />
++        <option value="1" />
++      </list>
++    </option>
++  </component>
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+       <map>
+@@ -250,7 +468,8 @@
+     </ignored-roots>
+     <MESSAGE value="New Commit" />
+     <MESSAGE value="AllinOne" />
+-    <option name="LAST_COMMIT_MESSAGE" value="AllinOne" />
++    <MESSAGE value="Test" />
++    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="2408" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1604726304111">
+@@ -266,19 +485,24 @@
+     </state>
+     <state x="2019" y="100" width="1169" height="530" key="AVDManager/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604301088296" />
+     <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1603965027693" />
+-    <state x="221" y="96" key="AndroidCreateResourceFileDialog" timestamp="1604138054067">
+-      <screen x="0" y="0" width="1280" height="680" />
++    <state x="2156" y="103" key="AndroidCreateResourceFileDialog" timestamp="1604913284799">
++      <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1604138054067" />
++    <state x="2156" y="103" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604913284799" />
+     <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1603964618831" />
+     <state x="2447" y="154" key="AndroidCreateXmlResourceDialog" timestamp="1604298797366">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state x="2447" y="154" key="AndroidCreateXmlResourceDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604298797366" />
+-    <state x="2214" y="0" key="CommitChangelistDialog2" timestamp="1604904656071">
++    <state x="2214" y="0" key="CommitChangelistDialog2" timestamp="1604906971966">
++      <screen x="1920" y="0" width="1366" height="728" />
++    </state>
++    <state x="2214" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604906971966" />
++    <state x="2083" y="74" width="1024" height="572" key="DiffContextDialog" timestamp="1604907551323">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+-    <state x="2214" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604904656071" />
++    <state x="2083" y="74" width="1024" height="572" key="DiffContextDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604907551323" />
+     <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1604384749569">
+       <screen x="0" y="0" width="1280" height="680" />
+     </state>
+@@ -292,53 +516,58 @@
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state x="2331" y="62" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604903505660" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.bottom" timestamp="1604905913617">
++    <state width="1322" height="158" key="GridCell.Tab.0.bottom" timestamp="1604914171262">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state width="1236" height="144" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1604667997935" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604905913617" />
++    <state width="1322" height="158" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604914171262" />
+     <state width="1236" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604397567195" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.center" timestamp="1604905913616">
++    <state width="1322" height="158" key="GridCell.Tab.0.center" timestamp="1604914171262">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state width="1236" height="144" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1604667997935" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604905913616" />
++    <state width="1322" height="158" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604914171262" />
+     <state width="1236" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604397567195" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.left" timestamp="1604905913615">
++    <state width="1322" height="158" key="GridCell.Tab.0.left" timestamp="1604914171261">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state width="1236" height="144" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1604667997935" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604905913615" />
++    <state width="1322" height="158" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604914171261" />
+     <state width="1236" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604397567195" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.right" timestamp="1604905913616">
++    <state width="1322" height="158" key="GridCell.Tab.0.right" timestamp="1604914171262">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state width="1236" height="144" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1604667997935" />
+-    <state width="1322" height="158" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604905913616" />
++    <state width="1322" height="158" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604914171262" />
+     <state width="1236" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604397567195" />
+-    <state x="2104" y="9" key="SettingsEditor" timestamp="1604906015088">
++    <state x="2104" y="9" key="SettingsEditor" timestamp="1604913147550">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+-    <state x="2104" y="9" key="SettingsEditor/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604906015088" />
+-    <state x="2195" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604904754344">
++    <state x="2104" y="9" key="SettingsEditor/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604913147550" />
++    <state x="2195" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604907242764">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+-    <state x="2195" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604904754344" />
++    <state x="2195" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604907242764" />
+     <state x="2237" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604293099743">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state x="2237" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604293099743" />
+-    <state x="2412" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604904945751">
++    <state x="2412" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604907528816">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+-    <state x="2412" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604904945751" />
++    <state x="2412" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604907528816" />
++    <state x="2326" y="152" key="git4idea.merge.GitPullDialog" timestamp="1604907504312">
++      <screen x="1920" y="0" width="1366" height="728" />
++    </state>
++    <state x="2326" y="152" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604907504312" />
+     <state x="2259" y="162" width="672" height="677" key="run.anything.popup" timestamp="1604297406447">
+       <screen x="1920" y="0" width="1366" height="728" />
+     </state>
+     <state x="2259" y="162" width="672" height="677" key="run.anything.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604297406447" />
+-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603951266158">
+-      <screen x="0" y="0" width="1280" height="680" />
++    <state x="2243" y="1" width="718" height="726" key="search.everywhere.popup" timestamp="1604913623789">
++      <screen x="1920" y="0" width="1366" height="728" />
+     </state>
++    <state x="2243" y="1" width="718" height="726" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604913623789" />
+     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603951266158" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -17,9 +17,12 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
+        android:usesCleartextTraffic="true"
         android:supportsRtl="true"
         android:theme="@style/Theme.AllinOne">
-        <activity android:name=".Activities.VoiceToText"></activity>
+        <activity android:name=".Messaging_Socket.ChatBoxActivity"></activity>
+        <activity android:name=".Messaging_Socket.MessagingActivity" />
+        <activity android:name=".Activities.VoiceToText" />
         <activity android:name=".Activities.SignatureView" />
         <activity android:name=".CameraGalleryPaths.CameraGalleryPathSaveActivity" />
         <activity android:name=".Activities.ContinuousGPSUpdate" />
