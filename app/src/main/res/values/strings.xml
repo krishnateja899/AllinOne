@@ -26,6 +26,7 @@
     <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
     <string name="messaging">Enter your nickname !</string>
     <string name="messaging1">Go to chat</string>
+    <string name="call_permission">Call</string>
 
 
 </resources>

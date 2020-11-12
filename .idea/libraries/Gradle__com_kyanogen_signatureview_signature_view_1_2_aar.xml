@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.kyanogen.signatureview:signature-view:1.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6b5675a60c7010790e5c8f0d0cccd71/jetified-signature-view-1.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6b5675a60c7010790e5c8f0d0cccd71/jetified-signature-view-1.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6b5675a60c7010790e5c8f0d0cccd71/jetified-signature-view-1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da719bcdd788702d3fbcf0d6618f8b20/jetified-signature-view-1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da719bcdd788702d3fbcf0d6618f8b20/jetified-signature-view-1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da719bcdd788702d3fbcf0d6618f8b20/jetified-signature-view-1.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kyanogen.signatureview/signature-view/1.2/97eb81f211834fd3b8a1aa8b957cad0139d194d/signature-view-1.2-javadoc.jar!/" />

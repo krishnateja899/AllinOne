@@ -31,7 +31,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.AllinOne" >
+        android:theme="@style/Theme.AllinOne"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.allinone.Messaging_Socket.ChatBoxActivity" />
+        <activity android:name="com.example.allinone.Messaging_Socket.MessagingActivity" />
         <activity android:name="com.example.allinone.Activities.VoiceToText" />
         <activity android:name="com.example.allinone.Activities.SignatureView" />
         <activity android:name="com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity" />
