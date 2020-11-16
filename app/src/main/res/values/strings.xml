@@ -10,6 +10,7 @@
     <string name="button_8">Signature View</string>
     <string name="button_9">Voice to Text</string>
     <string name="button_10">Messaging-Socket</string>
+    <string name="button_11">GPS Turn-ON</string>
 
 
     <string name="types_of_date_time">Types of Date and Time</string>

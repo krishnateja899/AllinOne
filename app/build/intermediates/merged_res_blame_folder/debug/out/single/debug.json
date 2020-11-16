@@ -444,6 +444,10 @@
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mic.png"
     },
     {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_g_p_s_turn_o_n.xml.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_g_p_s_turn_o_n.xml"
+    },
+    {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_red_btn.xml.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\drawable\\rounded_red_btn.xml"
     },

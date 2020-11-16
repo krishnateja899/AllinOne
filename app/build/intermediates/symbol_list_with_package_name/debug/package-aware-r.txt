@@ -1772,6 +1772,8 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnContinueLocation
+id btnLocation
 id buttonPanel
 id cache_measures
 id call_permission
@@ -1874,6 +1876,7 @@ id ghost_view
 id ghost_view_holder
 id gone
 id gps_location_update
+id gps_turnON
 id gpsturnON
 id graph
 id graph_wrap
@@ -2117,6 +2120,8 @@ id transition_transform
 id triangle
 id tv_observations
 id tv_textview
+id txtContinueLocation
+id txtLocation
 id unchecked
 id uniform
 id unlabeled
@@ -2199,6 +2204,7 @@ layout activity_chat_box
 layout activity_continuous_g_p_s_update
 layout activity_dialog
 layout activity_display_image
+layout activity_g_p_s_turn_o_n
 layout activity_main
 layout activity_messaging_one
 layout activity_permissions
@@ -2324,6 +2330,7 @@ string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string button_1
 string button_10
+string button_11
 string button_2
 string button_3
 string button_4

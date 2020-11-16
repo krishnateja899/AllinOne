@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.allinone.Activities.ContinuousGPSUpdate;
 import com.example.allinone.Activities.DialogActivity;
+import com.example.allinone.Activities.GPSTurnON;
 import com.example.allinone.Activities.PermissionsActivity;
 import com.example.allinone.Activities.SignatureView;
 import com.example.allinone.Activities.TimeDateActivity;
@@ -20,26 +21,28 @@ import com.example.allinone.UploadImageClasses.UploadImages;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button timeDateBtn, dialogBtn, uploadImages;
     private Button permissions, gps_location_update;
-    private Button camera_galleryPath_save, signatureView, voice2Text, messaging_socket;
+    private Button camera_galleryPath_save, signatureView, voice2Text, messaging_socket, gps_turnON;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        timeDateBtn=findViewById(R.id.time_btn);
-        dialogBtn=findViewById(R.id.dialog_btn);
-        uploadImages=findViewById(R.id.upload_images);
-        permissions=findViewById(R.id.permissions);
+        timeDateBtn = findViewById(R.id.time_btn);
+        dialogBtn = findViewById(R.id.dialog_btn);
+        uploadImages = findViewById(R.id.upload_images);
+        permissions = findViewById(R.id.permissions);
         gps_location_update=findViewById(R.id.gps_location_update);
         camera_galleryPath_save=findViewById(R.id.camera_galleryPath_save);
         signatureView=findViewById(R.id.signatureView);
         voice2Text=findViewById(R.id.voice2Text);
-        messaging_socket=findViewById(R.id.messaging_socket);
+        messaging_socket = findViewById(R.id.messaging_socket);
+        gps_turnON = findViewById(R.id.gps_turnON);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
         messaging_socket.setOnClickListener(this);
+        gps_turnON.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -100,15 +103,19 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
             case R.id.voice2Text:
-                Intent i7= new Intent(MainActivity.this, VoiceToText.class);
+                Intent i7 = new Intent(MainActivity.this, VoiceToText.class);
                 startActivity(i7);
                 break;
 
             case R.id.messaging_socket:
-                Intent i8= new Intent(MainActivity.this, MessagingActivity.class);
+                Intent i8 = new Intent(MainActivity.this, MessagingActivity.class);
                 startActivity(i8);
                 break;
 
+            case R.id.gps_turnON:
+                Intent i9 = new Intent(MainActivity.this, GPSTurnON.class);
+                startActivity(i9);
+                break;
         }
 
     }
