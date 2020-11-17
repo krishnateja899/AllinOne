@@ -82,6 +82,8 @@ public class SignatureView extends AppCompatActivity {
             fo.close();
 
             Log.d("TAG", "File Saved::--->" + f.getAbsolutePath());
+            Log.d("TAG", "File Name::--->" + f.getName());
+
 
             return f.getAbsolutePath();
         } catch (IOException e1) {

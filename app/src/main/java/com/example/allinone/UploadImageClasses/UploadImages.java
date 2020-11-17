@@ -24,6 +24,9 @@ import androidx.core.content.FileProvider;
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 import com.example.allinone.R;
+import com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity;
+import com.example.allinone.UploadImageClasses.ViewImageClasses.SpareImages;
+import com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity;
 import com.squareup.picasso.Picasso;
 
 import java.io.File;

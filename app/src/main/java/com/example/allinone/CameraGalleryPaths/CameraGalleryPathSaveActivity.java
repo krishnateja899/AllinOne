@@ -83,17 +83,17 @@ public class CameraGalleryPathSaveActivity extends AppCompatActivity {
         // Create an image file name
         String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
         String imageFileName = "JPEG_" + timeStamp + "_";
+        String fileName = "temp";
         File storageDir = getExternalFilesDir(Environment.DIRECTORY_PICTURES);
-        File image = File.createTempFile(
-                imageFileName,  /* prefix */
-                ".jpg",         /* suffix */
-                storageDir      /* directory */
-        );
+        File image = File.createTempFile(fileName, ".jpg");
 
         // Save a file: path for use with ACTION_VIEW intents
         currentPhotoPath = image.getAbsolutePath();
+        String a = image.getName();
 
-        Log.d("TAG", "createImageFile: "+currentPhotoPath);
+        Log.d("TAG", "createImageFile: " + currentPhotoPath);
+        Log.d("TAG", "createImageFile: " + a);
+
         return image;
     }
 

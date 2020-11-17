@@ -95,15 +95,15 @@
 45        <activity android:name="com.example.allinone.Activities.PermissionsActivity" />
 45-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:9-68
 45-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:19-65
-46        <activity android:name="com.example.allinone.UploadImageClasses.DisplayImage" />
-46-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:9-69
-46-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:19-66
-47        <activity android:name="com.example.allinone.UploadImageClasses.ViewImagesActivity" />
-47-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:9-75
-47-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:19-72
-48        <activity android:name="com.example.allinone.UploadImageClasses.CanvasViewActivity" />
-48-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:9-75
-48-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:19-72
+46        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage" />
+46-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:9-86
+46-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:19-83
+47        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity" />
+47-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:9-92
+47-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:19-89
+48        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity" />
+48-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:9-92
+48-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:19-89
 49        <activity android:name="com.example.allinone.Activities.DialogActivity" />
 49-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:9-63
 49-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:19-60
