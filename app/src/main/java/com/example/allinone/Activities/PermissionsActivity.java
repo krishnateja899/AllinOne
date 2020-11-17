@@ -1,7 +1,6 @@
 package com.example.allinone.Activities;
 
 import android.Manifest;
-import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -12,14 +11,12 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 import com.example.allinone.R;
-import com.google.android.gms.location.LocationSettingsStates;
 
 public class PermissionsActivity extends AppCompatActivity {
 
@@ -28,7 +25,6 @@ public class PermissionsActivity extends AppCompatActivity {
 
     private static final int MY_CAMERA_REQUEST_CODE = 100;
     private int STORAGE_PERMISSION_CODE = 1;
-    private static final int REQUESTCODE_TURNON_GPS = 11;
 
 
     @Override
@@ -191,28 +187,5 @@ public class PermissionsActivity extends AppCompatActivity {
             }
         }
     }
-
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        final LocationSettingsStates states = LocationSettingsStates.fromIntent(data);
-        switch (requestCode) {
-            case 191:
-                switch (resultCode) {
-                    case Activity.RESULT_OK:
-                        // All required changes were successfully made
-
-                        break;
-                    case Activity.RESULT_CANCELED:
-                        // The user was asked to change settings, but chose not to
-
-                        break;
-                    default:
-                        break;
-                }
-                break;
-        }
-    }
-
 
 }

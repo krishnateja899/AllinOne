@@ -1595,10 +1595,14 @@ drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
 drawable btn_checkbox_unchecked_to_checked_mtrl_animation
+drawable btn_crop_operator
+drawable btn_crop_pressed
 drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable camera_crop_height
+drawable camera_crop_width
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1640,10 +1644,13 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_paint_brush
 drawable ic_paint_palette_and_brush
+drawable ic_rotate_left
+drawable ic_rotate_right
 drawable ic_settings
 drawable ic_undo_button
 drawable icon_dele
 drawable icon_send
+drawable indicator_autocrop
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1676,9 +1683,11 @@ drawable notify_panel_notification_icon_bg
 drawable om_type_chat_background
 drawable rounded_blue_btn
 drawable rounded_red_btn
+drawable selector_crop_button
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable user_img
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1834,6 +1843,7 @@ id direct
 id disableHome
 id disablePostScroll
 id disableScroll
+id discard
 id display_img
 id dragDown
 id dragEnd
@@ -1899,6 +1909,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageCrop
 id imageView
 id image_view
 id info
@@ -2000,6 +2011,8 @@ id right
 id right_icon
 id right_side
 id rl
+id rotateLeft
+id rotateRight
 id rounded
 id row_index_key
 id satellite
@@ -2072,6 +2085,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id take_picture
 id terrain
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
@@ -2202,6 +2216,7 @@ layout activity_camera_gallery_path_save
 layout activity_canvas_view
 layout activity_chat_box
 layout activity_continuous_g_p_s_update
+layout activity_crop_image
 layout activity_dialog
 layout activity_display_image
 layout activity_g_p_s_turn_o_n
@@ -2214,6 +2229,7 @@ layout activity_upload_images
 layout activity_view_images
 layout activity_voice_to_text
 layout content_view_files
+layout crop_image_activity
 layout custom_dialog
 layout custom_showfiles
 layout design_bottom_navigation_item
@@ -2296,6 +2312,8 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+string Crop_image
+string Crop_image1
 string GPS_update_text
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -2331,6 +2349,7 @@ string bottom_sheet_behavior
 string button_1
 string button_10
 string button_11
+string button_12
 string button_2
 string button_3
 string button_4
@@ -2341,6 +2360,7 @@ string button_8
 string button_9
 string call_permission
 string camera
+string cancel
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -2412,12 +2432,17 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string no_storage_card
+string not_enough_space
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string permissions
+string preparing_card
+string save
+string saving_image
 string search_menu_title
 string speech_not_supported
 string speech_prompt
@@ -2653,6 +2678,7 @@ style Base_Widget_MaterialComponents_TextView
 style CardView
 style CardView_Dark
 style CardView_Light
+style CropButton
 style EmptyTheme
 style MaterialAlertDialog_MaterialComponents
 style MaterialAlertDialog_MaterialComponents_Body_Text

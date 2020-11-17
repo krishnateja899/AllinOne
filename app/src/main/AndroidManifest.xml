@@ -20,7 +20,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AllinOne"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Activities.GPSTurnON"></activity>
+        <activity android:name=".CropImage.CropClasses.CropImage"></activity>
+        <activity android:name=".CropImage.CropImageActivity" />
+        <activity android:name=".Activities.GPSTurnON" />
         <activity android:name=".Messaging_Socket.ChatBoxActivity" />
         <activity android:name=".Messaging_Socket.MessagingActivity" />
         <activity android:name=".Activities.VoiceToText" />

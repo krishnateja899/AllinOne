@@ -11,6 +11,7 @@
     <string name="button_9">Voice to Text</string>
     <string name="button_10">Messaging-Socket</string>
     <string name="button_11">GPS Turn-ON</string>
+    <string name="button_12">Image Crop</string>
 
 
     <string name="types_of_date_time">Types of Date and Time</string>
@@ -28,6 +29,14 @@
     <string name="messaging">Enter your nickname !</string>
     <string name="messaging1">Go to chat</string>
     <string name="call_permission">Call</string>
+    <string name="Crop_image">From Gallery</string>
+    <string name="Crop_image1">From Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="saving_image">Saving image</string>
+    <string name="preparing_card">Preparing card</string>
+    <string name="no_storage_card">No storage card</string>
+    <string name="not_enough_space">Not enough space</string>
 
 
 </resources>

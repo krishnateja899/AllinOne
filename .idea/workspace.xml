@@ -33,12 +33,27 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02_[Default_Changelist]/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-11-2020_15_02__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
@@ -119,7 +134,7 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter$Holder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter$Holder.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImagesAdapter.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_permissions.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_permissions.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_upload_images.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_upload_images.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
@@ -130,6 +145,7 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/Activities/PermissionsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/Activities/PermissionsActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_upload_images.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_upload_images.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,10 +177,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="valueResourceFile" />
-        <option value="resourceFile" />
         <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -183,10 +199,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/CropImage/CropClasses/CropImageView.java_SELECTED" value="CropImageView" />
+    <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/CropImage/CropClasses/ImageViewTouchBase.java_SELECTED" value="ImageViewTouchBase" />
     <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/CanvasView.java_SELECTED" value="CanvasView" />
     <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/RecyclerViewWithEmptyViewSupport.java_SELECTED" value="RecyclerViewWithEmptyViewSupport" />
     <property name="android-custom-viewC:/Users/Krishna Teja/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/example/allinone/CropImage" />
+    <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/CropImage/CropClasses/CropImageView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/CropImage/CropClasses/ImageViewTouchBase.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/CanvasView.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/RecyclerViewWithEmptyViewSupport.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/Krishna Teja/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
@@ -199,9 +219,6 @@
     <key name="android.template.283558970">
       <recent name="com.example.allinone.Activities" />
     </key>
-    <key name="android.template.175079884">
-      <recent name="com.example.allinone.Activities" />
-    </key>
     <key name="android.template.882702853">
       <recent name="com.example.allinone.Activities" />
     </key>
@@ -211,14 +228,22 @@
     <key name="android.template.-2053444470">
       <recent name="com.example.allinone.Messaging_Socket" />
     </key>
-    <key name="android.template.-2013637477">
-      <recent name="com.example.allinone.CameraGalleryPaths" />
+    <key name="android.template.852366678">
+      <recent name="com.example.allinone.CropImage.CropClasses" />
+      <recent name="com.example.allinone.CropImage" />
+    </key>
+    <key name="android.template.175079884">
+      <recent name="com.example.allinone.Activities" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\CropImage" />
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\res\drawable-v24" />
       <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\Messaging_Socket" />
       <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\Messaging_Socket\ServerForLocalHost" />
       <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\Fragments" />
-      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-2013637477">
+      <recent name="com.example.allinone.CameraGalleryPaths" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.allinone.CameraGalleryPaths" />
@@ -363,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605185765602</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="AllinOne9">
+      <created>1605515501913</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605515501913</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -428,7 +460,8 @@
     <MESSAGE value="AllinOne" />
     <MESSAGE value="AllinOne7" />
     <MESSAGE value="AllinOne8" />
-    <option name="LAST_COMMIT_MESSAGE" value="AllinOne8" />
+    <MESSAGE value="AllinOne9" />
+    <option name="LAST_COMMIT_MESSAGE" value="AllinOne9" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -445,25 +478,25 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2333" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604133043810" />
-    <state x="2019" y="100" width="1169" height="530" key="AVDManager" timestamp="1604982332633">
+    <state x="2019" y="100" width="1169" height="530" key="AVDManager" timestamp="1605588203270">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2019" y="100" width="1169" height="530" key="AVDManager/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604982332632" />
+    <state x="2019" y="100" width="1169" height="530" key="AVDManager/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605588203270" />
     <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1603965027693" />
-    <state x="2156" y="103" key="AndroidCreateResourceFileDialog" timestamp="1604981822076">
+    <state x="2156" y="103" key="AndroidCreateResourceFileDialog" timestamp="1605590876531">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1604138054067" />
-    <state x="2156" y="103" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604981822076" />
+    <state x="2156" y="103" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605590876531" />
     <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1603964618831" />
     <state x="2447" y="154" key="AndroidCreateXmlResourceDialog" timestamp="1604298797366">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2447" y="154" key="AndroidCreateXmlResourceDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604298797366" />
-    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1605185760217">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2214" y="0" key="CommitChangelistDialog2" timestamp="1605515497119">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2214" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604986122298" />
+    <state x="2214" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605515497119" />
     <state x="275" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1605185760217" />
     <state x="2083" y="74" width="1024" height="572" key="DiffContextDialog" timestamp="1604907551323">
       <screen x="1920" y="0" width="1366" height="728" />
@@ -510,10 +543,10 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2104" y="9" key="SettingsEditor/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604913147550" />
-    <state x="258" y="91" key="Vcs.Push.Dialog.v2" timestamp="1605185789602">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2195" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605515540618">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2195" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604986149444" />
+    <state x="2195" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605515540618" />
     <state x="258" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605185789602" />
     <state x="2237" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604293099743">
       <screen x="1920" y="0" width="1366" height="728" />
