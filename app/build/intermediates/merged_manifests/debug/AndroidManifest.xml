@@ -43,9 +43,9 @@
         <activity android:name="com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity" />
         <activity android:name="com.example.allinone.Activities.ContinuousGPSUpdate" />
         <activity android:name="com.example.allinone.Activities.PermissionsActivity" />
-        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage" />
-        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity" />
-        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity" />
+        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1" />
+        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1" />
+        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1" />
         <activity android:name="com.example.allinone.Activities.DialogActivity" />
         <activity android:name="com.example.allinone.Activities.TimeDateActivity" />
         <activity android:name="com.example.allinone.UploadImageClasses.UploadImages" />

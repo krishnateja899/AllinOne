@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     android:layout_marginTop="?attr/actionBarSize">
-    <com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport
+    <com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport1
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/files_rv" />

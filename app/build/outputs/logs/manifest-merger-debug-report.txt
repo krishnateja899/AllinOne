@@ -191,18 +191,18 @@ activity#com.example.allinone.Activities.PermissionsActivity
 ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:9-68
 	android:name
 		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:19-65
-activity#com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:9-86
+activity#com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:9-87
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:19-83
-activity#com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:9-92
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:19-84
+activity#com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:9-93
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:19-89
-activity#com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:9-92
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:19-90
+activity#com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:9-93
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:19-89
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:19-90
 activity#com.example.allinone.Activities.DialogActivity
 ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:9-63
 	android:name

@@ -85,7 +85,7 @@ public class CameraGalleryPathSaveActivity extends AppCompatActivity {
         String imageFileName = "JPEG_" + timeStamp + "_";
         String fileName = "temp";
         File storageDir = getExternalFilesDir(Environment.DIRECTORY_PICTURES);
-        File image = File.createTempFile(fileName, ".jpg");
+        File image = File.createTempFile(fileName, ".jpg" + storageDir);
 
         // Save a file: path for use with ACTION_VIEW intents
         currentPhotoPath = image.getAbsolutePath();

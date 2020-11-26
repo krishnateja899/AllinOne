@@ -24,9 +24,9 @@ import androidx.core.content.FileProvider;
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 import com.example.allinone.R;
-import com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity;
-import com.example.allinone.UploadImageClasses.ViewImageClasses.SpareImages;
-import com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity;
+import com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1;
+import com.example.allinone.UploadImageClasses.ViewImageClasses.SpareImages1;
+import com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1;
 import com.squareup.picasso.Picasso;
 
 import java.io.File;
@@ -51,7 +51,7 @@ public class UploadImages extends AppCompatActivity {
     private File mFileTemp;
     private String path,fileName;
     private FileCounter counter;
-    private ArrayList<SpareImages>  tempImages;
+    private ArrayList<SpareImages1> tempImages;
     private int allCount, fileCount = 0, webCount = 0;
     private int id;
     public static final int REQUEST_IMAGE_CAPTURE = 1;
@@ -72,7 +72,7 @@ public class UploadImages extends AppCompatActivity {
         imgCount=findViewById(R.id.files_attach);
         showImage=findViewById(R.id.showImage);
 
-        path = getExternalFilesDir(Environment.DIRECTORY_PICTURES) + "/Spares/";
+        path = getExternalFilesDir(Environment.DIRECTORY_PICTURES) + "/Spares1/";
         permissions = new String[]{Manifest.permission.CAMERA, Manifest.permission.WRITE_EXTERNAL_STORAGE};
         tempImages = new ArrayList<>();
         counter = new FileCounter();
@@ -161,7 +161,11 @@ public class UploadImages extends AppCompatActivity {
         if (!newFile.exists())
             newFile.mkdirs();
         fileName = imageFileName + ".jpg";
-        return new File(newFile, imageFileName + ".jpg");
+        Log.d(TAG, "createCameraImageFile: " + fileName);
+        File f = new File(newFile, imageFileName + ".jpg");
+//        return new File(newFile, imageFileName + ".jpg");
+        Log.d(TAG, "createCameraImageFile1: " + f);
+        return f;
     }
 
     private void openImages() {
@@ -171,7 +175,7 @@ public class UploadImages extends AppCompatActivity {
     }
 
     private void sendImages() {
-        Intent intent = new Intent(this, ViewImagesActivity.class);
+        Intent intent = new Intent(this, ViewImagesActivity1.class);
         intent.putExtra("images_list", tempImages);
         intent.putExtra("from", 1);
         intent.putExtra("web_count", webCount);
@@ -186,7 +190,7 @@ public class UploadImages extends AppCompatActivity {
                 if (resultCode == RESULT_OK) {
                     Log.d(TAG, "RequestImagecapture: ");
                     Uri photoURI = FileProvider.getUriForFile(this, getPackageName(), mFileTemp);
-                    Intent intent = new Intent(this, CanvasViewActivity.class);
+                    Intent intent = new Intent(this, CanvasViewActivity1.class);
                     Bundle bundle = new Bundle();
                     bundle.putString("image_path", mFileTemp.getPath());
 //                    intent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);
@@ -217,7 +221,7 @@ public class UploadImages extends AppCompatActivity {
                     else
                         count = allCount + " Files Attached";
                     imgCount.setText(count);
-                    tempImages.add(new SpareImages(1, id, fileName, path));
+                    tempImages.add(new SpareImages1(1, id, fileName, path));
                 } else {
                     File file = new File(mFileTemp.getPath());
                     file.delete();
@@ -245,7 +249,7 @@ public class UploadImages extends AppCompatActivity {
                             assert inputStream != null;
                             inputStream.close();
 
-                            Intent intent = new Intent(this, CanvasViewActivity.class);
+                            Intent intent = new Intent(this, CanvasViewActivity1.class);
                             Bundle bundle = new Bundle();
                             bundle.putString("image_path", mFileTemp.getPath());
                             intent.putExtras(bundle);

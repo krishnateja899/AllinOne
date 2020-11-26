@@ -30,9 +30,9 @@
         <activity android:name=".CameraGalleryPaths.CameraGalleryPathSaveActivity" />
         <activity android:name=".Activities.ContinuousGPSUpdate" />
         <activity android:name=".Activities.PermissionsActivity" />
-        <activity android:name=".UploadImageClasses.ViewImageClasses.DisplayImage" />
-        <activity android:name=".UploadImageClasses.ViewImageClasses.ViewImagesActivity" />
-        <activity android:name=".UploadImageClasses.ViewImageClasses.CanvasViewActivity" />
+        <activity android:name=".UploadImageClasses.ViewImageClasses.DisplayImage1" />
+        <activity android:name=".UploadImageClasses.ViewImageClasses.ViewImagesActivity1" />
+        <activity android:name=".UploadImageClasses.ViewImageClasses.CanvasViewActivity1" />
         <activity android:name=".Activities.DialogActivity" />
         <activity android:name=".Activities.TimeDateActivity" />
         <activity android:name=".UploadImageClasses.UploadImages" />
