@@ -256,6 +256,10 @@
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_dialog.xml"
     },
     {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_paint_brush.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_paint_brush.png"
     },
@@ -422,6 +426,10 @@
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",

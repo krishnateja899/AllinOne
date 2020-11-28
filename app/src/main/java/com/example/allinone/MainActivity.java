@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.allinone.Activities.ContinuousGPSUpdate;
 import com.example.allinone.Activities.DialogActivity;
 import com.example.allinone.Activities.GPSTurnON;
+import com.example.allinone.Activities.LoginActivity;
 import com.example.allinone.Activities.PermissionsActivity;
 import com.example.allinone.Activities.SignatureView;
 import com.example.allinone.Activities.TimeDateActivity;
@@ -21,7 +22,7 @@ import com.example.allinone.UploadImageClasses.UploadImages;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button timeDateBtn, dialogBtn, uploadImages, permissions, gps_location_update;
-    private Button camera_galleryPath_save, signatureView, voice2Text, messaging_socket, gps_turnON, imageCrop;
+    private Button camera_galleryPath_save, signatureView, voice2Text, messaging_socket, gps_turnON, imageCrop, loginBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,12 +40,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         messaging_socket = findViewById(R.id.messaging_socket);
         gps_turnON = findViewById(R.id.gps_turnON);
         imageCrop = findViewById(R.id.imageCrop);
+        loginBtn = findViewById(R.id.loginBtn);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
         messaging_socket.setOnClickListener(this);
         gps_turnON.setOnClickListener(this);
         imageCrop.setOnClickListener(this);
+        loginBtn.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -122,6 +125,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.imageCrop:
                 Intent i10 = new Intent(MainActivity.this, CropImageActivity.class);
                 startActivity(i10);
+                break;
+
+            case R.id.loginBtn:
+                Intent i11 = new Intent(MainActivity.this, LoginActivity.class);
+                startActivity(i11);
                 break;
         }
 

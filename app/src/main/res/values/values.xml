@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="TenD_padding">10dp</dimen>
+    <dimen name="twentyD_padding">20dp</dimen>
+    <dimen name="threeD_padding">300dp</dimen>
+    <dimen name="twoHundredD_padding">200dp</dimen>
+    <dimen name="twoFiftyD_padding">250dp</dimen>
+    <dimen name="oneFiftyD_padding">150dp</dimen>
+
+
+</resources>

@@ -33,6 +33,8 @@
         android:testOnly="true"
         android:theme="@style/Theme.AllinOne"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.allinone.Activities.RegisterActivity" />
+        <activity android:name="com.example.allinone.Activities.LoginActivity" />
         <activity android:name="com.example.allinone.CropImage.CropClasses.CropImage" />
         <activity android:name="com.example.allinone.CropImage.CropImageActivity" />
         <activity android:name="com.example.allinone.Activities.GPSTurnON" />

@@ -21,92 +21,123 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41359246-07cf-46a9-a912-624bb5522e37" name="Default Changelist" comment="AllinOne10.1">
+    <list default="true" id="41359246-07cf-46a9-a912-624bb5522e37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/AllinOne.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/AllinOne.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/ContinuousGPSUpdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/ContinuousGPSUpdate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/GPSTurnON.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/GPSTurnON.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/PermissionsActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/PermissionsActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/SignatureView.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/SignatureView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/TimeDateActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/TimeDateActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/VoiceToText.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Activities/VoiceToText.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/UploadImages$FileCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/UploadImages$FileCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/CropImage/CropClasses/CropImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/CropImage/CropClasses/CropImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/CropImage/CropImageActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/CropImage/CropImageActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/ChatBoxActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/ChatBoxActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/ChatBoxAdapter$MyViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/ChatBoxAdapter$MyViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/ChatBoxAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/ChatBoxAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/MessagingActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/Messaging_Socket/MessagingActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/UploadImages.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/UploadImages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/DisplayImage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/DisplayImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$Holder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$Holder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$Holder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/b84e0207e9cbc7eed7d4b271321dc79a7da388bbab7930d4de08a41701ea5ce9_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/b84e0207e9cbc7eed7d4b271321dc79a7da388bbab7930d4de08a41701ea5ce9_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/b84e0207e9cbc7eed7d4b271321dc79a7da388bbab7930d4de08a41701ea5ce9_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/b84e0207e9cbc7eed7d4b271321dc79a7da388bbab7930d4de08a41701ea5ce9_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/ContinuousGPSUpdate.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/ContinuousGPSUpdate.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/GPSTurnON.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/GPSTurnON.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/PermissionsActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/PermissionsActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/SignatureView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/SignatureView.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/TimeDateActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/TimeDateActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/VoiceToText.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Activities/VoiceToText.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/UploadImages$FileCounter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/UploadImages$FileCounter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/CropImage/CropClasses/CropImage.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/CropImage/CropClasses/CropImage.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/CropImage/CropImageActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/CropImage/CropImageActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity$6.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/ChatBoxActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/ChatBoxActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/ChatBoxAdapter$MyViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/ChatBoxAdapter$MyViewHolder.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/ChatBoxAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/ChatBoxAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/MessagingActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/Messaging_Socket/MessagingActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/UploadImages.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/UploadImages.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/DisplayImage$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/DisplayImage.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$3.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$4.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$5.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$6.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$7.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter$Holder.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_canvas_view.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_canvas_view.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_content_view_files.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_content_view_files.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$6.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$7.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$7.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$Holder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1$Holder.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/UploadImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/UploadImages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/DisplayImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/DisplayImage1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_canvas_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_canvas_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_view_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_view_files.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/allinone/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +147,7 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -139,8 +170,8 @@
       <list>
         <option value="layoutResourceFile" />
         <option value="Class" />
-        <option value="valueResourceFile" />
         <option value="resourceFile" />
+        <option value="valueResourceFile" />
       </list>
     </option>
   </component>
@@ -166,7 +197,7 @@
     <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView.java_SELECTED" value="CanvasView" />
     <property name="android-custom-viewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport.java_SELECTED" value="RecyclerViewWithEmptyViewSupport" />
     <property name="android-custom-viewC:/Users/Krishna Teja/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/example/allinone/HelperFiles" />
     <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/CropImage/CropClasses/CropImageView.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/CropImage/CropClasses/ImageViewTouchBase.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/Krishna Teja/AndroidStudioProjects/AllinOne/app/src/main/java/com/example/allinone/UploadImageClasses/CanvasView.java_selected" value="Custom views" />
@@ -177,46 +208,52 @@
     <property name="settings.editor.selected.configurable" value="file.status.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.-281997394">
-      <recent name="com.example.allinone.Activities" />
-    </key>
     <key name="android.template.283558970">
       <recent name="com.example.allinone.Activities" />
     </key>
     <key name="android.template.882702853">
       <recent name="com.example.allinone.Activities" />
     </key>
+    <key name="android.template.1361464595">
+      <recent name="com.example.allinone.Activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\HelperFiles" />
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\HelperFiles\LoginFiles" />
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\CropImage" />
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\Messaging_Socket" />
+    </key>
+    <key name="android.template.-281997394">
+      <recent name="com.example.allinone.Activities" />
+    </key>
+    <key name="android.template.1992893349">
+      <recent name="com.example.allinone.Activities" />
+    </key>
     <key name="android.template.1234453791">
       <recent name="com.example.allinone.Activities" />
     </key>
-    <key name="android.template.-2053444470">
-      <recent name="com.example.allinone.Messaging_Socket" />
+    <key name="android.template.-2013637477">
+      <recent name="com.example.allinone.CameraGalleryPaths" />
+    </key>
+    <key name="android.template.787825096">
+      <recent name="com.example.allinone.UploadImageClasses" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\HelperFiles\LoginFiles" />
     </key>
     <key name="android.template.852366678">
       <recent name="com.example.allinone.CropImage.CropClasses" />
       <recent name="com.example.allinone.CropImage" />
     </key>
-    <key name="android.template.175079884">
-      <recent name="com.example.allinone.Activities" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\CropImage" />
-      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\res\drawable-v24" />
-      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\Messaging_Socket" />
-      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\Messaging_Socket\ServerForLocalHost" />
-      <recent name="C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\java\com\example\allinone\Fragments" />
-    </key>
-    <key name="android.template.-2013637477">
-      <recent name="com.example.allinone.CameraGalleryPaths" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.allinone.CameraGalleryPaths" />
     </key>
-    <key name="android.template.1361464595">
-      <recent name="com.example.allinone.Activities" />
+    <key name="android.template.-2053444470">
+      <recent name="com.example.allinone.Messaging_Socket" />
     </key>
-    <key name="android.template.787825096">
-      <recent name="com.example.allinone.UploadImageClasses" />
+    <key name="android.template.175079884">
+      <recent name="com.example.allinone.Activities" />
     </key>
   </component>
   <component name="RunManager">
@@ -373,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605634899528</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="AllinOne10.2">
+      <created>1606366892515</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606366892515</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -467,7 +511,8 @@
     <MESSAGE value="AllinOne9" />
     <MESSAGE value="AllinOne10" />
     <MESSAGE value="AllinOne10.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="AllinOne10.1" />
+    <MESSAGE value="AllinOne10.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="AllinOne10.2" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -497,30 +542,30 @@
     </state>
     <state x="2019" y="100" width="1169" height="530" key="AVDManager/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605588203270" />
     <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1603965027693" />
-    <state x="2156" y="103" key="AndroidCreateResourceFileDialog" timestamp="1605590876531">
+    <state x="2156" y="103" key="AndroidCreateResourceFileDialog" timestamp="1606565716858">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1604138054067" />
-    <state x="2156" y="103" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605590876531" />
+    <state x="2156" y="103" key="AndroidCreateResourceFileDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606565716858" />
     <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1603964618831" />
     <state x="2447" y="154" key="AndroidCreateXmlResourceDialog" timestamp="1604298797366">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2447" y="154" key="AndroidCreateXmlResourceDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604298797366" />
-    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1605634896611">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2214" y="0" key="CommitChangelistDialog2" timestamp="1606366887491">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1605634896611" />
-    <state x="2214" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605595464485" />
+    <state x="2214" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606366887491" />
     <state x="275" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1605185760217" />
     <state x="2083" y="74" width="1024" height="572" key="DiffContextDialog" timestamp="1604907551323">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2083" y="74" width="1024" height="572" key="DiffContextDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604907551323" />
-    <state x="2370" y="103" key="FileChooserDialogImpl" timestamp="1604915362811">
+    <state x="2370" y="103" key="FileChooserDialogImpl" timestamp="1606372878751">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2370" y="103" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604915362811" />
+    <state x="2370" y="103" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606372878751" />
     <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604384749569" />
     <state x="2481" y="262" key="Github.ShareDialog" timestamp="1604903478888">
       <screen x="1920" y="0" width="1366" height="728" />
@@ -530,39 +575,39 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2331" y="62" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604903505660" />
-    <state width="1236" height="143" key="GridCell.Tab.0.bottom" timestamp="1605795780461">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1322" height="156" key="GridCell.Tab.0.bottom" timestamp="1606571970991">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state width="1236" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1605795780461" />
-    <state width="1322" height="158" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604915377829" />
+    <state width="1322" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606571970991" />
     <state width="1236" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605775815621" />
-    <state width="1236" height="143" key="GridCell.Tab.0.center" timestamp="1605795780460">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1322" height="156" key="GridCell.Tab.0.center" timestamp="1606571970991">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state width="1236" height="143" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1605795780460" />
-    <state width="1322" height="158" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604915377829" />
+    <state width="1322" height="156" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606571970991" />
     <state width="1236" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605775815620" />
-    <state width="1236" height="143" key="GridCell.Tab.0.left" timestamp="1605795780460">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1322" height="156" key="GridCell.Tab.0.left" timestamp="1606571970991">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state width="1236" height="143" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1605795780460" />
-    <state width="1322" height="158" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604915377829" />
+    <state width="1322" height="156" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606571970991" />
     <state width="1236" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605775815620" />
-    <state width="1236" height="143" key="GridCell.Tab.0.right" timestamp="1605795780461">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1322" height="156" key="GridCell.Tab.0.right" timestamp="1606571970991">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state width="1236" height="143" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1605795780461" />
-    <state width="1322" height="158" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604915377829" />
+    <state width="1322" height="156" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606571970991" />
     <state width="1236" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605775815620" />
     <state x="2104" y="9" key="SettingsEditor" timestamp="1604913147550">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2104" y="9" key="SettingsEditor/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1604913147550" />
-    <state x="258" y="91" key="Vcs.Push.Dialog.v2" timestamp="1605634917534">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2195" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606366910343">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="258" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1605634917534" />
-    <state x="2195" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1605595509113" />
+    <state x="2195" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1606366910343" />
     <state x="258" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605185789602" />
     <state x="2237" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604293099743">
       <screen x="1920" y="0" width="1366" height="728" />

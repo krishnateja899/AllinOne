@@ -1153,6 +1153,7 @@ color tooltip_background_dark
 color tooltip_background_light
 color very_dark_grey
 color white
+dimen TenD_padding
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -1488,12 +1489,14 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen oneFiftyD_padding
 dimen pen_size
 dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
 dimen test_mtrl_calendar_day_cornerSize
+dimen threeD_padding
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -1502,6 +1505,9 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+dimen twentyD_padding
+dimen twoFiftyD_padding
+dimen twoHundredD_padding
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -1857,6 +1863,7 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
+id email_phoneLogin
 id end
 id end_padder
 id enterAlways
@@ -1934,6 +1941,8 @@ id linearLayout
 id listMode
 id list_item
 id location_permission
+id loginBtn
+id login_btn
 id main_view
 id masked
 id media_actions
@@ -1990,6 +1999,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password_login
 id password_toggle
 id path
 id pathRelative
@@ -2005,6 +2015,13 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id register_btn
+id register_btn1
+id register_email
+id register_fullName
+id register_login
+id register_password
+id register_userName
 id rest_layout
 id reverseSawtooth
 id right
@@ -2220,9 +2237,11 @@ layout activity_crop_image
 layout activity_dialog
 layout activity_display_image
 layout activity_g_p_s_turn_o_n
+layout activity_login
 layout activity_main
 layout activity_messaging_one
 layout activity_permissions
+layout activity_register
 layout activity_signature_view
 layout activity_time_date
 layout activity_upload_images
@@ -2315,6 +2334,11 @@ plurals mtrl_badge_content_description
 string Crop_image
 string Crop_image1
 string GPS_update_text
+string Login_hint1
+string Register_activity
+string Register_activity1
+string Register_activity2
+string Register_activity3
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -2350,6 +2374,7 @@ string button_1
 string button_10
 string button_11
 string button_12
+string button_13
 string button_2
 string button_3
 string button_4
@@ -2393,6 +2418,7 @@ string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
 string location
+string login_register
 string material_slider_range_end
 string material_slider_range_start
 string messaging
