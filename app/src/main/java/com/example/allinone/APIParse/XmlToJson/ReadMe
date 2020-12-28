@@ -1,0 +1,282 @@
+1. These Files are from the Library :
+                                         https://github.com/smart-fun/XmlToJson
+
+2.  Either add the dependency or add these package directory in to the Project to use it.
+
+*****IMPORTANT*****
+> Changed the Main class name from  XmlToJson to XmlToJson1.
+> If the class files are copied instead of adding dependency, replace XmlToJson with XmlToJson1;
+*******************
+
+How to Use:
+
+//Main:
+> Use these
+
+    String xmlString;  // some XML String previously created
+    XmlToJson xmlToJson = new XmlToJson.Builder(xmlString).build();
+
+
+
+// Official Documentation:
+
+XML to JSON
+Basic usage
+There are 2 ways to create a XmlToJson object: from a String or from an InputStream.
+
+    String xmlString;  // some XML String previously created
+    XmlToJson xmlToJson = new XmlToJson.Builder(xmlString).build();
+OR
+
+    AssetManager assetManager = context.getAssets();
+    InputStream inputStream = assetManager.open("myFile.xml");
+    XmlToJson xmlToJson = new XmlToJson.Builder(inputStream, null).build();
+    inputStream.close();
+Then you can convert it to a JSONObject, a String, or a Formatted String (with indentation and line breaks).
+
+    // convert to a JSONObject
+    JSONObject jsonObject = xmlToJson.toJson();
+
+    // convert to a Json String
+    String jsonString = xmlToJson.toString();
+
+    // convert to a formatted Json String
+    String formatted = xmlToJson.toFormattedString();
+Thats' it. Here is an example of XML...
+
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <owner>John Doe</owner>
+    <book id="007">James Bond</book>
+    <book id="000">Book for the dummies</book>
+</library>
+... converted into JSON
+
+{
+   "library":{
+      "owner": "John Doe",
+      "book":[
+         {
+            "id":"007",
+            "content":"James Bond"
+         },
+         {
+            "id":"000",
+            "content":"Book for the dummies"
+         }
+      ]
+   }
+}
+Custom Content names
+By default, the content of a XML Tag is converted into a key called "content". This name can be changed with a custom one, using Builder.setContentName(String contentPath, String replacementName). You can change as many content names as you want.
+
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <book id="007">James Bond</book>
+    <book id="000">Book for the dummies</book>
+</library>
+public String convertXmlToJson(String xml) {
+    XmlToJson xmlToJson = new XmlToJson.Builder(xml)
+        .setContentName("/library/book", "title")
+        .build();
+    return xmlToJson.toString();
+}
+{
+   "library":{
+      "book":[
+         {
+            "id":"007",
+            "title":"James Bond"
+         },
+         {
+            "id":"000",
+            "title":"Book for the dummies"
+         }
+      ]
+   }
+}
+Custom Attributes names
+Attributes are converted into key / values in the JSON. The attribute names may conflict with other keys. You can change the name of any attribute, by specifying the path to the attribute and the replacement name, using Builder.setAttributeName(String attributePath, String replacementName).
+
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <book id="007">James Bond</book>
+    <book id="000">Book for the dummies</book>
+</library>
+public String convertXmlToJson(String xml) {
+    XmlToJson xmlToJson = new XmlToJson.Builder(xml)
+        .setAttributeName("/library/book/id", "code")
+        .build();
+    return xmlToJson.toString();
+}
+{
+   "library":{
+      "book":[
+         {
+            "code":"007",
+            "content":"James Bond"
+         },
+         {
+            "code":"000",
+            "content":"Book for the dummies"
+         }
+      ]
+   }
+}
+Force a Tag to be a list
+In a XML hierarchy, an entry can have children. For example, <library> has 2 entries <book>. In case there is only one book, there is no way to know that Book is a list. But you can force it using Builder.forceList(String path).
+
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <book id="007">James Bond</book>
+</library>
+By default, the <book> tag is NOT considered as a list
+
+{
+   "library":{
+      "book":{
+         "id":"007",
+         "content":"James Bond"
+      }
+   }
+}
+public String convertXmlToJson(String xml) {
+    XmlToJson xmlToJson = new XmlToJson.Builder(xml)
+        .forceList("/library/book")
+        .build();
+    return xmlToJson.toString();
+}
+Now <book> is considered as a list:
+
+{
+   "library":{
+      "book":[
+         {
+            "id":"007",
+            "content":"James Bond"
+         }
+      ]
+   }
+}
+Force a Tag or Attribute to be an Integer / Long / Double / Boolean
+By default the XML attributes or content are processed as Strings. If you want to force them to be another type (like Integer), then use on of these methods Builder.forceIntegerForPath(String path), Builder.forceLongForPath(String path), Builder.forceDoubleForPath(String path) or Builder.forceBooleanForPath(String path).
+
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <owner>John Doe</owner>
+    <book id="007">James Bond</book>
+    <book id="000">Book for the dummies</book>
+</library>
+public String convertXmlToJson(String xml) {
+    XmlToJson xmlToJson = new XmlToJson.Builder(xml)
+        .Builder.forceIntegerForPath("/library/book/id")
+        .build();
+    return xmlToJson.toString();
+}
+{
+   "library":{
+      "owner": "John Doe",
+      "book":[
+         {
+            "id":7,
+            "content":"James Bond"
+         },
+         {
+            "id":0,
+            "content":"Book for the dummies"
+         }
+      ]
+   }
+}
+Here "007" and "000" are converted to 7 and 0.
+
+Note that you can use forcexxxForPath methods AND change the attribute or content name for the same path; the methods in the Builder can be combined. The path used in forcexxxForPath methods is the path in the xml before eventually changing its name.
+
+Skip a Tag or an Attribute
+If you are not interrested in getting all the content of the XML, you can skip some Tags or some Attributes. Like for other methods you have to provide the path for the element to skip. You can use skipTag and skipAttribute as many times as you need.
+
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <owner>John Doe</owner>
+    <book id="007">James Bond</book>
+    <book id="000">Book for the dummies</book>
+</library>
+XmlToJson xmlToJson = new XmlToJson.Builder(xml)
+    .skipTag("/library/owner")
+    .skipAttribute("/library/book/id")
+    .build();
+{
+   "library":{
+      "book":[
+         {
+            "content":"James Bond"
+         },
+         {
+            "content":"Book for the dummies"
+         }
+      ]
+   }
+}
+JSON to XML
+Basic usage
+There are several ways to create a JsonToXml object: from a Json String, a JSONObject or from an InputStream.
+
+    JSONObject jsonObject; // some JSONObject previously created
+    JsonToXml jsonToXml = new JsonToXml.Builder(jsonObject).build();
+OR
+
+    String jsonString; // some JSON String previously created
+    JsonToXml jsonToXml = new JsonToXml.Builder(jsonString).build();
+OR
+
+    AssetManager assetManager = context.getAssets();
+    InputStream inputStream = assetManager.open("myFile.json");
+    JsonToXml jsonToXml = new JsonToXml.Builder(inputStream).build();
+    inputStream.close();
+Then you can convert it to a XML String or a XML Formatted String (with indentation and line breaks)
+
+    // Converts to a simple XML String
+    String xmlString = jsonToXml.toString();
+
+    // Converts to a formatted XML String
+    int indentationSize = 3;
+    String formattedXml = jsonToXml.toFormattedString(indentationSize);
+Here is a JSON example
+
+{
+    "owner": {
+        "id": 124,
+        "name": "John Doe"
+    }
+}
+which is converted into XML
+
+<?xml version="1.0" encoding="UTF-8"?>
+<owner>
+    <id>124</id>
+    <name>John Doe</name>
+</owner>
+Force a TAG to be an parent Attribute
+You may want to use XML Attributes instead of TAG content. You can do this by using the forceAttribute method. You need to specify the Path to the TAG.
+
+    JsonToXml jsonToXml = new JsonToXml.Builder(jsonObject)
+            .forceAttribute("/owner/id")
+            .build();
+The result becomes
+
+<?xml version="1.0" encoding="UTF-8"?>
+<owner id="124">
+    <name>John Doe</name>
+</owner>
+Force a TAG to be a parent Content
+When a Tag has only one child, you may want that child to be the Content for its parent. You can use the forceContent method to achieve this.
+
+    JsonToXml jsonToXml = new JsonToXml.Builder(jsonObject)
+            .forceAttribute("/owner/id")
+            .forceContent("/owner/name")
+            .build();
+The result becomes
+
+<?xml version="1.0" encoding="UTF-8"?>
+<owner id="124">John Doe</owner>
+which is very compact :)

@@ -20,7 +20,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AllinOne"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Activities.RegisterActivity"></activity>
+        <activity
+            android:name=".Activities.QRCodes.QRCode2"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Activities.QRCodes.QRCode1"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".Activities.QRCodes.QRCodeActivity" />
+        <activity android:name=".Activities.RegisterActivity" />
         <activity android:name=".Activities.LoginActivity" />
         <activity android:name=".CropImage.CropClasses.CropImage" />
         <activity android:name=".CropImage.CropImageActivity" />

@@ -14,6 +14,7 @@
     <string name="button_12">Image Crop</string>
     <string name="button_13">Login</string>
     <string name="login_register">Register</string>
+    <string name="button_15">QR Codes</string>
 
 
     <string name="types_of_date_time">Types of Date and Time</string>
@@ -44,6 +45,8 @@
     <string name="Register_activity1">Email</string>
     <string name="Register_activity2">Username</string>
     <string name="Register_activity3">Already have an account?</string>
+    <string name="qr_code1">QR Code 1</string>
+    <string name="qr_code2">QR Code 2</string>
 
 
 </resources>

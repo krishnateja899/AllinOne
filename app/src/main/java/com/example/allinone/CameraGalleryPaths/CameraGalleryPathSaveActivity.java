@@ -10,6 +10,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -85,7 +86,7 @@ public class CameraGalleryPathSaveActivity extends AppCompatActivity {
         String imageFileName = "JPEG_" + timeStamp + "_";
         String fileName = "temp";
         File storageDir = getExternalFilesDir(Environment.DIRECTORY_PICTURES);
-        File image = File.createTempFile(fileName, ".jpg" + storageDir);
+        File image = File.createTempFile(fileName, ".jpg");
 
         // Save a file: path for use with ACTION_VIEW intents
         currentPhotoPath = image.getAbsolutePath();
@@ -140,6 +141,7 @@ public class CameraGalleryPathSaveActivity extends AppCompatActivity {
 
                 } else {
                     String msg = "To Increase the Performance Of App, Files with Size more than 10MB are not Allowed.";
+                    Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
                 }
             } catch (Exception e) {
                 e.printStackTrace();

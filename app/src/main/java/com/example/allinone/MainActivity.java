@@ -12,6 +12,7 @@ import com.example.allinone.Activities.DialogActivity;
 import com.example.allinone.Activities.GPSTurnON;
 import com.example.allinone.Activities.LoginActivity;
 import com.example.allinone.Activities.PermissionsActivity;
+import com.example.allinone.Activities.QRCodes.QRCodeActivity;
 import com.example.allinone.Activities.SignatureView;
 import com.example.allinone.Activities.TimeDateActivity;
 import com.example.allinone.Activities.VoiceToText;
@@ -21,8 +22,8 @@ import com.example.allinone.Messaging_Socket.MessagingActivity;
 import com.example.allinone.UploadImageClasses.UploadImages;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    private Button timeDateBtn, dialogBtn, uploadImages, permissions, gps_location_update;
-    private Button camera_galleryPath_save, signatureView, voice2Text, messaging_socket, gps_turnON, imageCrop, loginBtn;
+    private Button timeDateBtn, dialogBtn, uploadImages, permissions, gps_location_update, camera_galleryPath_save, signatureView, voice2Text, messaging_socket;
+    private Button gps_turnON, imageCrop, loginBtn, qr_code;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         gps_turnON = findViewById(R.id.gps_turnON);
         imageCrop = findViewById(R.id.imageCrop);
         loginBtn = findViewById(R.id.loginBtn);
+        qr_code = findViewById(R.id.qr_code);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
@@ -48,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         gps_turnON.setOnClickListener(this);
         imageCrop.setOnClickListener(this);
         loginBtn.setOnClickListener(this);
+        qr_code.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -130,6 +133,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.loginBtn:
                 Intent i11 = new Intent(MainActivity.this, LoginActivity.class);
                 startActivity(i11);
+                break;
+
+            case R.id.qr_code:
+                Intent i12 = new Intent(MainActivity.this, QRCodeActivity.class);
+                startActivity(i12);
                 break;
         }
 
