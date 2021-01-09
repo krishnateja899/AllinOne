@@ -7,6 +7,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
@@ -20,6 +21,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AllinOne"
         android:usesCleartextTraffic="true">
+        <activity android:name=".Activities.SearchFilter.SearchFilterActivity"></activity>
+        <activity android:name=".Activities.DataBase" />
+        <activity android:name=".Activities.SharedPreference" />
+        <activity android:name=".Activities.AutoCompleteSpinners" />
+        <activity android:name=".Activities.FingerPrintScanners.FingerPrintScanManager" />
+        <activity android:name=".Activities.FingerPrintActivity" />
         <activity
             android:name=".Activities.QRCodes.QRCode2"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
@@ -36,7 +43,7 @@
         <activity android:name=".Messaging_Socket.MessagingActivity" />
         <activity android:name=".Activities.VoiceToText" />
         <activity android:name=".Activities.SignatureView" />
-        <activity android:name=".CameraGalleryPaths.CameraGalleryPathSaveActivity" />
+        <activity android:name=".Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity" />
         <activity android:name=".Activities.ContinuousGPSUpdate" />
         <activity android:name=".Activities.PermissionsActivity" />
         <activity android:name=".UploadImageClasses.ViewImageClasses.DisplayImage1" />

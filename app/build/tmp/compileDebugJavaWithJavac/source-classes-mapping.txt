@@ -23,29 +23,35 @@ com/example/allinone/Messaging_Socket/ChatBoxActivity.java
  com.example.allinone.Messaging_Socket.ChatBoxActivity$4$1
 com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1
-com/example/allinone/MainActivity.java
- com.example.allinone.MainActivity
- com.example.allinone.MainActivity$1
- com.example.allinone.MainActivity$2
- com.example.allinone.MainActivity$3
- com.example.allinone.MainActivity$4
- com.example.allinone.MainActivity$5
- com.example.allinone.MainActivity$6
-com/example/allinone/Activities/QRCodes/QRCode2.java
- com.example.allinone.Activities.QRCodes.QRCode2
+com/example/allinone/Activities/FingerPrintActivity.java
+ com.example.allinone.Activities.FingerPrintActivity
+ com.example.allinone.Activities.FingerPrintActivity$1
+ com.example.allinone.Activities.FingerPrintActivity$2
+ com.example.allinone.Activities.FingerPrintActivity$3
+com/example/allinone/Adapters/AutoSuggestAdapter.java
+ com.example.allinone.Adapters.AutoSuggestAdapter
+ com.example.allinone.Adapters.AutoSuggestAdapter$1
 com/example/allinone/UploadImageClasses/ViewImageClasses/DisplayImage1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1
  com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1$1
 com/example/allinone/Activities/DialogActivity.java
  com.example.allinone.Activities.DialogActivity
  com.example.allinone.Activities.DialogActivity$1
+ com.example.allinone.Activities.DialogActivity$10
+ com.example.allinone.Activities.DialogActivity$11
+ com.example.allinone.Activities.DialogActivity$12
+ com.example.allinone.Activities.DialogActivity$13
  com.example.allinone.Activities.DialogActivity$2
  com.example.allinone.Activities.DialogActivity$3
  com.example.allinone.Activities.DialogActivity$4
  com.example.allinone.Activities.DialogActivity$5
  com.example.allinone.Activities.DialogActivity$6
-com/example/allinone/CropImage/CropClasses/RotateBitmap.java
- com.example.allinone.CropImage.CropClasses.RotateBitmap
+ com.example.allinone.Activities.DialogActivity$7
+ com.example.allinone.Activities.DialogActivity$8
+ com.example.allinone.Activities.DialogActivity$9
+com/example/allinone/Activities/SearchFilter/SearchFilterActivity.java
+ com.example.allinone.Activities.SearchFilter.SearchFilterActivity
+ com.example.allinone.Activities.SearchFilter.SearchFilterActivity$1
 com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$1
@@ -56,37 +62,14 @@ com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$6
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$7
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$Holder
-com/example/allinone/CropImage/CropClasses/ImageViewTouchBase.java
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$1
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$2
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$Recycler
-com/example/allinone/Activities/TimeDateActivity.java
- com.example.allinone.Activities.TimeDateActivity
-com/example/allinone/APIParse/PUTApi.java
- com.example.allinone.APIParse.PUTApi
- com.example.allinone.APIParse.PUTApi$1
- com.example.allinone.APIParse.PUTApi$2
- com.example.allinone.APIParse.PUTApi$3
-com/example/allinone/APIParse/XmlToJson/Tag.java
- com.example.allinone.APIParse.XmlToJson.Tag
+com/example/allinone/Activities/SearchFilter/ExampleAdapter.java
+ com.example.allinone.Activities.SearchFilter.ExampleAdapter
+ com.example.allinone.Activities.SearchFilter.ExampleAdapter$1
+ com.example.allinone.Activities.SearchFilter.ExampleAdapter$ExampleViewHolder
 com/example/allinone/APIParse/XmlToJson/JsonToXml.java
  com.example.allinone.APIParse.XmlToJson.JsonToXml
  com.example.allinone.APIParse.XmlToJson.JsonToXml$1
  com.example.allinone.APIParse.XmlToJson.JsonToXml$Builder
-com/example/allinone/Activities/GPSTurnON.java
- com.example.allinone.Activities.GPSTurnON
- com.example.allinone.Activities.GPSTurnON$1
- com.example.allinone.Activities.GPSTurnON$2
-com/example/allinone/CameraGalleryPaths/CameraGalleryPathSaveActivity.java
- com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity
- com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity$1
- com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity$2
-com/example/allinone/Activities/QRCodes/QRCode1.java
- com.example.allinone.Activities.QRCodes.QRCode1
- com.example.allinone.Activities.QRCodes.QRCode1$1
- com.example.allinone.Activities.QRCodes.QRCode1$1$1
- com.example.allinone.Activities.QRCodes.QRCode1$2
 com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport1
  com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport1$1
@@ -98,19 +81,8 @@ com/example/allinone/APIParse/GETApi.java
  com.example.allinone.APIParse.GETApi$4
  com.example.allinone.APIParse.GETApi$5
  com.example.allinone.APIParse.GETApi$6
-com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages1.java
- com.example.allinone.UploadImageClasses.ViewImageClasses.SpareImages1
- com.example.allinone.UploadImageClasses.ViewImageClasses.SpareImages1$1
-com/example/allinone/HelperClasses/GpsUtils.java
- com.example.allinone.HelperClasses.GpsUtils
- com.example.allinone.HelperClasses.GpsUtils$1
- com.example.allinone.HelperClasses.GpsUtils$2
- com.example.allinone.HelperClasses.GpsUtils$onGpsListener
-com/example/allinone/CropImage/CropClasses/CropImageView.java
- com.example.allinone.CropImage.CropClasses.CropImageView
-com/example/allinone/Messaging_Socket/ChatBoxAdapter.java
- com.example.allinone.Messaging_Socket.ChatBoxAdapter
- com.example.allinone.Messaging_Socket.ChatBoxAdapter$MyViewHolder
+com/example/allinone/Activities/AutoCompleteSpinners.java
+ com.example.allinone.Activities.AutoCompleteSpinners
 com/example/allinone/CropImage/CropClasses/CropImage.java
  com.example.allinone.CropImage.CropClasses.CropImage
  com.example.allinone.CropImage.CropClasses.CropImage$1
@@ -129,6 +101,8 @@ com/example/allinone/CropImage/CropClasses/MonitoredActivity.java
 com/example/allinone/CropImage/CropClasses/HighlightView.java
  com.example.allinone.CropImage.CropClasses.HighlightView
  com.example.allinone.CropImage.CropClasses.HighlightView$ModifyMode
+com/example/allinone/Activities/SearchFilter/ExampleItem.java
+ com.example.allinone.Activities.SearchFilter.ExampleItem
 com/example/allinone/APIParse/XmlToJson/FileReader.java
  com.example.allinone.APIParse.XmlToJson.FileReader
 com/example/allinone/APIParse/XmlToJson/Node.java
@@ -137,6 +111,98 @@ com/example/allinone/APIParse/XmlToJson/Node.java
 com/example/allinone/Messaging_Socket/MessagingActivity.java
  com.example.allinone.Messaging_Socket.MessagingActivity
  com.example.allinone.Messaging_Socket.MessagingActivity$1
+com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView1.java
+ com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasView1
+com/example/allinone/Activities/CameraGalleryPaths/CameraGalleryPathSaveActivity.java
+ com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity
+ com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity$1
+ com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity$2
+com/example/allinone/Messaging_Socket/Message.java
+ com.example.allinone.Messaging_Socket.Message
+com/example/allinone/Activities/RegisterActivity.java
+ com.example.allinone.Activities.RegisterActivity
+ com.example.allinone.Activities.RegisterActivity$1
+ com.example.allinone.Activities.RegisterActivity$2
+ com.example.allinone.Activities.RegisterActivity$3
+ com.example.allinone.Activities.RegisterActivity$4
+ com.example.allinone.Activities.RegisterActivity$5
+com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao1.java
+ com.example.allinone.UploadImageClasses.ViewImageClasses.RepairsImageDao1
+com/example/allinone/Activities/FingerPrintScanners/FingerprintHandler.java
+ com.example.allinone.Activities.FingerPrintScanners.FingerprintHandler
+com/example/allinone/Modals/DataBaseExampleModal.java
+ com.example.allinone.Modals.DataBaseExampleModal
+com/example/allinone/Activities/QRCodes/QRCodeActivity.java
+ com.example.allinone.Activities.QRCodes.QRCodeActivity
+ com.example.allinone.Activities.QRCodes.QRCodeActivity$1
+ com.example.allinone.Activities.QRCodes.QRCodeActivity$2
+com/example/allinone/Activities/ContinuousGPSUpdate.java
+ com.example.allinone.Activities.ContinuousGPSUpdate
+com/example/allinone/Activities/FingerPrintScanners/FingerPrintScanManager.java
+ com.example.allinone.Activities.FingerPrintScanners.FingerPrintScanManager
+com/example/allinone/MainActivity.java
+ com.example.allinone.MainActivity
+ com.example.allinone.MainActivity$1
+ com.example.allinone.MainActivity$2
+ com.example.allinone.MainActivity$3
+ com.example.allinone.MainActivity$4
+ com.example.allinone.MainActivity$5
+ com.example.allinone.MainActivity$6
+com/example/allinone/Activities/QRCodes/QRCode2.java
+ com.example.allinone.Activities.QRCodes.QRCode2
+com/example/allinone/CropImage/CropClasses/RotateBitmap.java
+ com.example.allinone.CropImage.CropClasses.RotateBitmap
+com/example/allinone/Activities/SharedPreference.java
+ com.example.allinone.Activities.SharedPreference
+ com.example.allinone.Activities.SharedPreference$1
+ com.example.allinone.Activities.SharedPreference$2
+com/example/allinone/HelperClasses/DataBaseHelper.java
+ com.example.allinone.HelperClasses.DataBaseHelper
+com/example/allinone/CropImage/CropClasses/ImageViewTouchBase.java
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$1
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$2
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$Recycler
+com/example/allinone/Activities/TimeDateActivity.java
+ com.example.allinone.Activities.TimeDateActivity
+com/example/allinone/Modals/PreferenceExampleModal.java
+ com.example.allinone.Modals.PreferenceExampleModal
+com/example/allinone/APIParse/PUTApi.java
+ com.example.allinone.APIParse.PUTApi
+ com.example.allinone.APIParse.PUTApi$1
+ com.example.allinone.APIParse.PUTApi$2
+ com.example.allinone.APIParse.PUTApi$3
+com/example/allinone/APIParse/XmlToJson/Tag.java
+ com.example.allinone.APIParse.XmlToJson.Tag
+com/example/allinone/Activities/GPSTurnON.java
+ com.example.allinone.Activities.GPSTurnON
+ com.example.allinone.Activities.GPSTurnON$1
+ com.example.allinone.Activities.GPSTurnON$2
+com/example/allinone/Activities/QRCodes/QRCode1.java
+ com.example.allinone.Activities.QRCodes.QRCode1
+ com.example.allinone.Activities.QRCodes.QRCode1$1
+ com.example.allinone.Activities.QRCodes.QRCode1$1$1
+ com.example.allinone.Activities.QRCodes.QRCode1$2
+com/example/allinone/UploadImageClasses/ViewImageClasses/SpareImages1.java
+ com.example.allinone.UploadImageClasses.ViewImageClasses.SpareImages1
+ com.example.allinone.UploadImageClasses.ViewImageClasses.SpareImages1$1
+com/example/allinone/HelperClasses/GpsUtils.java
+ com.example.allinone.HelperClasses.GpsUtils
+ com.example.allinone.HelperClasses.GpsUtils$1
+ com.example.allinone.HelperClasses.GpsUtils$2
+ com.example.allinone.HelperClasses.GpsUtils$onGpsListener
+com/example/allinone/CropImage/CropClasses/CropImageView.java
+ com.example.allinone.CropImage.CropClasses.CropImageView
+com/example/allinone/Messaging_Socket/ChatBoxAdapter.java
+ com.example.allinone.Messaging_Socket.ChatBoxAdapter
+ com.example.allinone.Messaging_Socket.ChatBoxAdapter$MyViewHolder
+com/example/allinone/HelperClasses/InternetConnectionChecker.java
+ com.example.allinone.HelperClasses.InternetConnectionChecker
+ com.example.allinone.HelperClasses.InternetConnectionChecker$1
+ com.example.allinone.HelperClasses.InternetConnectionChecker$2
+ com.example.allinone.HelperClasses.InternetConnectionChecker$3
+com/example/allinone/Activities/DataBase.java
+ com.example.allinone.Activities.DataBase
 com/example/allinone/UploadImageClasses/UploadImages.java
  com.example.allinone.UploadImageClasses.UploadImages
  com.example.allinone.UploadImageClasses.UploadImages$1
@@ -174,35 +240,19 @@ com/example/allinone/Activities/PermissionsActivity.java
  com.example.allinone.Activities.PermissionsActivity$7
  com.example.allinone.Activities.PermissionsActivity$8
  com.example.allinone.Activities.PermissionsActivity$9
-com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView1.java
- com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasView1
-com/example/allinone/CameraGalleryPaths/ImageFilePath.java
- com.example.allinone.CameraGalleryPaths.ImageFilePath
 com/example/allinone/CropImage/CropImageActivity.java
  com.example.allinone.CropImage.CropImageActivity
  com.example.allinone.CropImage.CropImageActivity$1
  com.example.allinone.CropImage.CropImageActivity$2
-com/example/allinone/Messaging_Socket/Message.java
- com.example.allinone.Messaging_Socket.Message
-com/example/allinone/Activities/RegisterActivity.java
- com.example.allinone.Activities.RegisterActivity
- com.example.allinone.Activities.RegisterActivity$1
- com.example.allinone.Activities.RegisterActivity$2
- com.example.allinone.Activities.RegisterActivity$3
- com.example.allinone.Activities.RegisterActivity$4
- com.example.allinone.Activities.RegisterActivity$5
-com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao1.java
- com.example.allinone.UploadImageClasses.ViewImageClasses.RepairsImageDao1
+com/example/allinone/Activities/CameraGalleryPaths/ImageFilePath.java
+ com.example.allinone.Activities.CameraGalleryPaths.ImageFilePath
 com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1
  com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1$1
  com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1$2
-com/example/allinone/Activities/QRCodes/QRCodeActivity.java
- com.example.allinone.Activities.QRCodes.QRCodeActivity
- com.example.allinone.Activities.QRCodes.QRCodeActivity$1
- com.example.allinone.Activities.QRCodes.QRCodeActivity$2
-com/example/allinone/Activities/ContinuousGPSUpdate.java
- com.example.allinone.Activities.ContinuousGPSUpdate
+com/example/allinone/HelperClasses/Utils.java
+ com.example.allinone.HelperClasses.Utils
+ com.example.allinone.HelperClasses.Utils$1
 com/example/allinone/APIParse/XmlToJson/XmlToJson1.java
  com.example.allinone.APIParse.XmlToJson.XmlToJson1
  com.example.allinone.APIParse.XmlToJson.XmlToJson1$1
@@ -214,3 +264,6 @@ com/example/allinone/APIParse/XMLPost.java
  com.example.allinone.APIParse.XMLPost$1
  com.example.allinone.APIParse.XMLPost$2
  com.example.allinone.APIParse.XMLPost$3
+com/example/allinone/HelperClasses/AppPreferences.java
+ com.example.allinone.HelperClasses.AppPreferences
+ com.example.allinone.HelperClasses.AppPreferences$1

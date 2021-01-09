@@ -45,6 +45,10 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array auto_complete_example
+array crypto_fingerprint_fallback_prefixes
+array crypto_fingerprint_fallback_vendors
+array hide_fingerprint_instantly_prefixes
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -984,6 +988,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color biometric_error_color
 color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
@@ -1320,6 +1325,7 @@ dimen disabled_alpha_material_light
 dimen fastscroll_default_thickness
 dimen fastscroll_margin
 dimen fastscroll_minimum_range
+dimen fingerprint_icon_size
 dimen highlight_alpha_material_colored
 dimen highlight_alpha_material_dark
 dimen highlight_alpha_material_light
@@ -1620,6 +1626,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable baseline_fingerprint_black_18dp
 drawable bg_image_count
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -1658,7 +1665,10 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edit_text_autocomplete_grey_border
 drawable edittext_border
+drawable fingerprint_dialog_error_to_fp
+drawable fingerprint_dialog_fp_to_error
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_baseline_music_note_24
@@ -1772,6 +1782,7 @@ id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
 id action0
+id actionSearch
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1791,6 +1802,7 @@ id action_mode_close_button
 id action_text
 id actions
 id activity_chooser_view_content
+id activity_main
 id add
 id adjust_height
 id adjust_width
@@ -1812,6 +1824,7 @@ id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
+id bioMetric
 id blocking
 id bottom
 id bounce
@@ -1854,6 +1867,7 @@ id custom
 id customPanel
 id cut
 id dark
+id dataBase
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -1867,10 +1881,15 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id dialogTest
 id dialog_btn
 id dialog_btn1
 id dialog_btn2
 id dialog_btn3
+id dialog_btn4
+id dialog_btn5
+id dialog_btn6
+id dialog_btn7
 id dialog_button
 id dimensions
 id direct
@@ -1911,6 +1930,12 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
+id fingerPrint
+id fingerPrint_manager
+id fingerprint_description
+id fingerprint_error
+id fingerprint_icon
+id fingerprint_subtitle
 id fitToContents
 id fixed
 id flip
@@ -2020,6 +2045,7 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id openCamera
 id outline
 id packed
 id parallax
@@ -2037,6 +2063,7 @@ id permissions
 id pin
 id position
 id postLayout
+id prefPath
 id pro
 id progress_circular
 id progress_horizontal
@@ -2046,6 +2073,7 @@ id qr_code2
 id radio
 id ratio
 id rectangles
+id recycler_view
 id register_btn
 id register_btn1
 id register_email
@@ -2076,6 +2104,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchFilter
 id search_badge
 id search_bar
 id search_button
@@ -2089,6 +2118,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id send
+id sharedPref
 id shortcut
 id showCustom
 id showHome
@@ -2105,6 +2135,8 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinner1
+id spinner2
 id spline
 id split_action_bar
 id spread
@@ -2146,6 +2178,10 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView1
+id textView2
+id textView3
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2154,6 +2190,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id textview
 id time
 id time_1
 id time_2
@@ -2264,13 +2301,17 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_auto_complete
 layout activity_camera_gallery_path_save
 layout activity_canvas_view
 layout activity_chat_box
 layout activity_continuous_g_p_s_update
 layout activity_crop_image
+layout activity_data_base
 layout activity_dialog
 layout activity_display_image
+layout activity_finger_print
+layout activity_finger_print_scan_manager
 layout activity_g_p_s_turn_o_n
 layout activity_login
 layout activity_main
@@ -2280,6 +2321,8 @@ layout activity_q_r_code1
 layout activity_q_r_code2
 layout activity_q_r_codes
 layout activity_register
+layout activity_search_filter
+layout activity_shared_preference
 layout activity_signature_view
 layout activity_time_date
 layout activity_upload_images
@@ -2304,6 +2347,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout device_credential_handler_activity
+layout example_item
+layout fingerprint_dialog_layout
 layout item
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
@@ -2351,6 +2397,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout spinner_list
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -2366,6 +2413,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu example_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -2404,9 +2452,12 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string accessibility_fingerprint_dialog_help_area
 string all_permissions
 string app_name
 string appbar_scrolling_view_behavior
+string autocomplete_text
+string autocomplete_text2
 string bottom_sheet_behavior
 string button_1
 string button_10
@@ -2414,7 +2465,12 @@ string button_11
 string button_12
 string button_13
 string button_15
+string button_16
+string button_17
+string button_18
+string button_19
 string button_2
+string button_20
 string button_3
 string button_4
 string button_5
@@ -2448,13 +2504,29 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string confirm_device_credential_password
+string default_error_msg
+string dialogs1
+string dialogs2
+string dialogs3
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string finger_print1
+string finger_print2
+string fingerprint_dialog_touch_sensor
+string fingerprint_error_hw_not_available
+string fingerprint_error_hw_not_present
+string fingerprint_error_lockout
+string fingerprint_error_no_fingerprints
+string fingerprint_error_user_canceled
+string fingerprint_not_recognized
+string generic_error_user_canceled
 string gps_location
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string instructions
 string item_view_role_description
 string location
 string login_register
@@ -2498,6 +2570,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string no_storage_card
+string none
 string not_enough_space
 string password_toggle_content_description
 string path_password_eye
@@ -2746,6 +2819,7 @@ style CardView
 style CardView_Dark
 style CardView_Light
 style CropButton
+style DeviceCredentialHandlerTheme
 style EmptyTheme
 style MaterialAlertDialog_MaterialComponents
 style MaterialAlertDialog_MaterialComponents_Body_Text
@@ -3034,6 +3108,7 @@ style ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense
 style ThemeOverlay_MaterialComponents_Toolbar_Primary
 style ThemeOverlay_MaterialComponents_Toolbar_Surface
 style ThemeOverlayColorAccentRed
+style TransparentStyle
 style Widget_AppCompat_ActionBar
 style Widget_AppCompat_ActionBar_Solid
 style Widget_AppCompat_ActionBar_TabBar

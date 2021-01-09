@@ -7,42 +7,50 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.allinone.Activities.AutoCompleteSpinners;
 import com.example.allinone.Activities.ContinuousGPSUpdate;
+import com.example.allinone.Activities.DataBase;
 import com.example.allinone.Activities.DialogActivity;
+import com.example.allinone.Activities.FingerPrintActivity;
 import com.example.allinone.Activities.GPSTurnON;
 import com.example.allinone.Activities.LoginActivity;
 import com.example.allinone.Activities.PermissionsActivity;
 import com.example.allinone.Activities.QRCodes.QRCodeActivity;
+import com.example.allinone.Activities.SearchFilter.SearchFilterActivity;
+import com.example.allinone.Activities.SharedPreference;
 import com.example.allinone.Activities.SignatureView;
 import com.example.allinone.Activities.TimeDateActivity;
 import com.example.allinone.Activities.VoiceToText;
-import com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity;
+import com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity;
 import com.example.allinone.CropImage.CropImageActivity;
 import com.example.allinone.Messaging_Socket.MessagingActivity;
 import com.example.allinone.UploadImageClasses.UploadImages;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    private Button timeDateBtn, dialogBtn, uploadImages, permissions, gps_location_update, camera_galleryPath_save, signatureView, voice2Text, messaging_socket;
-    private Button gps_turnON, imageCrop, loginBtn, qr_code;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        timeDateBtn = findViewById(R.id.time_btn);
-        dialogBtn = findViewById(R.id.dialog_btn);
-        uploadImages = findViewById(R.id.upload_images);
-        permissions = findViewById(R.id.permissions);
-        gps_location_update = findViewById(R.id.gps_location_update);
-        camera_galleryPath_save = findViewById(R.id.camera_galleryPath_save);
-        signatureView = findViewById(R.id.signatureView);
-        voice2Text = findViewById(R.id.voice2Text);
-        messaging_socket = findViewById(R.id.messaging_socket);
-        gps_turnON = findViewById(R.id.gps_turnON);
-        imageCrop = findViewById(R.id.imageCrop);
-        loginBtn = findViewById(R.id.loginBtn);
-        qr_code = findViewById(R.id.qr_code);
+        Button timeDateBtn = findViewById(R.id.time_btn);
+        Button dialogBtn = findViewById(R.id.dialog_btn);
+        Button uploadImages = findViewById(R.id.upload_images);
+        Button permissions = findViewById(R.id.permissions);
+        Button gps_location_update = findViewById(R.id.gps_location_update);
+        Button camera_galleryPath_save = findViewById(R.id.camera_galleryPath_save);
+        Button signatureView = findViewById(R.id.signatureView);
+        Button voice2Text = findViewById(R.id.voice2Text);
+        Button messaging_socket = findViewById(R.id.messaging_socket);
+        Button gps_turnON = findViewById(R.id.gps_turnON);
+        Button imageCrop = findViewById(R.id.imageCrop);
+        Button loginBtn = findViewById(R.id.loginBtn);
+        Button qr_code = findViewById(R.id.qr_code);
+        Button fingerPrint = findViewById(R.id.fingerPrint);
+        Button AutoCompleteTextView = findViewById(R.id.autoComplete);
+        Button SharedPref = findViewById(R.id.sharedPref);
+        Button DataBase = findViewById(R.id.dataBase);
+        Button searchFilter = findViewById(R.id.searchFilter);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
@@ -51,6 +59,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         imageCrop.setOnClickListener(this);
         loginBtn.setOnClickListener(this);
         qr_code.setOnClickListener(this);
+        fingerPrint.setOnClickListener(this);
+        AutoCompleteTextView.setOnClickListener(this);
+        SharedPref.setOnClickListener(this);
+        DataBase.setOnClickListener(this);
+        searchFilter.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -139,6 +152,32 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Intent i12 = new Intent(MainActivity.this, QRCodeActivity.class);
                 startActivity(i12);
                 break;
+
+            case R.id.fingerPrint:
+                Intent i13 = new Intent(MainActivity.this, FingerPrintActivity.class);
+                startActivity(i13);
+                break;
+
+            case R.id.autoComplete:
+                Intent i14 = new Intent(MainActivity.this, AutoCompleteSpinners.class);
+                startActivity(i14);
+                break;
+
+            case R.id.sharedPref:
+                Intent i15 = new Intent(MainActivity.this, SharedPreference.class);
+                startActivity(i15);
+                break;
+
+            case R.id.dataBase:
+                Intent i16 = new Intent(MainActivity.this, DataBase.class);
+                startActivity(i16);
+                break;
+
+            case R.id.searchFilter:
+                Intent i17 = new Intent(MainActivity.this, SearchFilterActivity.class);
+                startActivity(i17);
+                break;
+
         }
 
     }

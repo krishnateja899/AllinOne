@@ -4,7 +4,7 @@
     <string name="button_2">Dialogs</string>
     <string name="button_3">Dialog 1</string>
     <string name="button_4">Dialog 2</string>
-    <string name="button_5">Dialog 3</string>
+    <string name="button_5">Time Dialog</string>
     <string name="button_6">Permissions</string>
     <string name="button_7">Camera_Gallery Paths</string>
     <string name="button_8">Signature View</string>
@@ -15,10 +15,18 @@
     <string name="button_13">Login</string>
     <string name="login_register">Register</string>
     <string name="button_15">QR Codes</string>
+    <string name="button_16">FingerPrint</string>
+    <string name="button_17">AutoComplete</string>
+    <string name="button_18">SharedPreferences</string>
+    <string name="button_19">DataBase</string>
+    <string name="button_20">Search Filter</string>
 
-
+    <string name="none">none</string>
     <string name="types_of_date_time">Types of Date and Time</string>
     <string name="types_of_dialogs">Types of Dialogs</string>
+    <string name="dialogs1">Dialog from Utils</string>
+    <string name="dialogs2">Date Dialog</string>
+    <string name="dialogs3">Dialog with EditText</string>
     <string name="upload_images">Uploads</string>
     <string name="permissions">Permissions</string>
     <string name="camera">Camera</string>
@@ -47,6 +55,46 @@
     <string name="Register_activity3">Already have an account?</string>
     <string name="qr_code1">QR Code 1</string>
     <string name="qr_code2">QR Code 2</string>
+    <string name="finger_print1">Using FingerPrint Manager</string>
+    <string name="finger_print2">Using BioMetric</string>
+    <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+    <string name="autocomplete_text">AutoComplete Text View that gives suggestions of all the digit/string based on first digit/string entered.</string>
+    <string name="autocomplete_text2">AutoComplete Text View that gives suggestions of all the digit/string only if they match first digit/string entered.</string>
 
+
+    <string-array name="auto_complete_example">
+        <item>-- Selecionar parentesco --</item>
+        <item>1 - Próprio</item>
+        <item>2 - Mãe</item>
+        <item>3 - Pai</item>
+        <item>21 - Irmão</item>
+        <item>4 - Portaria</item>
+        <item>7 - Funcionário</item>
+        <item>14 - Esposa</item>
+        <item>15 - Esposo</item>
+        <item>6 - Segurança</item>
+        <item>16 - Recepção</item>
+        <item>8 - Empregada</item>
+        <item>5 - Secretário</item>
+        <item>9 - Filho</item>
+        <item>12 - Avô</item>
+        <item>18 - Sogro</item>
+        <item>10 - Tio</item>
+        <item>11 - Sobrinho</item>
+        <item>17 - Primo</item>
+        <item>25 - Neto</item>
+        <item>22 - Noivo</item>
+        <item>23 - Cunhado</item>
+        <item>24 - Genro</item>
+        <item>13 - Procurador</item>
+        <item>19 - Inquilino</item>
+        <item>20 - Síndico</item>
+        <item>26 - Resp. Autorizado</item>
+        <item>0 - Agência</item>
+        <item>51 - Caixa de Correspondência</item>
+        <item>52 - Entregue Sob a Porta</item>
+        <item>50 - Deixado Na Varanda</item>
+        <item>53 - Garagem</item>
+    </string-array>
 
 </resources>

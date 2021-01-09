@@ -13,10 +13,12 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
 
     <uses-feature
         android:glEsVersion="0x00020000"
@@ -33,6 +35,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.AllinOne"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.allinone.Activities.SearchFilter.SearchFilterActivity" />
+        <activity android:name="com.example.allinone.Activities.DataBase" />
+        <activity android:name="com.example.allinone.Activities.SharedPreference" />
+        <activity android:name="com.example.allinone.Activities.AutoCompleteSpinners" />
+        <activity android:name="com.example.allinone.Activities.FingerPrintScanners.FingerPrintScanManager" />
+        <activity android:name="com.example.allinone.Activities.FingerPrintActivity" />
         <activity
             android:name="com.example.allinone.Activities.QRCodes.QRCode2"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
@@ -49,7 +57,7 @@
         <activity android:name="com.example.allinone.Messaging_Socket.MessagingActivity" />
         <activity android:name="com.example.allinone.Activities.VoiceToText" />
         <activity android:name="com.example.allinone.Activities.SignatureView" />
-        <activity android:name="com.example.allinone.CameraGalleryPaths.CameraGalleryPathSaveActivity" />
+        <activity android:name="com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity" />
         <activity android:name="com.example.allinone.Activities.ContinuousGPSUpdate" />
         <activity android:name="com.example.allinone.Activities.PermissionsActivity" />
         <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1" />
@@ -75,6 +83,12 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_paths" />
         </provider>
+
+        <activity
+            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+            android:exported="true"
+            android:theme="@style/DeviceCredentialHandlerTheme" />
+
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
             android:authorities="com.example.allinone.com.squareup.picasso"

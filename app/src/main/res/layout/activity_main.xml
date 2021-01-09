@@ -168,20 +168,67 @@
                     android:layout_marginStart="20dp" />
 
                 <Button
+                    android:id="@+id/fingerPrint"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="@dimen/TenD_padding"
                     android:layout_marginTop="@dimen/TenD_padding"
-                    android:text="None"
+                    android:text="@string/button_16"
                     android:layout_marginStart="@dimen/TenD_padding" />
+
+                <Button
+                    android:id="@+id/autoComplete"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/TenD_padding"
+                    android:layout_marginLeft="@dimen/TenD_padding"
+                    android:text="@string/button_17"
+                    android:layout_marginStart="@dimen/TenD_padding" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/sharedPref"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/TenD_padding"
+                    android:text="@string/button_18"
+                    android:layout_marginStart="20dp" />
+
+                <Button
+                    android:id="@+id/dataBase"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/TenD_padding"
+                    android:text="@string/button_19"
+                    android:layout_marginStart="@dimen/TenD_padding" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/searchFilter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/TenD_padding"
+                    android:text="@string/button_20"
+                    android:layout_marginStart="20dp" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/TenD_padding"
-                    android:layout_marginLeft="@dimen/TenD_padding"
-                    android:text="None"
+                    android:text="none"
                     android:layout_marginStart="@dimen/TenD_padding" />
+
             </LinearLayout>
 
 
