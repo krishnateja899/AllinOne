@@ -38,7 +38,7 @@ public class SharedPreference extends AppCompatActivity {
         openCamera.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Utils.dispatchTakePictureIntent(SharedPreference.this, REQUEST_IMAGE_CAPTURE);
+                Utils.OpenCamera(SharedPreference.this, REQUEST_IMAGE_CAPTURE);
             }
         });
 

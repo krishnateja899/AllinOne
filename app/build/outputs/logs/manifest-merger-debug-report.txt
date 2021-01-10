@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\b8718484daa03109e40dacfa216193fb\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.biometric:biometric:1.0.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:17:1-34:12
@@ -12,6 +12,7 @@ MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Krishna Teja\.gradle\c
 MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\f6a374075152e8dfc1fa6baf3d6beb61\jetified-core-1.9.13\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\21d604bb614ffe39ea7d46309e58b721\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\b0bf27390d36d921a361dfd7126e623e\jetified-circularimageview-3.2.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.kyanogen.signatureview:signature-view:1.2] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\da719bcdd788702d3fbcf0d6618f8b20\jetified-signature-view-1.2\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
@@ -46,6 +47,7 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kris
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.3.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\0aba193bd00fb1b7c7cdddf1ab1f36bc\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\30ef3517b4c1a8055f249b4f267a8ebd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -58,20 +60,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Krishna Teja\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
 	package
 		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
 		INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-74:12
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:1-84:12
 		INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:2:11-69
@@ -122,7 +124,7 @@ ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\And
 	android:name
 		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:14:22-66
 application
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:16:5-72:19
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:16:5-82:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\b8718484daa03109e40dacfa216193fb\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -135,6 +137,8 @@ MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Krishna Teja\.gradle\ca
 MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\f6a374075152e8dfc1fa6baf3d6beb61\jetified-core-1.9.13\AndroidManifest.xml:11:5-20
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\21d604bb614ffe39ea7d46309e58b721\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\21d604bb614ffe39ea7d46309e58b721\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [com.kyanogen.signatureview:signature-view:1.2] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\da719bcdd788702d3fbcf0d6618f8b20\jetified-signature-view-1.2\AndroidManifest.xml:11:5-12:19
 MERGED from [com.kyanogen.signatureview:signature-view:1.2] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\da719bcdd788702d3fbcf0d6618f8b20\jetified-signature-view-1.2\AndroidManifest.xml:11:5-12:19
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
@@ -153,6 +157,8 @@ MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Kris
 MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\4da416a319957518ac6f573eb1464f67\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.3.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\30ef3517b4c1a8055f249b4f267a8ebd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\30ef3517b4c1a8055f249b4f267a8ebd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
@@ -171,148 +177,188 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kr
 		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:22:9-46
 	android:usesCleartextTraffic
 		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:23:9-44
+activity#com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:24:9-89
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:24:19-77
+activity#com.example.allinone.RecyclerViews.GSeventhRecView.DotIndicatorRecView
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:25:9-87
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:25:19-84
+activity#com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:26:9-78
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:26:19-75
+activity#com.example.allinone.RecyclerViews.EFifthRecView.FifthRecView
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:27:9-78
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:27:19-75
+activity#com.example.allinone.RecyclerViews.DFourthRecView.AnimeActivity
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:9-80
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:19-77
+activity#com.example.allinone.RecyclerViews.DFourthRecView.AnimeRecView
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:29:9-79
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:29:19-76
+activity#com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:30:9-78
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:30:19-75
+activity#com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:31:9-81
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:31:19-78
+activity#com.example.allinone.RecyclerViews.AFirstRecView.UsingOfflineData
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:9-82
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:19-79
+activity#com.example.allinone.RecyclerViews.RecyclerMainActivity
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:9-72
+	android:name
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:19-69
 activity#com.example.allinone.Activities.SearchFilter.SearchFilterActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:24:9-91
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:9-82
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:24:19-79
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:19-79
 activity#com.example.allinone.Activities.DataBase
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:25:9-57
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:9-57
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:25:19-54
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:19-54
 activity#com.example.allinone.Activities.SharedPreference
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:26:9-65
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:9-65
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:26:19-62
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:19-62
 activity#com.example.allinone.Activities.AutoCompleteSpinners
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:27:9-69
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:37:9-69
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:27:19-66
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:37:19-66
 activity#com.example.allinone.Activities.FingerPrintScanners.FingerPrintScanManager
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:9-91
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:38:9-91
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:19-88
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:38:19-88
 activity#com.example.allinone.Activities.FingerPrintActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:29:9-68
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:39:9-68
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:29:19-65
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:39:19-65
 activity#com.example.allinone.Activities.QRCodes.QRCode2
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:30:9-32:66
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:40:9-42:66
 	android:theme
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:13-63
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:42:13-63
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:31:13-55
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:41:13-55
 activity#com.example.allinone.Activities.QRCodes.QRCode1
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:9-35:66
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:43:9-45:66
 	android:theme
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:13-63
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:45:13-63
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:13-55
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:44:13-55
 activity#com.example.allinone.Activities.QRCodes.QRCodeActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:9-71
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:9-71
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:19-68
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:19-68
 activity#com.example.allinone.Activities.RegisterActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:37:9-65
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:47:9-65
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:37:19-62
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:47:19-62
 activity#com.example.allinone.Activities.LoginActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:38:9-62
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:48:9-62
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:38:19-59
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:48:19-59
 activity#com.example.allinone.CropImage.CropClasses.CropImage
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:39:9-69
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:49:9-69
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:39:19-66
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:49:19-66
 activity#com.example.allinone.CropImage.CropImageActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:40:9-65
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:50:9-65
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:40:19-62
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:50:19-62
 activity#com.example.allinone.Activities.GPSTurnON
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:41:9-58
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:51:9-58
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:41:19-55
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:51:19-55
 activity#com.example.allinone.Messaging_Socket.ChatBoxActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:42:9-70
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:52:9-70
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:42:19-67
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:52:19-67
 activity#com.example.allinone.Messaging_Socket.MessagingActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:43:9-72
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:9-72
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:43:19-69
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:19-69
 activity#com.example.allinone.Activities.VoiceToText
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:44:9-60
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:9-60
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:44:19-57
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:19-57
 activity#com.example.allinone.Activities.SignatureView
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:45:9-62
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:9-62
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:45:19-59
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:19-59
 activity#com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:9-97
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:56:9-97
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:19-94
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:56:19-94
 activity#com.example.allinone.Activities.ContinuousGPSUpdate
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:47:9-68
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:9-68
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:47:19-65
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:19-65
 activity#com.example.allinone.Activities.PermissionsActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:48:9-68
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:58:9-68
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:48:19-65
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:58:19-65
 activity#com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:49:9-87
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:9-87
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:49:19-84
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:19-84
 activity#com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:50:9-93
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:60:9-93
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:50:19-90
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:60:19-90
 activity#com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:51:9-93
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:61:9-93
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:51:19-90
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:61:19-90
 activity#com.example.allinone.Activities.DialogActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:52:9-63
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:62:9-63
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:52:19-60
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:62:19-60
 activity#com.example.allinone.Activities.TimeDateActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:9-65
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:63:9-65
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:19-62
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:63:19-62
 activity#com.example.allinone.UploadImageClasses.UploadImages
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:9-69
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:64:9-69
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:19-66
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:64:19-66
 activity#com.example.allinone.MainActivity
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:9-61:20
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:65:9-71:20
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:19-47
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:65:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:56:13-60:29
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:66:13-70:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:17-69
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:67:17-69
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:25-66
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:67:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:17-77
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:69:17-77
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:27-74
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:69:27-74
 provider#androidx.core.content.FileProvider
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:63:9-71:20
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:73:9-81:20
 	android:grantUriPermissions
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:67:13-47
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:77:13-47
 	android:authorities
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:65:13-55
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:75:13-55
 	android:exported
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:66:13-37
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:76:13-37
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:64:13-62
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:74:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:68:13-70:54
+ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:78:13-80:54
 	android:resource
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:70:17-51
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:80:17-51
 	android:name
-		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:69:17-67
+		ADDED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:79:17-67
 uses-sdk
 INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
@@ -333,6 +379,8 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Krishna Teja\.gra
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\21d604bb614ffe39ea7d46309e58b721\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\21d604bb614ffe39ea7d46309e58b721\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\b0bf27390d36d921a361dfd7126e623e\jetified-circularimageview-3.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\b0bf27390d36d921a361dfd7126e623e\jetified-circularimageview-3.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.kyanogen.signatureview:signature-view:1.2] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\da719bcdd788702d3fbcf0d6618f8b20\jetified-signature-view-1.2\AndroidManifest.xml:7:5-9:41
@@ -401,6 +449,8 @@ MERGED from [androidx.core:core:1.3.1] C:\Users\Krishna Teja\.gradle\caches\tran
 MERGED from [androidx.core:core:1.3.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\0aba193bd00fb1b7c7cdddf1ab1f36bc\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\0aba193bd00fb1b7c7cdddf1ab1f36bc\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\30ef3517b4c1a8055f249b4f267a8ebd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\30ef3517b4c1a8055f249b4f267a8ebd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:20:5-44

@@ -1,0 +1,28 @@
+> Few projects here require a fake json server.
+
+> Please look into this repo for official documentation:
+    https://github.com/typicode/json-server
+
+> How to create a fake json server:
+    1. Open visual studio code.
+    2. Open an empty folder and open terminal.
+    3. Enter : npm install -g json-server
+            for installing the fake json server.
+    4. Then take the json file in the projects and copy them to the folder.
+    5. In the terminal enter : json-server tripsAPI.json    and hit enter.
+    6. And the fake json server will run at : http://localhost:3000/Start
+    7. In the android studio change the localhost to http://10.0.2.2:3000/Start  and run the project.
+    8. Now the server is up and you can use the api.
+
+
+> How to create a fake data json server:
+    1. Create a js file.
+    2. install faker and lodash: npm install faker lodash
+    3. write the function and execute
+    4. Sample file in the project."generate.js"
+    5. After writing the function execute it using : json-server generate.js
+    6. For more visit the official documentation.
+
+
+> Other repo's to create fake data:
+    https://github.com/boo1ean/casual

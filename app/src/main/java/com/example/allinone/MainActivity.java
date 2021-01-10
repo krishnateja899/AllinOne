@@ -24,6 +24,7 @@ import com.example.allinone.Activities.VoiceToText;
 import com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity;
 import com.example.allinone.CropImage.CropImageActivity;
 import com.example.allinone.Messaging_Socket.MessagingActivity;
+import com.example.allinone.RecyclerViews.RecyclerMainActivity;
 import com.example.allinone.UploadImageClasses.UploadImages;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
@@ -51,6 +52,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button SharedPref = findViewById(R.id.sharedPref);
         Button DataBase = findViewById(R.id.dataBase);
         Button searchFilter = findViewById(R.id.searchFilter);
+        Button recyclerViews = findViewById(R.id.recyclerViews);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
@@ -64,6 +66,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         SharedPref.setOnClickListener(this);
         DataBase.setOnClickListener(this);
         searchFilter.setOnClickListener(this);
+        recyclerViews.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -176,6 +179,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.searchFilter:
                 Intent i17 = new Intent(MainActivity.this, SearchFilterActivity.class);
                 startActivity(i17);
+                break;
+
+            case R.id.recyclerViews:
+                Intent i18 = new Intent(MainActivity.this, RecyclerMainActivity.class);
+                startActivity(i18);
                 break;
 
         }

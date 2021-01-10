@@ -20,6 +20,7 @@
     <string name="button_18">SharedPreferences</string>
     <string name="button_19">DataBase</string>
     <string name="button_20">Search Filter</string>
+    <string name="button_21">Recycler Views</string>
 
     <string name="none">none</string>
     <string name="types_of_date_time">Types of Date and Time</string>
@@ -60,6 +61,15 @@
     <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
     <string name="autocomplete_text">AutoComplete Text View that gives suggestions of all the digit/string based on first digit/string entered.</string>
     <string name="autocomplete_text2">AutoComplete Text View that gives suggestions of all the digit/string only if they match first digit/string entered.</string>
+    <string name="recycler1">Type 1</string>
+    <string name="recycler2">Type 2</string>
+    <string name="recycler3">Type 3</string>
+    <string name="recycler4">Type 4</string>
+    <string name="recycler5">Type 5</string>
+    <string name="recycler6">Type 6</string>
+    <string name="recycler7">Type 7</string>
+    <string name="recycler8">Type 8</string>
+    <string name="recycler9">Type 9</string>
 
 
     <string-array name="auto_complete_example">
@@ -96,5 +106,7 @@
         <item>50 - Deixado Na Varanda</item>
         <item>53 - Garagem</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

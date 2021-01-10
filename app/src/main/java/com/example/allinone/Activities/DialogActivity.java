@@ -46,6 +46,7 @@ public class DialogActivity extends AppCompatActivity {
         Button dialog_btn4 = findViewById(R.id.dialog_btn4);
         dialog_btn5 = findViewById(R.id.dialog_btn5);
         Button dialog_btn6 = findViewById(R.id.dialog_btn6);
+        Button dialog_btn7 = findViewById(R.id.dialog_btn7);
 
         dialog_btn1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -86,6 +87,13 @@ public class DialogActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 DialogBox5();
+            }
+        });
+
+        dialog_btn7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Utils.OpenGallery(DialogActivity.this, 1);
             }
         });
     }

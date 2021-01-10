@@ -11,13 +11,8 @@ import androidx.appcompat.app.AlertDialog;
 import java.util.ArrayList;
 
 public class Utils {
+
     public static final int REQUEST_IMAGE_CAPTURE = 1;
-
-
-    public static void dispatchTakePictureIntent(Activity activity, int requestCode) {
-        Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-        activity.startActivityForResult(takePictureIntent, requestCode);
-    }
 
     public static String ConvertArrayListToString(ArrayList<String> arrList) {
         StringBuilder sb = new StringBuilder();
@@ -43,4 +38,16 @@ public class Utils {
         alert1.show();
         return alert1;
     }
+
+    public static void OpenCamera(Activity activity, int requestCode) {
+        Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        activity.startActivityForResult(takePictureIntent, requestCode);
+    }
+
+    public static void OpenGallery(Activity activity, int requestCode) {
+        Intent photoPickerIntent = new Intent(Intent.ACTION_GET_CONTENT);
+        photoPickerIntent.setType("image/*");
+        activity.startActivityForResult(photoPickerIntent, requestCode);
+    }
+
 }

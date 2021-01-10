@@ -223,10 +223,11 @@
                     android:layout_marginStart="20dp" />
 
                 <Button
+                    android:id="@+id/recyclerViews"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/TenD_padding"
-                    android:text="none"
+                    android:text="@string/button_21"
                     android:layout_marginStart="@dimen/TenD_padding" />
 
             </LinearLayout>
