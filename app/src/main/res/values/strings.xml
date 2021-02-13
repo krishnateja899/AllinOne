@@ -21,6 +21,9 @@
     <string name="button_19">DataBase</string>
     <string name="button_20">Search Filter</string>
     <string name="button_21">Recycler Views</string>
+    <string name="button_22">Random Features</string>
+    <string name="button_23">Stepper Layout</string>
+    <string name="button_24">UI Components</string>
 
     <string name="none">none</string>
     <string name="types_of_date_time">Types of Date and Time</string>
@@ -28,6 +31,7 @@
     <string name="dialogs1">Dialog from Utils</string>
     <string name="dialogs2">Date Dialog</string>
     <string name="dialogs3">Dialog with EditText</string>
+    <string name="dialogs4">Dialog from class</string>
     <string name="upload_images">Uploads</string>
     <string name="permissions">Permissions</string>
     <string name="camera">Camera</string>
@@ -70,6 +74,11 @@
     <string name="recycler7">Type 7</string>
     <string name="recycler8">Type 8</string>
     <string name="recycler9">Type 9</string>
+    <string name="random_features1">Delayed Handler</string>
+    <string name="random_features2">Splash Screen</string>
+    <string name="background1">Backgrounds colours</string>
+    <string name="uiComponents1">Button Types</string>
+    <string name="uiComponents2">Edit Text Types</string>
 
 
     <string-array name="auto_complete_example">

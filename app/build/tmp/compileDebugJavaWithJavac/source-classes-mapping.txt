@@ -1,17 +1,3 @@
-com/example/allinone/APIParse/POSTApi.java
- com.example.allinone.APIParse.POSTApi
- com.example.allinone.APIParse.POSTApi$1
- com.example.allinone.APIParse.POSTApi$2
- com.example.allinone.APIParse.POSTApi$3
- com.example.allinone.APIParse.POSTApi$4
- com.example.allinone.APIParse.POSTApi$5
- com.example.allinone.APIParse.POSTApi$6
-com/example/allinone/CropImage/CropClasses/BitmapManager.java
- com.example.allinone.CropImage.CropClasses.BitmapManager
- com.example.allinone.CropImage.CropClasses.BitmapManager$1
- com.example.allinone.CropImage.CropClasses.BitmapManager$State
- com.example.allinone.CropImage.CropClasses.BitmapManager$ThreadSet
- com.example.allinone.CropImage.CropClasses.BitmapManager$ThreadStatus
 com/example/allinone/Messaging_Socket/ChatBoxActivity.java
  com.example.allinone.Messaging_Socket.ChatBoxActivity
  com.example.allinone.Messaging_Socket.ChatBoxActivity$1
@@ -23,11 +9,6 @@ com/example/allinone/Messaging_Socket/ChatBoxActivity.java
  com.example.allinone.Messaging_Socket.ChatBoxActivity$4$1
 com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesActivity1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1
-com/example/allinone/Activities/FingerPrintActivity.java
- com.example.allinone.Activities.FingerPrintActivity
- com.example.allinone.Activities.FingerPrintActivity$1
- com.example.allinone.Activities.FingerPrintActivity$2
- com.example.allinone.Activities.FingerPrintActivity$3
 com/example/allinone/Adapters/AutoSuggestAdapter.java
  com.example.allinone.Adapters.AutoSuggestAdapter
  com.example.allinone.Adapters.AutoSuggestAdapter$1
@@ -42,6 +23,7 @@ com/example/allinone/Activities/DialogActivity.java
  com.example.allinone.Activities.DialogActivity$12
  com.example.allinone.Activities.DialogActivity$13
  com.example.allinone.Activities.DialogActivity$14
+ com.example.allinone.Activities.DialogActivity$15
  com.example.allinone.Activities.DialogActivity$2
  com.example.allinone.Activities.DialogActivity$3
  com.example.allinone.Activities.DialogActivity$4
@@ -55,6 +37,190 @@ com/example/allinone/Activities/SearchFilter/SearchFilterActivity.java
  com.example.allinone.Activities.SearchFilter.SearchFilterActivity$1
 com/example/allinone/RecyclerViews/EFifthRecView/FifthRecView.java
  com.example.allinone.RecyclerViews.EFifthRecView.FifthRecView
+com/example/allinone/RecyclerViews/BSecondRecView/User.java
+ com.example.allinone.RecyclerViews.BSecondRecView.User
+com/example/allinone/Activities/SearchFilter/ExampleAdapter.java
+ com.example.allinone.Activities.SearchFilter.ExampleAdapter
+ com.example.allinone.Activities.SearchFilter.ExampleAdapter$1
+ com.example.allinone.Activities.SearchFilter.ExampleAdapter$ExampleViewHolder
+com/example/allinone/Activities/SplashWelcome.java
+ com.example.allinone.Activities.SplashWelcome
+ com.example.allinone.Activities.SplashWelcome$1
+ com.example.allinone.Activities.SplashWelcome$2
+ com.example.allinone.Activities.SplashWelcome$2$1
+com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.java
+ com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport1
+ com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport1$1
+com/example/allinone/CropImage/CropClasses/MonitoredActivity.java
+ com.example.allinone.CropImage.CropClasses.MonitoredActivity
+ com.example.allinone.CropImage.CropClasses.MonitoredActivity$LifeCycleAdapter
+ com.example.allinone.CropImage.CropClasses.MonitoredActivity$LifeCycleListener
+com/example/allinone/Fragments/StepperFragOne.java
+ com.example.allinone.Fragments.StepperFragOne
+com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView1.java
+ com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasView1
+com/example/allinone/Activities/CameraGalleryPaths/CameraGalleryPathSaveActivity.java
+ com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity
+ com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity$1
+ com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity$2
+com/example/allinone/RecyclerViews/FSixthRecView/UserItems.java
+ com.example.allinone.RecyclerViews.FSixthRecView.UserItems
+com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao1.java
+ com.example.allinone.UploadImageClasses.ViewImageClasses.RepairsImageDao1
+com/example/allinone/Activities/FingerPrintScanners/FingerprintHandler.java
+ com.example.allinone.Activities.FingerPrintScanners.FingerprintHandler
+com/example/allinone/Activities/UI/BackgroundsColors.java
+ com.example.allinone.Activities.UI.BackgroundsColors
+com/example/allinone/Modals/DataBaseExampleModal.java
+ com.example.allinone.Modals.DataBaseExampleModal
+com/example/allinone/RecyclerViews/CThirdRecView/ThirdListItem.java
+ com.example.allinone.RecyclerViews.CThirdRecView.ThirdListItem
+com/example/allinone/RecyclerViews/RecyclerMainActivity.java
+ com.example.allinone.RecyclerViews.RecyclerMainActivity
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$1
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$2
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$3
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$4
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$5
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$6
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$7
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$8
+ com.example.allinone.RecyclerViews.RecyclerMainActivity$9
+com/example/allinone/RecyclerViews/DFourthRecView/AnimeActivity.java
+ com.example.allinone.RecyclerViews.DFourthRecView.AnimeActivity
+com/example/allinone/RecyclerViews/CThirdRecView/ThirdRecView.java
+ com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView
+ com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView$1
+ com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView$2
+com/example/allinone/CropImage/CropClasses/RotateBitmap.java
+ com.example.allinone.CropImage.CropClasses.RotateBitmap
+com/example/allinone/Activities/SharedPreference.java
+ com.example.allinone.Activities.SharedPreference
+ com.example.allinone.Activities.SharedPreference$1
+ com.example.allinone.Activities.SharedPreference$2
+com/example/allinone/APIParse/Volley/GETApi.java
+ com.example.allinone.APIParse.Volley.GETApi
+ com.example.allinone.APIParse.Volley.GETApi$1
+ com.example.allinone.APIParse.Volley.GETApi$2
+ com.example.allinone.APIParse.Volley.GETApi$3
+ com.example.allinone.APIParse.Volley.GETApi$4
+ com.example.allinone.APIParse.Volley.GETApi$5
+ com.example.allinone.APIParse.Volley.GETApi$6
+com/example/allinone/Activities/UI/UiComponents.java
+ com.example.allinone.Activities.UI.UiComponents
+ com.example.allinone.Activities.UI.UiComponents$1
+ com.example.allinone.Activities.UI.UiComponents$2
+ com.example.allinone.Activities.UI.UiComponents$3
+com/example/allinone/CropImage/CropClasses/ImageViewTouchBase.java
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$1
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$2
+ com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$Recycler
+com/example/allinone/Activities/TimeDateActivity.java
+ com.example.allinone.Activities.TimeDateActivity
+com/example/allinone/Modals/PreferenceExampleModal.java
+ com.example.allinone.Modals.PreferenceExampleModal
+com/example/allinone/APIParse/XmlToJson/Tag.java
+ com.example.allinone.APIParse.XmlToJson.Tag
+com/example/allinone/RecyclerViews/AFirstRecView/ProgrammingAdapter.java
+ com.example.allinone.RecyclerViews.AFirstRecView.ProgrammingAdapter
+ com.example.allinone.RecyclerViews.AFirstRecView.ProgrammingAdapter$ProgrammingViewHolder
+com/example/allinone/CropImage/CropClasses/CropImageView.java
+ com.example.allinone.CropImage.CropClasses.CropImageView
+com/example/allinone/Messaging_Socket/ChatBoxAdapter.java
+ com.example.allinone.Messaging_Socket.ChatBoxAdapter
+ com.example.allinone.Messaging_Socket.ChatBoxAdapter$MyViewHolder
+com/example/allinone/RecyclerViews/GSeventhRecView/DotIndicatorRecView.java
+ com.example.allinone.RecyclerViews.GSeventhRecView.DotIndicatorRecView
+com/example/allinone/APIParse/Volley/VolleyMultipartRequest.java
+ com.example.allinone.APIParse.Volley.VolleyMultipartRequest
+ com.example.allinone.APIParse.Volley.VolleyMultipartRequest$DataPart
+com/example/allinone/Fragments/StepperFragThree.java
+ com.example.allinone.Fragments.StepperFragThree
+com/example/allinone/Activities/DataBase.java
+ com.example.allinone.Activities.DataBase
+com/example/allinone/UploadImageClasses/UploadImages.java
+ com.example.allinone.UploadImageClasses.UploadImages
+ com.example.allinone.UploadImageClasses.UploadImages$1
+ com.example.allinone.UploadImageClasses.UploadImages$2
+ com.example.allinone.UploadImageClasses.UploadImages$3
+ com.example.allinone.UploadImageClasses.UploadImages$4
+ com.example.allinone.UploadImageClasses.UploadImages$FileCounter
+com/example/allinone/Activities/LoginActivity.java
+ com.example.allinone.Activities.LoginActivity
+ com.example.allinone.Activities.LoginActivity$1
+ com.example.allinone.Activities.LoginActivity$2
+ com.example.allinone.Activities.LoginActivity$3
+ com.example.allinone.Activities.LoginActivity$4
+ com.example.allinone.Activities.LoginActivity$5
+com/example/allinone/Activities/OtherFeatures.java
+ com.example.allinone.Activities.OtherFeatures
+ com.example.allinone.Activities.OtherFeatures$1
+ com.example.allinone.Activities.OtherFeatures$1$1
+ com.example.allinone.Activities.OtherFeatures$2
+com/example/allinone/Activities/VoiceToText.java
+ com.example.allinone.Activities.VoiceToText
+ com.example.allinone.Activities.VoiceToText$1
+com/example/allinone/Activities/PermissionsActivity.java
+ com.example.allinone.Activities.PermissionsActivity
+ com.example.allinone.Activities.PermissionsActivity$1
+ com.example.allinone.Activities.PermissionsActivity$10
+ com.example.allinone.Activities.PermissionsActivity$2
+ com.example.allinone.Activities.PermissionsActivity$3
+ com.example.allinone.Activities.PermissionsActivity$4
+ com.example.allinone.Activities.PermissionsActivity$5
+ com.example.allinone.Activities.PermissionsActivity$6
+ com.example.allinone.Activities.PermissionsActivity$7
+ com.example.allinone.Activities.PermissionsActivity$8
+ com.example.allinone.Activities.PermissionsActivity$9
+com/example/allinone/CropImage/CropImageActivity.java
+ com.example.allinone.CropImage.CropImageActivity
+ com.example.allinone.CropImage.CropImageActivity$1
+ com.example.allinone.CropImage.CropImageActivity$2
+com/example/allinone/RecyclerViews/CThirdRecView/MyAdapter.java
+ com.example.allinone.RecyclerViews.CThirdRecView.MyAdapter
+ com.example.allinone.RecyclerViews.CThirdRecView.MyAdapter$1
+ com.example.allinone.RecyclerViews.CThirdRecView.MyAdapter$ViewHolder
+com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.java
+ com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1
+ com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1$1
+ com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1$2
+com/example/allinone/HelperClasses/Utils.java
+ com.example.allinone.HelperClasses.Utils
+ com.example.allinone.HelperClasses.Utils$1
+com/example/allinone/RecyclerViews/BSecondRecView/GithubAdapter.java
+ com.example.allinone.RecyclerViews.BSecondRecView.GithubAdapter
+ com.example.allinone.RecyclerViews.BSecondRecView.GithubAdapter$1
+ com.example.allinone.RecyclerViews.BSecondRecView.GithubAdapter$GithubViewHolder
+com/example/allinone/BuildConfig.java
+ com.example.allinone.BuildConfig
+com/example/allinone/HelperClasses/AppPreferences.java
+ com.example.allinone.HelperClasses.AppPreferences
+ com.example.allinone.HelperClasses.AppPreferences$1
+com/example/allinone/RecyclerViews/GSeventhRecView/OfferAdapter.java
+ com.example.allinone.RecyclerViews.GSeventhRecView.OfferAdapter
+ com.example.allinone.RecyclerViews.GSeventhRecView.OfferAdapter$OfferViewHolder
+com/example/allinone/Activities/UI/ButtonTypes.java
+ com.example.allinone.Activities.UI.ButtonTypes
+com/example/allinone/CropImage/CropClasses/BitmapManager.java
+ com.example.allinone.CropImage.CropClasses.BitmapManager
+ com.example.allinone.CropImage.CropClasses.BitmapManager$1
+ com.example.allinone.CropImage.CropClasses.BitmapManager$State
+ com.example.allinone.CropImage.CropClasses.BitmapManager$ThreadSet
+ com.example.allinone.CropImage.CropClasses.BitmapManager$ThreadStatus
+com/example/allinone/Activities/FingerPrintActivity.java
+ com.example.allinone.Activities.FingerPrintActivity
+ com.example.allinone.Activities.FingerPrintActivity$1
+ com.example.allinone.Activities.FingerPrintActivity$2
+ com.example.allinone.Activities.FingerPrintActivity$3
+com/example/allinone/Fragments/DialogFromClass.java
+ com.example.allinone.Fragments.DialogFromClass
+ com.example.allinone.Fragments.DialogFromClass$1
+com/example/allinone/APIParse/Volley/MultiPartRequestAPI.java
+ com.example.allinone.APIParse.Volley.MultiPartRequestAPI
+ com.example.allinone.APIParse.Volley.MultiPartRequestAPI$1
+ com.example.allinone.APIParse.Volley.MultiPartRequestAPI$2
+ com.example.allinone.APIParse.Volley.MultiPartRequestAPI$3
 com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$1
@@ -65,38 +231,22 @@ com/example/allinone/UploadImageClasses/ViewImageClasses/ViewImagesAdapter1.java
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$6
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$7
  com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesAdapter1$Holder
-com/example/allinone/RecyclerViews/BSecondRecView/User.java
- com.example.allinone.RecyclerViews.BSecondRecView.User
-com/example/allinone/RecyclerViews/FSixthRecView/UsersInfoApi.java
- com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi
- com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$1
- com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$2
+com/example/allinone/RecyclerViews/HEighthRecView/Delayed_Trips_Fragment.java
+ com.example.allinone.RecyclerViews.HEighthRecView.Delayed_Trips_Fragment
+ com.example.allinone.RecyclerViews.HEighthRecView.Delayed_Trips_Fragment$1
+ com.example.allinone.RecyclerViews.HEighthRecView.Delayed_Trips_Fragment$2
 com/example/allinone/RecyclerViews/EFifthRecView/MyRecyclerViewAdapter.java
  com.example.allinone.RecyclerViews.EFifthRecView.MyRecyclerViewAdapter
  com.example.allinone.RecyclerViews.EFifthRecView.MyRecyclerViewAdapter$ItemClickListener
  com.example.allinone.RecyclerViews.EFifthRecView.MyRecyclerViewAdapter$ViewHolder
-com/example/allinone/HelperClasses/AppPreferences.java
- com.example.allinone.HelperClasses.AppPreferences
- com.example.allinone.HelperClasses.AppPreferences$1
-com/example/allinone/Activities/SearchFilter/ExampleAdapter.java
- com.example.allinone.Activities.SearchFilter.ExampleAdapter
- com.example.allinone.Activities.SearchFilter.ExampleAdapter$1
- com.example.allinone.Activities.SearchFilter.ExampleAdapter$ExampleViewHolder
+com/example/allinone/RecyclerViews/HEighthRecView/TripsActivity.java
+ com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity
+ com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity$1
+ com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity$ViewpagerAdapter
 com/example/allinone/APIParse/XmlToJson/JsonToXml.java
  com.example.allinone.APIParse.XmlToJson.JsonToXml
  com.example.allinone.APIParse.XmlToJson.JsonToXml$1
  com.example.allinone.APIParse.XmlToJson.JsonToXml$Builder
-com/example/allinone/UploadImageClasses/ViewImageClasses/RecyclerViewWithEmptyViewSupport1.java
- com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport1
- com.example.allinone.UploadImageClasses.ViewImageClasses.RecyclerViewWithEmptyViewSupport1$1
-com/example/allinone/APIParse/GETApi.java
- com.example.allinone.APIParse.GETApi
- com.example.allinone.APIParse.GETApi$1
- com.example.allinone.APIParse.GETApi$2
- com.example.allinone.APIParse.GETApi$3
- com.example.allinone.APIParse.GETApi$4
- com.example.allinone.APIParse.GETApi$5
- com.example.allinone.APIParse.GETApi$6
 com/example/allinone/RecyclerViews/HEighthRecView/Trips_Adapter.java
  com.example.allinone.RecyclerViews.HEighthRecView.Trips_Adapter
  com.example.allinone.RecyclerViews.HEighthRecView.Trips_Adapter$Holder
@@ -113,15 +263,13 @@ com/example/allinone/CropImage/CropClasses/CropImage.java
  com.example.allinone.CropImage.CropClasses.CropImage$6
  com.example.allinone.CropImage.CropClasses.CropImage$6$1
  com.example.allinone.CropImage.CropClasses.CropImage$7
-com/example/allinone/CropImage/CropClasses/MonitoredActivity.java
- com.example.allinone.CropImage.CropClasses.MonitoredActivity
- com.example.allinone.CropImage.CropClasses.MonitoredActivity$LifeCycleAdapter
- com.example.allinone.CropImage.CropClasses.MonitoredActivity$LifeCycleListener
 com/example/allinone/CropImage/CropClasses/HighlightView.java
  com.example.allinone.CropImage.CropClasses.HighlightView
  com.example.allinone.CropImage.CropClasses.HighlightView$ModifyMode
 com/example/allinone/Activities/SearchFilter/ExampleItem.java
  com.example.allinone.Activities.SearchFilter.ExampleItem
+com/example/allinone/Activities/StepperLayout.java
+ com.example.allinone.Activities.StepperLayout
 com/example/allinone/APIParse/XmlToJson/FileReader.java
  com.example.allinone.APIParse.XmlToJson.FileReader
 com/example/allinone/APIParse/XmlToJson/Node.java
@@ -130,16 +278,8 @@ com/example/allinone/APIParse/XmlToJson/Node.java
 com/example/allinone/Messaging_Socket/MessagingActivity.java
  com.example.allinone.Messaging_Socket.MessagingActivity
  com.example.allinone.Messaging_Socket.MessagingActivity$1
-com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasView1.java
- com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasView1
-com/example/allinone/Activities/CameraGalleryPaths/CameraGalleryPathSaveActivity.java
- com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity
- com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity$1
- com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity$2
 com/example/allinone/Messaging_Socket/Message.java
  com.example.allinone.Messaging_Socket.Message
-com/example/allinone/RecyclerViews/FSixthRecView/UserItems.java
- com.example.allinone.RecyclerViews.FSixthRecView.UserItems
 com/example/allinone/Activities/RegisterActivity.java
  com.example.allinone.Activities.RegisterActivity
  com.example.allinone.Activities.RegisterActivity$1
@@ -147,31 +287,14 @@ com/example/allinone/Activities/RegisterActivity.java
  com.example.allinone.Activities.RegisterActivity$3
  com.example.allinone.Activities.RegisterActivity$4
  com.example.allinone.Activities.RegisterActivity$5
-com/example/allinone/UploadImageClasses/ViewImageClasses/RepairsImageDao1.java
- com.example.allinone.UploadImageClasses.ViewImageClasses.RepairsImageDao1
-com/example/allinone/Activities/FingerPrintScanners/FingerprintHandler.java
- com.example.allinone.Activities.FingerPrintScanners.FingerprintHandler
-com/example/allinone/Modals/DataBaseExampleModal.java
- com.example.allinone.Modals.DataBaseExampleModal
+com/example/allinone/Adapters/MyStepperAdapter.java
+ com.example.allinone.Adapters.MyStepperAdapter
 com/example/allinone/Activities/QRCodes/QRCodeActivity.java
  com.example.allinone.Activities.QRCodes.QRCodeActivity
  com.example.allinone.Activities.QRCodes.QRCodeActivity$1
  com.example.allinone.Activities.QRCodes.QRCodeActivity$2
 com/example/allinone/Activities/ContinuousGPSUpdate.java
  com.example.allinone.Activities.ContinuousGPSUpdate
-com/example/allinone/RecyclerViews/CThirdRecView/ThirdListItem.java
- com.example.allinone.RecyclerViews.CThirdRecView.ThirdListItem
-com/example/allinone/RecyclerViews/RecyclerMainActivity.java
- com.example.allinone.RecyclerViews.RecyclerMainActivity
- com.example.allinone.RecyclerViews.RecyclerMainActivity$1
- com.example.allinone.RecyclerViews.RecyclerMainActivity$2
- com.example.allinone.RecyclerViews.RecyclerMainActivity$3
- com.example.allinone.RecyclerViews.RecyclerMainActivity$4
- com.example.allinone.RecyclerViews.RecyclerMainActivity$5
- com.example.allinone.RecyclerViews.RecyclerMainActivity$6
- com.example.allinone.RecyclerViews.RecyclerMainActivity$7
- com.example.allinone.RecyclerViews.RecyclerMainActivity$8
- com.example.allinone.RecyclerViews.RecyclerMainActivity$9
 com/example/allinone/Activities/FingerPrintScanners/FingerPrintScanManager.java
  com.example.allinone.Activities.FingerPrintScanners.FingerPrintScanManager
 com/example/allinone/MainActivity.java
@@ -189,47 +312,21 @@ com/example/allinone/Activities/QRCodes/QRCode2.java
 com/example/allinone/RecyclerViews/FSixthRecView/UsersAdapter.java
  com.example.allinone.RecyclerViews.FSixthRecView.UsersAdapter
  com.example.allinone.RecyclerViews.FSixthRecView.UsersAdapter$ViewHolder
-com/example/allinone/RecyclerViews/DFourthRecView/AnimeActivity.java
- com.example.allinone.RecyclerViews.DFourthRecView.AnimeActivity
-com/example/allinone/RecyclerViews/CThirdRecView/ThirdRecView.java
- com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView
- com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView$1
- com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView$2
 com/example/allinone/RecyclerViews/DFourthRecView/AnimeRecView.java
  com.example.allinone.RecyclerViews.DFourthRecView.AnimeRecView
  com.example.allinone.RecyclerViews.DFourthRecView.AnimeRecView$1
  com.example.allinone.RecyclerViews.DFourthRecView.AnimeRecView$2
-com/example/allinone/CropImage/CropClasses/RotateBitmap.java
- com.example.allinone.CropImage.CropClasses.RotateBitmap
 com/example/allinone/RecyclerViews/HEighthRecView/AssignFragData.java
  com.example.allinone.RecyclerViews.HEighthRecView.AssignFragData
-com/example/allinone/Activities/SharedPreference.java
- com.example.allinone.Activities.SharedPreference
- com.example.allinone.Activities.SharedPreference$1
- com.example.allinone.Activities.SharedPreference$2
 com/example/allinone/HelperClasses/DataBaseHelper.java
  com.example.allinone.HelperClasses.DataBaseHelper
-com/example/allinone/CropImage/CropClasses/ImageViewTouchBase.java
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$1
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$2
- com.example.allinone.CropImage.CropClasses.ImageViewTouchBase$Recycler
 com/example/allinone/RecyclerViews/GSeventhRecView/DotsIndicatorDecoration.java
  com.example.allinone.RecyclerViews.GSeventhRecView.DotsIndicatorDecoration
-com/example/allinone/Activities/TimeDateActivity.java
- com.example.allinone.Activities.TimeDateActivity
-com/example/allinone/Modals/PreferenceExampleModal.java
- com.example.allinone.Modals.PreferenceExampleModal
-com/example/allinone/APIParse/PUTApi.java
- com.example.allinone.APIParse.PUTApi
- com.example.allinone.APIParse.PUTApi$1
- com.example.allinone.APIParse.PUTApi$2
- com.example.allinone.APIParse.PUTApi$3
-com/example/allinone/APIParse/XmlToJson/Tag.java
- com.example.allinone.APIParse.XmlToJson.Tag
-com/example/allinone/RecyclerViews/AFirstRecView/ProgrammingAdapter.java
- com.example.allinone.RecyclerViews.AFirstRecView.ProgrammingAdapter
- com.example.allinone.RecyclerViews.AFirstRecView.ProgrammingAdapter$ProgrammingViewHolder
+com/example/allinone/APIParse/Volley/PUTApi.java
+ com.example.allinone.APIParse.Volley.PUTApi
+ com.example.allinone.APIParse.Volley.PUTApi$1
+ com.example.allinone.APIParse.Volley.PUTApi$2
+ com.example.allinone.APIParse.Volley.PUTApi$3
 com/example/allinone/Activities/GPSTurnON.java
  com.example.allinone.Activities.GPSTurnON
  com.example.allinone.Activities.GPSTurnON$1
@@ -249,27 +346,20 @@ com/example/allinone/HelperClasses/GpsUtils.java
  com.example.allinone.HelperClasses.GpsUtils$1
  com.example.allinone.HelperClasses.GpsUtils$2
  com.example.allinone.HelperClasses.GpsUtils$onGpsListener
-com/example/allinone/CropImage/CropClasses/CropImageView.java
- com.example.allinone.CropImage.CropClasses.CropImageView
-com/example/allinone/Messaging_Socket/ChatBoxAdapter.java
- com.example.allinone.Messaging_Socket.ChatBoxAdapter
- com.example.allinone.Messaging_Socket.ChatBoxAdapter$MyViewHolder
+com/example/allinone/Fragments/StepperFragTwo.java
+ com.example.allinone.Fragments.StepperFragTwo
 com/example/allinone/HelperClasses/InternetConnectionChecker.java
  com.example.allinone.HelperClasses.InternetConnectionChecker
  com.example.allinone.HelperClasses.InternetConnectionChecker$1
  com.example.allinone.HelperClasses.InternetConnectionChecker$2
  com.example.allinone.HelperClasses.InternetConnectionChecker$3
-com/example/allinone/RecyclerViews/GSeventhRecView/DotIndicatorRecView.java
- com.example.allinone.RecyclerViews.GSeventhRecView.DotIndicatorRecView
-com/example/allinone/Activities/DataBase.java
- com.example.allinone.Activities.DataBase
-com/example/allinone/UploadImageClasses/UploadImages.java
- com.example.allinone.UploadImageClasses.UploadImages
- com.example.allinone.UploadImageClasses.UploadImages$1
- com.example.allinone.UploadImageClasses.UploadImages$2
- com.example.allinone.UploadImageClasses.UploadImages$3
- com.example.allinone.UploadImageClasses.UploadImages$4
- com.example.allinone.UploadImageClasses.UploadImages$FileCounter
+com/example/allinone/APIParse/Volley/XMLPost.java
+ com.example.allinone.APIParse.Volley.XMLPost
+ com.example.allinone.APIParse.Volley.XMLPost$1
+ com.example.allinone.APIParse.Volley.XMLPost$2
+ com.example.allinone.APIParse.Volley.XMLPost$3
+com/example/allinone/Modals/SampleDatabaseExample.java
+ com.example.allinone.Modals.SampleDatabaseExample
 com/example/allinone/CropImage/CropClasses/Util.java
  com.example.allinone.CropImage.CropClasses.Util
  com.example.allinone.CropImage.CropClasses.Util$BackgroundJob
@@ -278,80 +368,35 @@ com/example/allinone/Activities/SignatureView.java
  com.example.allinone.Activities.SignatureView
  com.example.allinone.Activities.SignatureView$1
  com.example.allinone.Activities.SignatureView$2
-com/example/allinone/Activities/LoginActivity.java
- com.example.allinone.Activities.LoginActivity
- com.example.allinone.Activities.LoginActivity$1
- com.example.allinone.Activities.LoginActivity$2
- com.example.allinone.Activities.LoginActivity$3
- com.example.allinone.Activities.LoginActivity$4
- com.example.allinone.Activities.LoginActivity$5
-com/example/allinone/Activities/VoiceToText.java
- com.example.allinone.Activities.VoiceToText
- com.example.allinone.Activities.VoiceToText$1
-com/example/allinone/RecyclerViews/GSeventhRecView/OfferAdapter.java
- com.example.allinone.RecyclerViews.GSeventhRecView.OfferAdapter
- com.example.allinone.RecyclerViews.GSeventhRecView.OfferAdapter$OfferViewHolder
-com/example/allinone/Activities/PermissionsActivity.java
- com.example.allinone.Activities.PermissionsActivity
- com.example.allinone.Activities.PermissionsActivity$1
- com.example.allinone.Activities.PermissionsActivity$10
- com.example.allinone.Activities.PermissionsActivity$2
- com.example.allinone.Activities.PermissionsActivity$3
- com.example.allinone.Activities.PermissionsActivity$4
- com.example.allinone.Activities.PermissionsActivity$5
- com.example.allinone.Activities.PermissionsActivity$6
- com.example.allinone.Activities.PermissionsActivity$7
- com.example.allinone.Activities.PermissionsActivity$8
- com.example.allinone.Activities.PermissionsActivity$9
-com/example/allinone/RecyclerViews/DFourthRecView/RecyclerViewAdapter.java
- com.example.allinone.RecyclerViews.DFourthRecView.RecyclerViewAdapter
- com.example.allinone.RecyclerViews.DFourthRecView.RecyclerViewAdapter$1
- com.example.allinone.RecyclerViews.DFourthRecView.RecyclerViewAdapter$MyViewHolder
-com/example/allinone/CropImage/CropImageActivity.java
- com.example.allinone.CropImage.CropImageActivity
- com.example.allinone.CropImage.CropImageActivity$1
- com.example.allinone.CropImage.CropImageActivity$2
-com/example/allinone/Activities/CameraGalleryPaths/ImageFilePath.java
- com.example.allinone.Activities.CameraGalleryPaths.ImageFilePath
-com/example/allinone/RecyclerViews/CThirdRecView/MyAdapter.java
- com.example.allinone.RecyclerViews.CThirdRecView.MyAdapter
- com.example.allinone.RecyclerViews.CThirdRecView.MyAdapter$1
- com.example.allinone.RecyclerViews.CThirdRecView.MyAdapter$ViewHolder
-com/example/allinone/UploadImageClasses/ViewImageClasses/CanvasViewActivity1.java
- com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1
- com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1$1
- com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1$2
-com/example/allinone/RecyclerViews/BSecondRecView/UsingGitHubApi.java
- com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi
- com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi$1
- com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi$2
-com/example/allinone/HelperClasses/Utils.java
- com.example.allinone.HelperClasses.Utils
- com.example.allinone.HelperClasses.Utils$1
-com/example/allinone/APIParse/XmlToJson/XmlToJson1.java
- com.example.allinone.APIParse.XmlToJson.XmlToJson1
- com.example.allinone.APIParse.XmlToJson.XmlToJson1$1
- com.example.allinone.APIParse.XmlToJson.XmlToJson1$Builder
-com/example/allinone/RecyclerViews/BSecondRecView/GithubAdapter.java
- com.example.allinone.RecyclerViews.BSecondRecView.GithubAdapter
- com.example.allinone.RecyclerViews.BSecondRecView.GithubAdapter$1
- com.example.allinone.RecyclerViews.BSecondRecView.GithubAdapter$GithubViewHolder
-com/example/allinone/BuildConfig.java
- com.example.allinone.BuildConfig
-com/example/allinone/APIParse/XMLPost.java
- com.example.allinone.APIParse.XMLPost
- com.example.allinone.APIParse.XMLPost$1
- com.example.allinone.APIParse.XMLPost$2
- com.example.allinone.APIParse.XMLPost$3
 com/example/allinone/RecyclerViews/HEighthRecView/Trips_Fragment_Click.java
  com.example.allinone.RecyclerViews.HEighthRecView.Trips_Fragment_Click
  com.example.allinone.RecyclerViews.HEighthRecView.Trips_Fragment_Click$1
  com.example.allinone.RecyclerViews.HEighthRecView.Trips_Fragment_Click$2
-com/example/allinone/RecyclerViews/HEighthRecView/Delayed_Trips_Fragment.java
- com.example.allinone.RecyclerViews.HEighthRecView.Delayed_Trips_Fragment
- com.example.allinone.RecyclerViews.HEighthRecView.Delayed_Trips_Fragment$1
- com.example.allinone.RecyclerViews.HEighthRecView.Delayed_Trips_Fragment$2
-com/example/allinone/RecyclerViews/HEighthRecView/TripsActivity.java
- com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity
- com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity$1
- com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity$ViewpagerAdapter
+com/example/allinone/RecyclerViews/DFourthRecView/RecyclerViewAdapter.java
+ com.example.allinone.RecyclerViews.DFourthRecView.RecyclerViewAdapter
+ com.example.allinone.RecyclerViews.DFourthRecView.RecyclerViewAdapter$1
+ com.example.allinone.RecyclerViews.DFourthRecView.RecyclerViewAdapter$MyViewHolder
+com/example/allinone/Activities/CameraGalleryPaths/ImageFilePath.java
+ com.example.allinone.Activities.CameraGalleryPaths.ImageFilePath
+com/example/allinone/Activities/UI/EditTextTypes.java
+ com.example.allinone.Activities.UI.EditTextTypes
+com/example/allinone/APIParse/Volley/POSTApi.java
+ com.example.allinone.APIParse.Volley.POSTApi
+ com.example.allinone.APIParse.Volley.POSTApi$1
+ com.example.allinone.APIParse.Volley.POSTApi$2
+ com.example.allinone.APIParse.Volley.POSTApi$3
+ com.example.allinone.APIParse.Volley.POSTApi$4
+ com.example.allinone.APIParse.Volley.POSTApi$5
+ com.example.allinone.APIParse.Volley.POSTApi$6
+com/example/allinone/RecyclerViews/BSecondRecView/UsingGitHubApi.java
+ com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi
+ com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi$1
+ com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi$2
+com/example/allinone/APIParse/XmlToJson/XmlToJson1.java
+ com.example.allinone.APIParse.XmlToJson.XmlToJson1
+ com.example.allinone.APIParse.XmlToJson.XmlToJson1$1
+ com.example.allinone.APIParse.XmlToJson.XmlToJson1$Builder
+com/example/allinone/RecyclerViews/FSixthRecView/UsersInfoApi.java
+ com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi
+ com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$1
+ com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$2

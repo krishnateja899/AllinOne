@@ -1,0 +1,8 @@
+> The following is the code for upload image/Multipart.
+> Copy all the files in the folder or download the folder.
+> Open the folder in VS code and open terminal.
+> Enter: npm start
+> Then the code will open in: http://localhost:4000/upload
+> You can then upload the images using the api.
+
+Video reference: https://www.youtube.com/watch?v=jn3tYh2QQ-g

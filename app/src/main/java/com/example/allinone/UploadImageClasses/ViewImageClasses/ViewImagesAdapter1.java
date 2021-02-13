@@ -297,12 +297,13 @@ public class ViewImagesAdapter1 extends RecyclerView.Adapter<ViewImagesAdapter1.
 
     }
 
-    public class Holder extends RecyclerView.ViewHolder {
+    public static class Holder extends RecyclerView.ViewHolder {
         TextView fileName;
         FrameLayout layout;
-        LinearLayout restLayout,mainView;
+        LinearLayout restLayout, mainView;
         ImageView fileFormat, deleteImg;
         ProgressBar pro;
+
         public Holder(@NonNull View itemView) {
             super(itemView);
             layout = itemView.findViewById(R.id.files_bar);

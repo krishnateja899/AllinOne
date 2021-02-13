@@ -18,6 +18,9 @@ import com.example.allinone.HelperClasses.Utils;
 import com.example.allinone.R;
 
 import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 
 import static com.example.allinone.HelperClasses.Utils.REQUEST_IMAGE_CAPTURE;
 
@@ -70,6 +73,22 @@ public class SharedPreference extends AppCompatActivity {
         String imageEncoded = Base64.encodeToString(b, Base64.DEFAULT);
         Log.d("Image Log:", imageEncoded);
         return imageEncoded;
+    }
+
+    //method for converting file to base64
+    public static String encodeFileToBase64(String imagePath) {
+        File imageFile = new File(imagePath);
+        FileInputStream fis = null;
+        try {
+            fis = new FileInputStream(imageFile);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        Bitmap bm = BitmapFactory.decodeStream(fis);
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        bm.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+        byte[] b = baos.toByteArray();
+        return Base64.encodeToString(b, Base64.DEFAULT);
     }
 
     // method for base64 to bitmap

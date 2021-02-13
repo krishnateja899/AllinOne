@@ -49,7 +49,7 @@ public class UploadImages extends AppCompatActivity {
 
     private String[] permissions;
     private File mFileTemp;
-    private String path,fileName;
+    private String path, fileName;
     private FileCounter counter;
     private ArrayList<SpareImages1> tempImages;
     private int allCount, fileCount = 0, webCount = 0;
@@ -59,25 +59,22 @@ public class UploadImages extends AppCompatActivity {
     public static final int REQUEST_CODE_WRITE_ON_IMAGE = 0x4;
 
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_upload_images);
 
-        camera=findViewById(R.id.ic_camera);
-        gallery=findViewById(R.id.ic_file);
-        mic=findViewById(R.id.ic_mic);
-        imgCount=findViewById(R.id.files_attach);
-        showImage=findViewById(R.id.showImage);
+        camera = findViewById(R.id.ic_camera);
+        gallery = findViewById(R.id.ic_file);
+        mic = findViewById(R.id.ic_mic);
+        imgCount = findViewById(R.id.files_attach);
+        showImage = findViewById(R.id.showImage);
 
         path = getExternalFilesDir(Environment.DIRECTORY_PICTURES) + "/Spares1/";
         permissions = new String[]{Manifest.permission.CAMERA, Manifest.permission.WRITE_EXTERNAL_STORAGE};
         tempImages = new ArrayList<>();
         counter = new FileCounter();
         LocalBroadcastManager.getInstance(this).registerReceiver(counter, new IntentFilter("images_file_count"));
-
 
 
         camera.setOnClickListener(new View.OnClickListener() {
@@ -110,6 +107,7 @@ public class UploadImages extends AppCompatActivity {
                     sendImages();
             }
         });
+
     }
 
 
@@ -139,16 +137,16 @@ public class UploadImages extends AppCompatActivity {
     public void openCamera() {
         Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
 
-            try {
-                mFileTemp = createCameraImageFile();
-            } catch (Exception ex) {
-                ex.printStackTrace();
-            }
-            if (mFileTemp != null) {
-                Uri photoURI = FileProvider.getUriForFile(this, getPackageName(), mFileTemp);
-                takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);
-                startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
-            }
+        try {
+            mFileTemp = createCameraImageFile();
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+        if (mFileTemp != null) {
+            Uri photoURI = FileProvider.getUriForFile(this, getPackageName(), mFileTemp);
+            takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);
+            startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
+        }
     }
 
     private File createCameraImageFile() {
@@ -216,10 +214,7 @@ public class UploadImages extends AppCompatActivity {
                     fileCount = fileCount + 1;
                     allCount = fileCount + webCount;
                     String count;
-                    if (allCount > 1)
-                        count = allCount + " Files Attached";
-                    else
-                        count = allCount + " Files Attached";
+                    count = allCount + " Files Attached";
                     imgCount.setText(count);
                     tempImages.add(new SpareImages1(1, id, fileName, path));
                 } else {
@@ -242,7 +237,7 @@ public class UploadImages extends AppCompatActivity {
                             Uri photoURI = FileProvider.getUriForFile(this, getPackageName(), mFileTemp);
                             InputStream inputStream = getContentResolver().openInputStream(data.getData());
                             FileOutputStream fileOutputStream = new FileOutputStream(mFileTemp);
-                            Log.d(TAG, "FileOutputStream: "+"this"+fileOutputStream);
+                            Log.d(TAG, "FileOutputStream: " + "this" + fileOutputStream);
                             if (inputStream != null)
                                 copyStream(inputStream, fileOutputStream);
                             fileOutputStream.close();

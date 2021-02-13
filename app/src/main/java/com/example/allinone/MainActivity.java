@@ -8,20 +8,23 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.allinone.Activities.AutoCompleteSpinners;
+import com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity;
 import com.example.allinone.Activities.ContinuousGPSUpdate;
 import com.example.allinone.Activities.DataBase;
 import com.example.allinone.Activities.DialogActivity;
 import com.example.allinone.Activities.FingerPrintActivity;
 import com.example.allinone.Activities.GPSTurnON;
 import com.example.allinone.Activities.LoginActivity;
+import com.example.allinone.Activities.OtherFeatures;
 import com.example.allinone.Activities.PermissionsActivity;
 import com.example.allinone.Activities.QRCodes.QRCodeActivity;
 import com.example.allinone.Activities.SearchFilter.SearchFilterActivity;
 import com.example.allinone.Activities.SharedPreference;
 import com.example.allinone.Activities.SignatureView;
+import com.example.allinone.Activities.StepperLayout;
 import com.example.allinone.Activities.TimeDateActivity;
+import com.example.allinone.Activities.UI.UiComponents;
 import com.example.allinone.Activities.VoiceToText;
-import com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity;
 import com.example.allinone.CropImage.CropImageActivity;
 import com.example.allinone.Messaging_Socket.MessagingActivity;
 import com.example.allinone.RecyclerViews.RecyclerMainActivity;
@@ -53,6 +56,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button DataBase = findViewById(R.id.dataBase);
         Button searchFilter = findViewById(R.id.searchFilter);
         Button recyclerViews = findViewById(R.id.recyclerViews);
+        Button randomFeatures = findViewById(R.id.randomFeatures);
+        Button stepperLayout = findViewById(R.id.stepperLayout);
+        Button uiComp = findViewById(R.id.uiComp);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
@@ -67,6 +73,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         DataBase.setOnClickListener(this);
         searchFilter.setOnClickListener(this);
         recyclerViews.setOnClickListener(this);
+        randomFeatures.setOnClickListener(this);
+        stepperLayout.setOnClickListener(this);
+        uiComp.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -186,7 +195,20 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(i18);
                 break;
 
-        }
+            case R.id.randomFeatures:
+                Intent i19 = new Intent(MainActivity.this, OtherFeatures.class);
+                startActivity(i19);
+                break;
 
+            case R.id.stepperLayout:
+                Intent i20 = new Intent(MainActivity.this, StepperLayout.class);
+                startActivity(i20);
+                break;
+
+            case R.id.uiComp:
+                Intent i21 = new Intent(MainActivity.this, UiComponents.class);
+                startActivity(i21);
+                break;
+        }
     }
 }

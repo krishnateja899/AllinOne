@@ -20,6 +20,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import com.example.allinone.Fragments.DialogFromClass;
 import com.example.allinone.HelperClasses.Utils;
 import com.example.allinone.R;
 
@@ -47,6 +48,7 @@ public class DialogActivity extends AppCompatActivity {
         dialog_btn5 = findViewById(R.id.dialog_btn5);
         Button dialog_btn6 = findViewById(R.id.dialog_btn6);
         Button dialog_btn7 = findViewById(R.id.dialog_btn7);
+        Button dialog_btn8 = findViewById(R.id.dialog_btn8);
 
         dialog_btn1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -94,6 +96,14 @@ public class DialogActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Utils.OpenGallery(DialogActivity.this, 1);
+            }
+        });
+
+        dialog_btn8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                DialogFromClass dialog = new DialogFromClass(DialogActivity.this);
+                dialog.show();
             }
         });
     }
@@ -234,5 +244,9 @@ public class DialogActivity extends AppCompatActivity {
         //Creating dialog box
         androidx.appcompat.app.AlertDialog alert = builder.create();
         alert.show();
+    }
+
+    private void DialogBox6() {
+
     }
 }

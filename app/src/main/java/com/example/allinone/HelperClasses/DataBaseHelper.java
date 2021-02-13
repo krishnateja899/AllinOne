@@ -11,8 +11,11 @@ import android.util.Log;
 import androidx.annotation.Nullable;
 
 import com.example.allinone.Modals.DataBaseExampleModal;
+import com.example.allinone.Modals.SampleDatabaseExample;
 
 import java.io.ByteArrayOutputStream;
+import java.util.ArrayList;
+import java.util.List;
 
 import static android.content.ContentValues.TAG;
 
@@ -134,6 +137,35 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         }
         cursor.close();
         return true;
+    }
+
+    //For getting an list from table
+    public List<SampleDatabaseExample> GetImgDetails(String codes) {
+        List<SampleDatabaseExample> listImage = new ArrayList<SampleDatabaseExample>();
+        SQLiteDatabase db = this.getWritableDatabase();
+        String query = "SELECT " + "CUSTOMER_ID" + ", " + "CONTRACT_ID" + ", " + "NUMBER_ORDER_CLIENT" + " FROM " + "TABLE_TOTAL_LIST_DETAILS" +
+                " WHERE " + "HAWB_CODE" + " ='" + codes + "' OR " + "NUMBER_ORDER_CLIENT" + " ='" + codes + "'";
+        Cursor cursor = db.rawQuery(query, null);
+        if (cursor.moveToFirst()) {
+            do {
+                SampleDatabaseExample modal = new SampleDatabaseExample();
+                try {
+                    modal.setCustomerCode(Integer.parseInt(cursor.getString(0)));
+                    modal.setContractCode(Integer.parseInt(cursor.getString(1)));
+                    modal.setCustomerNumber(cursor.getString(2));
+                } catch (NumberFormatException e) {
+                    Log.e(TAG, "GetImgDetails: " + e.getMessage());
+                }
+                listImage.add(modal);
+            } while (cursor.moveToNext());
+            cursor.close();
+        }
+        return listImage;
+        //How to get data
+        //java.util.List<SampleDatabaseExample> imageModals = mDatabaseHelper.GetImgDetails(hawb.getText().toString());
+        //for (SampleDatabaseExample list231 : imageModals) {
+        //String imageName1 = list231.getCustomerCode() + list231.getContractCode() + list231.getCustomerNumber();
+        // }
     }
 
 }

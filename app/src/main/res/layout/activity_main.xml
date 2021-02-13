@@ -232,6 +232,44 @@
 
             </LinearLayout>
 
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/randomFeatures"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/TenD_padding"
+                    android:text="@string/button_22"
+                    android:layout_marginStart="20dp" />
+
+                <Button
+                    android:id="@+id/stepperLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/TenD_padding"
+                    android:text="@string/button_23"
+                    android:layout_marginStart="@dimen/TenD_padding" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/uiComp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/TenD_padding"
+                    android:text="@string/button_24"
+                    android:layout_marginStart="20dp" />
+
+            </LinearLayout>
+
 
         </LinearLayout>
 

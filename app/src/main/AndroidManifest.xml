@@ -21,7 +21,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AllinOne"
         android:usesCleartextTraffic="true">
-        <activity android:name=".RecyclerViews.HEighthRecView.TripsActivity"></activity>
+        <activity android:name=".Activities.UI.EditTextTypes"></activity>
+        <activity android:name=".Activities.UI.ButtonTypes" />
+        <activity android:name=".Activities.UI.UiComponents" />
+        <activity android:name=".Activities.UI.BackgroundsColors" />
+        <activity android:name=".Activities.StepperLayout" />
+        <activity android:name=".Activities.SplashWelcome" />
+        <activity android:name=".Activities.OtherFeatures" />
+        <activity android:name=".RecyclerViews.HEighthRecView.TripsActivity" />
         <activity android:name=".RecyclerViews.GSeventhRecView.DotIndicatorRecView" />
         <activity android:name=".RecyclerViews.FSixthRecView.UsersInfoApi" />
         <activity android:name=".RecyclerViews.EFifthRecView.FifthRecView" />

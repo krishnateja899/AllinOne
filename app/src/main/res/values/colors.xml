@@ -10,4 +10,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="for_lines_borders_dark_grey">#d2d1d1</color>
     <color name="very_dark_grey">#5A5A5A</color>
+    <color name="red">#F44336</color>
 </resources>

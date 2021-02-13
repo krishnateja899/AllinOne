@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.UI.EditTextTypes">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            android:paddingStart="5dp"
+            android:background="@drawable/edit_text_autocomplete_grey_border"
+            android:hint="Example" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            android:hint="Example">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            app:startIconDrawable="@drawable/ic_camera"
+            app:startIconContentDescription="Camera"
+
+            android:hint="Example">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            app:endIconMode="password_toggle"
+            android:hint="Password">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            app:endIconMode="clear_text"
+            android:hint="Remove Text">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            app:endIconMode="dropdown_menu"
+            android:hint="DropDown">
+
+            <AutoCompleteTextView
+                android:id="@+id/autocomplete"
+                android:paddingStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            app:helperTextEnabled="true"
+            app:helperText="This is a test"
+            android:hint="Helper Text">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/TenD_padding"
+            android:layout_marginStart="@dimen/TenD_padding"
+            android:layout_marginEnd="@dimen/TenD_padding"
+            app:counterEnabled="true"
+            app:counterMaxLength="10"
+            android:hint="Counter">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>
