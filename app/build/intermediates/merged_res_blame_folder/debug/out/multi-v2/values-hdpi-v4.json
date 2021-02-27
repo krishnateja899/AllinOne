@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Krishna Teja\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\krish\\AndroidStudioProjects\\AllinOne\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Krishna Teja\\.gradle\\caches\\transforms-2\\files-2.1\\f6a374075152e8dfc1fa6baf3d6beb61\\jetified-core-1.9.13\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\krish\\.gradle\\caches\\transforms-2\\files-2.1\\51dd90d98c838434d12833d0f91c9a7c\\jetified-core-1.9.13\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Krishna Teja\\.gradle\\caches\\transforms-2\\files-2.1\\4f9c7f78c15bb692cf0895b881aafbad\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\krish\\.gradle\\caches\\transforms-2\\files-2.1\\44b21666f861b2b454523071d69d07d7\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

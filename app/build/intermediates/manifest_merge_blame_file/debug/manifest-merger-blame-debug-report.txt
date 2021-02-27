@@ -6,281 +6,294 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="20"
-8-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
+8-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
-10
-11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-11-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:5:5-81
-11-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:5:22-78
-12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:6:5-79
-12-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:6:22-76
-13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:7:5-79
-13-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:7:22-76
-14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:8:5-67
-14-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:8:22-64
-15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:9:5-80
-15-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:9:22-77
-16    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-16-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:10:5-74
-16-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:10:22-71
-17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:11:5-81
-17-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:11:22-78
-18    <uses-permission android:name="android.permission.CAMERA" />
-18-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:12:5-65
-18-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:12:22-62
-19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-19-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:13:5-71
-19-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:13:22-68
-20    <uses-permission android:name="android.permission.CALL_PHONE" />
-20-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:14:5-69
-20-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:14:22-66
-21    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-21-->[androidx.biometric:biometric:1.0.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:24:5-72
-21-->[androidx.biometric:biometric:1.0.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:24:22-69
-22
-23    <uses-feature
-23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
-24        android:glEsVersion="0x00020000"
-24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
-25        android:required="true" />
-25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+9-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:11:5-79
+17-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:12:5-67
+18-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:13:5-80
+19-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:13:22-77
+20    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+20-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:14:5-74
+20-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:14:22-71
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:15:5-81
+21-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:15:22-78
+22    <uses-permission android:name="android.permission.CAMERA" />
+22-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:16:5-65
+22-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:16:22-62
+23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+23-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:17:5-71
+23-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:17:22-68
+24    <uses-permission android:name="android.permission.CALL_PHONE" />
+24-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:18:5-69
+24-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:18:22-66
+25    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+25-->[androidx.biometric:biometric:1.1.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\c9632f69b47ca82aca9c50ed50499d06\biometric-1.1.0\AndroidManifest.xml:24:5-72
+25-->[androidx.biometric:biometric:1.1.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\c9632f69b47ca82aca9c50ed50499d06\biometric-1.1.0\AndroidManifest.xml:24:22-69
 26
-27    <application
-27-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:16:5-89:19
-28        android:allowBackup="true"
-28-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:17:9-35
-29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-29-->[androidx.core:core:1.3.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:18-86
-30        android:debuggable="true"
-31        android:icon="@mipmap/ic_launcher"
-31-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:18:9-43
-32        android:label="@string/app_name"
-32-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:19:9-41
-33        android:roundIcon="@mipmap/ic_launcher_round"
-33-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:20:9-54
-34        android:supportsRtl="true"
-34-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:21:9-35
-35        android:testOnly="true"
-36        android:theme="@style/Theme.AllinOne"
-36-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:22:9-46
-37        android:usesCleartextTraffic="true" >
-37-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:23:9-44
-38        <activity android:name="com.example.allinone.Activities.UI.EditTextTypes" />
-38-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:24:9-74
-38-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:24:19-62
-39        <activity android:name="com.example.allinone.Activities.UI.ButtonTypes" />
-39-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:25:9-63
-39-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:25:19-60
-40        <activity android:name="com.example.allinone.Activities.UI.UiComponents" />
-40-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:26:9-64
-40-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:26:19-61
-41        <activity android:name="com.example.allinone.Activities.UI.BackgroundsColors" />
-41-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:27:9-69
-41-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:27:19-66
-42        <activity android:name="com.example.allinone.Activities.StepperLayout" />
-42-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:9-62
-42-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:19-59
-43        <activity android:name="com.example.allinone.Activities.SplashWelcome" />
-43-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:29:9-62
-43-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:29:19-59
-44        <activity android:name="com.example.allinone.Activities.OtherFeatures" />
-44-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:30:9-62
-44-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:30:19-59
-45        <activity android:name="com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity" />
-45-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:31:9-80
-45-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:31:19-77
-46        <activity android:name="com.example.allinone.RecyclerViews.GSeventhRecView.DotIndicatorRecView" />
-46-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:9-87
-46-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:32:19-84
-47        <activity android:name="com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi" />
-47-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:9-78
-47-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:33:19-75
-48        <activity android:name="com.example.allinone.RecyclerViews.EFifthRecView.FifthRecView" />
-48-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:9-78
-48-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:34:19-75
-49        <activity android:name="com.example.allinone.RecyclerViews.DFourthRecView.AnimeActivity" />
-49-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:9-80
-49-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:35:19-77
-50        <activity android:name="com.example.allinone.RecyclerViews.DFourthRecView.AnimeRecView" />
-50-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:9-79
-50-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:36:19-76
-51        <activity android:name="com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView" />
-51-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:37:9-78
-51-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:37:19-75
-52        <activity android:name="com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi" />
-52-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:38:9-81
-52-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:38:19-78
-53        <activity android:name="com.example.allinone.RecyclerViews.AFirstRecView.UsingOfflineData" />
-53-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:39:9-82
-53-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:39:19-79
-54        <activity android:name="com.example.allinone.RecyclerViews.RecyclerMainActivity" />
-54-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:40:9-72
-54-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:40:19-69
-55        <activity android:name="com.example.allinone.Activities.SearchFilter.SearchFilterActivity" />
-55-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:41:9-82
-55-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:41:19-79
-56        <activity android:name="com.example.allinone.Activities.DataBase" />
-56-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:42:9-57
-56-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:42:19-54
-57        <activity android:name="com.example.allinone.Activities.SharedPreference" />
-57-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:43:9-65
-57-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:43:19-62
-58        <activity android:name="com.example.allinone.Activities.AutoCompleteSpinners" />
-58-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:44:9-69
-58-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:44:19-66
-59        <activity android:name="com.example.allinone.Activities.FingerPrintScanners.FingerPrintScanManager" />
-59-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:45:9-91
-59-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:45:19-88
-60        <activity android:name="com.example.allinone.Activities.FingerPrintActivity" />
-60-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:9-68
-60-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:19-65
-61        <activity
-61-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:47:9-49:66
-62            android:name="com.example.allinone.Activities.QRCodes.QRCode2"
-62-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:48:13-55
-63            android:theme="@style/Theme.AppCompat.NoActionBar" />
-63-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:49:13-63
-64        <activity
-64-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:50:9-52:66
-65            android:name="com.example.allinone.Activities.QRCodes.QRCode1"
-65-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:51:13-55
-66            android:theme="@style/Theme.AppCompat.NoActionBar" />
-66-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:52:13-63
-67        <activity android:name="com.example.allinone.Activities.QRCodes.QRCodeActivity" />
-67-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:9-71
-67-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:19-68
-68        <activity android:name="com.example.allinone.Activities.RegisterActivity" />
-68-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:9-65
-68-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:19-62
-69        <activity android:name="com.example.allinone.Activities.LoginActivity" />
-69-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:9-62
-69-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:19-59
-70        <activity android:name="com.example.allinone.CropImage.CropClasses.CropImage" />
-70-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:56:9-69
-70-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:56:19-66
-71        <activity android:name="com.example.allinone.CropImage.CropImageActivity" />
-71-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:9-65
-71-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:19-62
-72        <activity android:name="com.example.allinone.Activities.GPSTurnON" />
-72-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:58:9-58
-72-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:58:19-55
-73        <activity android:name="com.example.allinone.Messaging_Socket.ChatBoxActivity" />
-73-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:9-70
-73-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:19-67
-74        <activity android:name="com.example.allinone.Messaging_Socket.MessagingActivity" />
-74-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:60:9-72
-74-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:60:19-69
-75        <activity android:name="com.example.allinone.Activities.VoiceToText" />
-75-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:61:9-60
-75-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:61:19-57
-76        <activity android:name="com.example.allinone.Activities.SignatureView" />
-76-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:62:9-62
-76-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:62:19-59
-77        <activity android:name="com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity" />
-77-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:63:9-97
-77-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:63:19-94
-78        <activity android:name="com.example.allinone.Activities.ContinuousGPSUpdate" />
-78-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:64:9-68
-78-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:64:19-65
-79        <activity android:name="com.example.allinone.Activities.PermissionsActivity" />
-79-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:65:9-68
-79-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:65:19-65
-80        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1" />
-80-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:66:9-87
-80-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:66:19-84
-81        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1" />
-81-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:67:9-93
-81-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:67:19-90
-82        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1" />
-82-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:68:9-93
-82-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:68:19-90
-83        <activity android:name="com.example.allinone.Activities.DialogActivity" />
-83-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:69:9-63
-83-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:69:19-60
-84        <activity android:name="com.example.allinone.Activities.TimeDateActivity" />
-84-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:70:9-65
-84-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:70:19-62
-85        <activity android:name="com.example.allinone.UploadImageClasses.UploadImages" />
-85-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:71:9-69
-85-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:71:19-66
-86        <activity android:name="com.example.allinone.MainActivity" >
-86-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:72:9-78:20
-86-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:72:19-47
-87            <intent-filter>
-87-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:73:13-77:29
-88                <action android:name="android.intent.action.MAIN" />
-88-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:74:17-69
-88-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:74:25-66
-89
-90                <category android:name="android.intent.category.LAUNCHER" />
-90-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:76:17-77
-90-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:76:27-74
-91            </intent-filter>
-92        </activity>
-93
-94        <provider
-94-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:80:9-88:20
-95            android:name="androidx.core.content.FileProvider"
-95-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:81:13-62
-96            android:authorities="com.example.allinone"
-96-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:82:13-55
-97            android:exported="false"
-97-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:83:13-37
-98            android:grantUriPermissions="true" >
-98-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:84:13-47
-99            <meta-data
-99-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:85:13-87:54
-100                android:name="android.support.FILE_PROVIDER_PATHS"
-100-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:86:17-67
-101                android:resource="@xml/file_paths" />
-101-->C:\Users\Krishna Teja\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:87:17-51
-102        </provider>
-103
-104        <activity
-104-->[androidx.biometric:biometric:1.0.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:28:9-31:67
-105            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
-105-->[androidx.biometric:biometric:1.0.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:29:13-78
-106            android:exported="true"
-106-->[androidx.biometric:biometric:1.0.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:30:13-36
-107            android:theme="@style/DeviceCredentialHandlerTheme" />
-107-->[androidx.biometric:biometric:1.0.1] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c2054919278027102047810daf888dae\biometric-1.0.1\AndroidManifest.xml:31:13-64
-108
-109        <provider
-109-->[com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-110            android:name="com.squareup.picasso.PicassoProvider"
-110-->[com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-111            android:authorities="com.example.allinone.com.squareup.picasso"
-111-->[com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-112            android:exported="false" /> <!-- Needs to be explicitly declared on P+ -->
-112-->[com.squareup.picasso:picasso:2.71828] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\c5a513c3adff7d67bf1b9fc3ba9386f1\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-113        <uses-library
-113-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-114            android:name="org.apache.http.legacy"
-114-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-115            android:required="false" />
-115-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-116
-117        <activity
-117-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\0a776bc61390d87885643b31a80a578e\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
-118            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-118-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\0a776bc61390d87885643b31a80a578e\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
-119            android:exported="false"
-119-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\0a776bc61390d87885643b31a80a578e\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
-120            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-120-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\0a776bc61390d87885643b31a80a578e\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
-121
-122        <meta-data
-122-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\4da416a319957518ac6f573eb1464f67\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
-123            android:name="com.google.android.gms.version"
-123-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\4da416a319957518ac6f573eb1464f67\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
-124            android:value="@integer/google_play_services_version" />
-124-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Krishna Teja\.gradle\caches\transforms-2\files-2.1\4da416a319957518ac6f573eb1464f67\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
-125    </application>
-126
-127</manifest>
+27    <uses-feature
+27-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\8dd8e7c17a85a0661f86487a4c192d89\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+28        android:glEsVersion="0x00020000"
+28-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\8dd8e7c17a85a0661f86487a4c192d89\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+29        android:required="true" />
+29-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\8dd8e7c17a85a0661f86487a4c192d89\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+30
+31    <application
+31-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:20:5-106:19
+32        android:name="androidx.multidex.MultiDexApplication"
+33        android:allowBackup="true"
+33-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:21:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.3.2] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\4d17b62a4f98946aa00b8497fed506fc\core-1.3.2\AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:22:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:23:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:24:9-54
+39        android:supportsRtl="true"
+39-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:25:9-35
+40        android:testOnly="true"
+41        android:theme="@style/Theme.AllinOne"
+41-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:26:9-46
+42        android:usesCleartextTraffic="true" >
+42-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:27:9-44
+43        <activity android:name="com.example.allinone.Activities.MapActivity" />
+43-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:9-69
+43-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:28:19-57
+44        <!--
+45             The API key for Google Maps-based APIs is defined as a string resource.
+46             (See the file "res/values/google_maps_api.xml").
+47             Note that the API key is linked to the encryption key used to sign the APK.
+48             You need a different API key for each encryption key, including the release key that is used to
+49             sign the APK for publishing.
+50             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+51        -->
+52        <meta-data
+52-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:37:9-39:55
+53            android:name="com.google.android.geo.API_KEY"
+53-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:38:13-58
+54            android:value="@string/google_maps_key" />
+54-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:39:13-52
+55
+56        <activity android:name="com.example.allinone.Activities.UI.EditTextTypes" />
+56-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:41:9-65
+56-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:41:19-62
+57        <activity android:name="com.example.allinone.Activities.UI.ButtonTypes" />
+57-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:42:9-63
+57-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:42:19-60
+58        <activity android:name="com.example.allinone.Activities.UI.UiComponents" />
+58-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:43:9-64
+58-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:43:19-61
+59        <activity android:name="com.example.allinone.Activities.UI.BackgroundsColors" />
+59-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:44:9-69
+59-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:44:19-66
+60        <activity android:name="com.example.allinone.Activities.StepperLayout" />
+60-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:45:9-62
+60-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:45:19-59
+61        <activity android:name="com.example.allinone.Activities.SplashWelcome" />
+61-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:9-62
+61-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:46:19-59
+62        <activity android:name="com.example.allinone.Activities.OtherFeatures" />
+62-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:47:9-62
+62-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:47:19-59
+63        <activity android:name="com.example.allinone.RecyclerViews.HEighthRecView.TripsActivity" />
+63-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:48:9-80
+63-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:48:19-77
+64        <activity android:name="com.example.allinone.RecyclerViews.GSeventhRecView.DotIndicatorRecView" />
+64-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:49:9-87
+64-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:49:19-84
+65        <activity android:name="com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi" />
+65-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:50:9-78
+65-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:50:19-75
+66        <activity android:name="com.example.allinone.RecyclerViews.EFifthRecView.FifthRecView" />
+66-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:51:9-78
+66-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:51:19-75
+67        <activity android:name="com.example.allinone.RecyclerViews.DFourthRecView.AnimeActivity" />
+67-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:52:9-80
+67-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:52:19-77
+68        <activity android:name="com.example.allinone.RecyclerViews.DFourthRecView.AnimeRecView" />
+68-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:9-79
+68-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:53:19-76
+69        <activity android:name="com.example.allinone.RecyclerViews.CThirdRecView.ThirdRecView" />
+69-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:9-78
+69-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:54:19-75
+70        <activity android:name="com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi" />
+70-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:9-81
+70-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:55:19-78
+71        <activity android:name="com.example.allinone.RecyclerViews.AFirstRecView.UsingOfflineData" />
+71-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:56:9-82
+71-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:56:19-79
+72        <activity android:name="com.example.allinone.RecyclerViews.RecyclerMainActivity" />
+72-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:9-72
+72-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:57:19-69
+73        <activity android:name="com.example.allinone.Activities.SearchFilter.SearchFilterActivity" />
+73-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:58:9-82
+73-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:58:19-79
+74        <activity android:name="com.example.allinone.Activities.DataBase" />
+74-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:9-57
+74-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:59:19-54
+75        <activity android:name="com.example.allinone.Activities.SharedPreference" />
+75-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:60:9-65
+75-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:60:19-62
+76        <activity android:name="com.example.allinone.Activities.AutoCompleteSpinners" />
+76-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:61:9-69
+76-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:61:19-66
+77        <activity android:name="com.example.allinone.Activities.FingerPrintScanners.FingerPrintScanManager" />
+77-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:62:9-91
+77-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:62:19-88
+78        <activity android:name="com.example.allinone.Activities.FingerPrintActivity" />
+78-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:63:9-68
+78-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:63:19-65
+79        <activity
+79-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:64:9-66:66
+80            android:name="com.example.allinone.Activities.QRCodes.QRCode2"
+80-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:65:13-55
+81            android:theme="@style/Theme.AppCompat.NoActionBar" />
+81-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:66:13-63
+82        <activity
+82-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:67:9-69:66
+83            android:name="com.example.allinone.Activities.QRCodes.QRCode1"
+83-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:68:13-55
+84            android:theme="@style/Theme.AppCompat.NoActionBar" />
+84-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:69:13-63
+85        <activity android:name="com.example.allinone.Activities.QRCodes.QRCodeActivity" />
+85-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:70:9-71
+85-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:70:19-68
+86        <activity android:name="com.example.allinone.Activities.RegisterActivity" />
+86-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:71:9-65
+86-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:71:19-62
+87        <activity android:name="com.example.allinone.Activities.LoginActivity" />
+87-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:72:9-62
+87-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:72:19-59
+88        <activity android:name="com.example.allinone.CropImage.CropClasses.CropImage" />
+88-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:73:9-69
+88-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:73:19-66
+89        <activity android:name="com.example.allinone.CropImage.CropImageActivity" />
+89-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:74:9-65
+89-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:74:19-62
+90        <activity android:name="com.example.allinone.Activities.GPSTurnON" />
+90-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:75:9-58
+90-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:75:19-55
+91        <activity android:name="com.example.allinone.Messaging_Socket.ChatBoxActivity" />
+91-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:76:9-70
+91-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:76:19-67
+92        <activity android:name="com.example.allinone.Messaging_Socket.MessagingActivity" />
+92-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:77:9-72
+92-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:77:19-69
+93        <activity android:name="com.example.allinone.Activities.VoiceToText" />
+93-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:78:9-60
+93-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:78:19-57
+94        <activity android:name="com.example.allinone.Activities.SignatureView" />
+94-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:79:9-62
+94-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:79:19-59
+95        <activity android:name="com.example.allinone.Activities.CameraGalleryPaths.CameraGalleryPathSaveActivity" />
+95-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:80:9-97
+95-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:80:19-94
+96        <activity android:name="com.example.allinone.Activities.ContinuousGPSUpdate" />
+96-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:81:9-68
+96-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:81:19-65
+97        <activity android:name="com.example.allinone.Activities.PermissionsActivity" />
+97-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:82:9-68
+97-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:82:19-65
+98        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.DisplayImage1" />
+98-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:83:9-87
+98-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:83:19-84
+99        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.ViewImagesActivity1" />
+99-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:84:9-93
+99-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:84:19-90
+100        <activity android:name="com.example.allinone.UploadImageClasses.ViewImageClasses.CanvasViewActivity1" />
+100-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:85:9-93
+100-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:85:19-90
+101        <activity android:name="com.example.allinone.Activities.DialogActivity" />
+101-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:86:9-63
+101-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:86:19-60
+102        <activity android:name="com.example.allinone.Activities.TimeDateActivity" />
+102-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:87:9-65
+102-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:87:19-62
+103        <activity android:name="com.example.allinone.UploadImageClasses.UploadImages" />
+103-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:88:9-69
+103-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:88:19-66
+104        <activity android:name="com.example.allinone.MainActivity" >
+104-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:89:9-95:20
+104-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:89:19-47
+105            <intent-filter>
+105-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:90:13-94:29
+106                <action android:name="android.intent.action.MAIN" />
+106-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:91:17-69
+106-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:91:25-66
+107
+108                <category android:name="android.intent.category.LAUNCHER" />
+108-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:93:17-77
+108-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:93:27-74
+109            </intent-filter>
+110        </activity>
+111
+112        <provider
+112-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:97:9-105:20
+113            android:name="androidx.core.content.FileProvider"
+113-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:98:13-62
+114            android:authorities="com.example.allinone"
+114-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:99:13-55
+115            android:exported="false"
+115-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:100:13-37
+116            android:grantUriPermissions="true" >
+116-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:101:13-47
+117            <meta-data
+117-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:102:13-104:54
+118                android:name="android.support.FILE_PROVIDER_PATHS"
+118-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:103:17-67
+119                android:resource="@xml/file_paths" />
+119-->C:\Users\krish\AndroidStudioProjects\AllinOne\app\src\main\AndroidManifest.xml:104:17-51
+120        </provider>
+121        <provider
+121-->[com.squareup.picasso:picasso:2.71828] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\14d8800a5c0227bc2fcafe07bb71e6d8\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+122            android:name="com.squareup.picasso.PicassoProvider"
+122-->[com.squareup.picasso:picasso:2.71828] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\14d8800a5c0227bc2fcafe07bb71e6d8\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+123            android:authorities="com.example.allinone.com.squareup.picasso"
+123-->[com.squareup.picasso:picasso:2.71828] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\14d8800a5c0227bc2fcafe07bb71e6d8\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+124            android:exported="false" /> <!-- Needs to be explicitly declared on P+ -->
+124-->[com.squareup.picasso:picasso:2.71828] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\14d8800a5c0227bc2fcafe07bb71e6d8\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+125        <uses-library
+125-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\8dd8e7c17a85a0661f86487a4c192d89\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+126            android:name="org.apache.http.legacy"
+126-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\8dd8e7c17a85a0661f86487a4c192d89\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+127            android:required="false" />
+127-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\8dd8e7c17a85a0661f86487a4c192d89\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+128
+129        <activity
+129-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\28266df07d794c108049e87976624ebd\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+130            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+130-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\28266df07d794c108049e87976624ebd\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+131            android:exported="false"
+131-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\28266df07d794c108049e87976624ebd\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+132            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+132-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\28266df07d794c108049e87976624ebd\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+133
+134        <meta-data
+134-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\c49d23abb52f9b6fd6c2394142b78e2f\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+135            android:name="com.google.android.gms.version"
+135-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\c49d23abb52f9b6fd6c2394142b78e2f\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+136            android:value="@integer/google_play_services_version" />
+136-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\krish\.gradle\caches\transforms-2\files-2.1\c49d23abb52f9b6fd6c2394142b78e2f\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+137    </application>
+138
+139</manifest>

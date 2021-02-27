@@ -272,6 +272,9 @@ com/example/allinone/Activities/StepperLayout.java
  com.example.allinone.Activities.StepperLayout
 com/example/allinone/APIParse/XmlToJson/FileReader.java
  com.example.allinone.APIParse.XmlToJson.FileReader
+com/example/allinone/HelperClasses/GetCurrentLocation.java
+ com.example.allinone.HelperClasses.GetCurrentLocation
+ com.example.allinone.HelperClasses.GetCurrentLocation$1
 com/example/allinone/APIParse/XmlToJson/Node.java
  com.example.allinone.APIParse.XmlToJson.Node
  com.example.allinone.APIParse.XmlToJson.Node$Attribute
@@ -280,6 +283,10 @@ com/example/allinone/Messaging_Socket/MessagingActivity.java
  com.example.allinone.Messaging_Socket.MessagingActivity$1
 com/example/allinone/Messaging_Socket/Message.java
  com.example.allinone.Messaging_Socket.Message
+com/example/allinone/APIParse/XmlToJson/XmlToJson1.java
+ com.example.allinone.APIParse.XmlToJson.XmlToJson1
+ com.example.allinone.APIParse.XmlToJson.XmlToJson1$1
+ com.example.allinone.APIParse.XmlToJson.XmlToJson1$Builder
 com/example/allinone/Activities/RegisterActivity.java
  com.example.allinone.Activities.RegisterActivity
  com.example.allinone.Activities.RegisterActivity$1
@@ -297,14 +304,10 @@ com/example/allinone/Activities/ContinuousGPSUpdate.java
  com.example.allinone.Activities.ContinuousGPSUpdate
 com/example/allinone/Activities/FingerPrintScanners/FingerPrintScanManager.java
  com.example.allinone.Activities.FingerPrintScanners.FingerPrintScanManager
-com/example/allinone/MainActivity.java
- com.example.allinone.MainActivity
- com.example.allinone.MainActivity$1
- com.example.allinone.MainActivity$2
- com.example.allinone.MainActivity$3
- com.example.allinone.MainActivity$4
- com.example.allinone.MainActivity$5
- com.example.allinone.MainActivity$6
+com/example/allinone/RecyclerViews/FSixthRecView/UsersInfoApi.java
+ com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi
+ com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$1
+ com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$2
 com/example/allinone/RecyclerViews/DFourthRecView/Anime4.java
  com.example.allinone.RecyclerViews.DFourthRecView.Anime4
 com/example/allinone/Activities/QRCodes/QRCode2.java
@@ -392,11 +395,13 @@ com/example/allinone/RecyclerViews/BSecondRecView/UsingGitHubApi.java
  com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi
  com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi$1
  com.example.allinone.RecyclerViews.BSecondRecView.UsingGitHubApi$2
-com/example/allinone/APIParse/XmlToJson/XmlToJson1.java
- com.example.allinone.APIParse.XmlToJson.XmlToJson1
- com.example.allinone.APIParse.XmlToJson.XmlToJson1$1
- com.example.allinone.APIParse.XmlToJson.XmlToJson1$Builder
-com/example/allinone/RecyclerViews/FSixthRecView/UsersInfoApi.java
- com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi
- com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$1
- com.example.allinone.RecyclerViews.FSixthRecView.UsersInfoApi$2
+com/example/allinone/MainActivity.java
+ com.example.allinone.MainActivity
+ com.example.allinone.MainActivity$1
+ com.example.allinone.MainActivity$2
+ com.example.allinone.MainActivity$3
+ com.example.allinone.MainActivity$4
+ com.example.allinone.MainActivity$5
+ com.example.allinone.MainActivity$6
+com/example/allinone/Activities/MapActivity.java
+ com.example.allinone.Activities.MapActivity

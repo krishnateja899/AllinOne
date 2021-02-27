@@ -15,6 +15,7 @@ import com.example.allinone.Activities.DialogActivity;
 import com.example.allinone.Activities.FingerPrintActivity;
 import com.example.allinone.Activities.GPSTurnON;
 import com.example.allinone.Activities.LoginActivity;
+import com.example.allinone.Activities.MapActivity;
 import com.example.allinone.Activities.OtherFeatures;
 import com.example.allinone.Activities.PermissionsActivity;
 import com.example.allinone.Activities.QRCodes.QRCodeActivity;
@@ -59,6 +60,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button randomFeatures = findViewById(R.id.randomFeatures);
         Button stepperLayout = findViewById(R.id.stepperLayout);
         Button uiComp = findViewById(R.id.uiComp);
+        Button maps = findViewById(R.id.maps);
 
         signatureView.setOnClickListener(this);
         voice2Text.setOnClickListener(this);
@@ -76,6 +78,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         randomFeatures.setOnClickListener(this);
         stepperLayout.setOnClickListener(this);
         uiComp.setOnClickListener(this);
+        maps.setOnClickListener(this);
 
         timeDateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -208,6 +211,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.uiComp:
                 Intent i21 = new Intent(MainActivity.this, UiComponents.class);
                 startActivity(i21);
+                break;
+
+            case R.id.maps:
+                Intent i22 = new Intent(MainActivity.this, MapActivity.class);
+                startActivity(i22);
                 break;
         }
     }
